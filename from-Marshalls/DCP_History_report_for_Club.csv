@@ -1,5 +1,4 @@
 Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,add cc,ac,addl ac,ldr,add ldr,P1,P2,P3,P4,P5,P6,new members,addl members,Off Trained june,Off Trained Dec,renwl,off lst,DCP,Club status
-" "
 "Jun 12",41,D,03,2472534,Amdavad,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 12",41,D,01,2472534,Amdavad,20,22,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,1,1,,Active
 "Aug 12",41,D,01,2472534,Amdavad,20,22,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,1,1,,Active
@@ -105,7 +104,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,01,2472534,Amdavad,48,49,6,0,0,0,0,0,0,4,2,0,1,1,0,4,15,7,0,2,2,,Active
 "Feb 21",98,A,01,2472534,Amdavad,48,52,7,0,0,0,0,0,0,6,2,0,1,1,0,4,18,7,7,2,2,,Active
 "Mar 21",98,A,01,2472534,Amdavad,48,54,7,0,0,0,0,0,0,6,2,0,1,1,0,4,20,7,7,2,2,,Active
-" "
 "Apr 18",98,A,01,6931486,"Heritage City",20,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,A,01,6931486,"Heritage City",20,16,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Jul 18",98,A,01,6931486,"Heritage City",16,18,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,,Active
@@ -141,7 +139,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,01,6931486,"Heritage City",25,26,8,0,0,0,0,0,0,7,2,2,2,1,0,4,8,7,0,1,1,,Active
 "Feb 21",98,A,01,6931486,"Heritage City",25,30,9,0,0,0,0,0,0,7,2,2,2,1,0,4,11,7,7,1,1,,Active
 "Mar 21",98,A,01,6931486,"Heritage City",25,33,10,0,0,0,0,0,0,7,2,2,2,1,1,4,14,7,7,1,1,,Active
-" "
 "Dec 19",98,A,01,7709614,CorpOrate,25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 20",98,A,01,7709614,CorpOrate,25,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Feb 20",98,A,01,7709614,CorpOrate,25,27,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,7,1,1,,Active
@@ -158,7 +155,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,01,7709614,CorpOrate,20,20,3,0,0,0,0,0,0,7,2,1,0,0,0,4,1,7,0,1,0,,Active
 "Feb 21",98,A,01,7709614,CorpOrate,20,20,5,0,0,0,0,0,0,8,2,3,0,0,0,4,1,7,7,1,0,,Active
 "Mar 21",98,A,01,7709614,CorpOrate,20,21,5,0,0,0,0,0,0,8,2,3,0,0,0,4,2,7,7,1,0,,Active
-" "
 "Jun 16",98,B,01,5306488,Vadodara,20,27,5,0,0,1,0,1,0,0,0,0,0,0,0,4,4,0,0,1,1,D,Active
 "Aug 16",98,A,05,5306488,Vadodara,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Sep 16",98,A,01,5306488,Vadodara,27,32,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,0,1,1,,Active
@@ -216,7 +212,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,02,5306488,Vadodara,30,39,9,0,0,0,0,0,0,4,2,2,6,1,4,4,13,7,0,1,2,,Active
 "Feb 21",98,A,02,5306488,Vadodara,30,47,10,0,0,0,0,0,0,5,2,2,8,1,4,4,21,7,7,1,2,,Active
 "Mar 21",98,A,02,5306488,Vadodara,30,47,10,0,0,0,0,0,0,5,2,2,8,1,4,4,21,7,7,2,2,,Active
-" "
 "Apr 17",98,A,01,6090393,"Toastmasters Club of Allscripts Vadodara",28,28,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 17",98,A,01,6090393,"Toastmasters Club of Allscripts Vadodara",28,29,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Jun 17",98,A,01,6090393,"Toastmasters Club of Allscripts Vadodara",28,31,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,,Active
@@ -265,7 +260,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,02,6090393,"Toastmasters Club of Allscripts Vadodara",17,21,7,0,0,0,0,0,0,5,1,0,3,1,6,4,4,7,0,1,2,,Active
 "Feb 21",98,A,02,6090393,"Toastmasters Club of Allscripts Vadodara",17,21,8,0,0,0,0,0,0,5,1,0,3,1,6,4,4,7,7,1,2,,Active
 "Mar 21",98,A,02,6090393,"Toastmasters Club of Allscripts Vadodara",17,21,9,0,0,0,0,0,0,5,2,0,3,1,8,4,4,7,7,2,2,,Active
-" "
 "Mar 18",98,A,02,6886178,Apidel,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 18",98,A,02,6886178,Apidel,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 18",98,A,02,6886178,Apidel,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -303,7 +297,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,02,6886178,Apidel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
 "Feb 21",98,A,02,6886178,Apidel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
 "Mar 21",98,A,02,6886178,Apidel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
-" "
 "Mar 18",98,A,02,6886272,"Toastmasters Club of Baroda (TCB)",20,15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,,Active
 "Apr 18",98,A,02,6886272,"Toastmasters Club of Baroda (TCB)",20,23,3,1,0,0,0,1,1,0,0,0,0,0,0,3,0,0,0,2,1,,Active
 "May 18",98,A,02,6886272,"Toastmasters Club of Baroda (TCB)",20,24,6,2,1,1,0,1,1,0,0,0,0,0,0,4,0,0,0,2,1,D,Active
@@ -341,15 +334,12 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,02,6886272,"Toastmasters Club of Baroda (TCB)",25,26,9,0,0,0,0,0,0,8,2,8,5,1,5,4,6,7,0,1,2,,Active
 "Feb 21",98,A,02,6886272,"Toastmasters Club of Baroda (TCB)",25,30,10,0,0,0,0,0,0,9,2,8,6,1,5,4,10,7,7,2,2,,Active
 "Mar 21",98,A,02,6886272,"Toastmasters Club of Baroda (TCB)",25,32,10,0,0,0,0,0,0,9,2,8,7,1,5,4,12,7,7,2,2,,Active
-" "
 "Jan 21",98,A,02,7842705,"Vatt Thi Gujarati",20,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Feb 21",98,A,02,7842705,"Vatt Thi Gujarati",20,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,,Active
 "Mar 21",98,A,02,7842705,"Vatt Thi Gujarati",20,14,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,2,1,,Active
-" "
 "Jan 21",98,A,02,7854559,"Investis Digital India",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Feb 21",98,A,02,7854559,"Investis Digital India",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Mar 21",98,A,02,7854559,"Investis Digital India",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
-" "
 "Jun 12",41,D,01,2180628,"Beyond Key Indore",20,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 12",41,C,04,2180628,"Beyond Key Indore",19,19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,1,1,,Active
 "Aug 12",41,C,04,2180628,"Beyond Key Indore",19,20,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,7,1,1,,Active
@@ -455,7 +445,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,03,2180628,"Swami Vivekanand",13,17,6,0,0,0,0,0,0,3,1,0,2,1,2,4,7,5,0,1,1,,Active
 "Feb 21",98,A,03,2180628,"Swami Vivekanand",13,17,7,0,0,0,0,0,0,3,1,0,2,1,2,4,7,5,5,1,1,,Active
 "Mar 21",98,A,03,2180628,"Swami Vivekanand",13,19,7,0,0,0,0,0,0,3,1,0,2,1,2,4,9,5,5,2,1,,Active
-" "
 "Aug 12",41,C,04,2621397,"ISC Bhopal Toastmasters International",19,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Sep 12",41,C,04,2621397,"ISC Bhopal Toastmasters International",19,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 12",41,C,04,2621397,"ISC Bhopal Toastmasters International",19,26,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
@@ -559,7 +548,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,03,2621397,"ISC Bhopal Toastmasters International",21,11,1,0,0,0,0,0,0,1,1,0,0,0,0,2,0,6,0,1,1,,Active
 "Feb 21",98,A,03,2621397,"ISC Bhopal Toastmasters International",21,12,1,0,0,0,0,0,0,1,1,0,0,0,0,3,0,6,0,1,1,,Active
 "Mar 21",98,A,03,2621397,"ISC Bhopal Toastmasters International",21,12,1,0,0,0,0,0,0,1,1,0,0,0,0,3,0,6,0,1,1,,Active
-" "
 "Jan 19",98,A,04,7240051,Bhopal,20,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Feb 19",98,A,04,7240051,Bhopal,20,2,3,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,7,1,1,,Active
 "Mar 19",98,A,04,7240051,Bhopal,20,6,5,0,0,0,0,1,0,4,0,0,0,0,0,4,1,0,7,2,1,,Active
@@ -587,7 +575,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,03,7240051,Bhopal,16,24,6,0,0,0,0,0,0,5,1,0,1,1,3,4,14,7,0,1,2,,Active
 "Feb 21",98,A,03,7240051,Bhopal,16,26,9,0,0,0,0,0,0,6,2,2,1,1,3,4,16,7,7,1,2,,Active
 "Mar 21",98,A,03,7240051,Bhopal,16,26,10,0,0,0,0,0,0,6,2,2,2,1,3,4,16,7,7,1,2,,Active
-" "
 "Aug 19",98,A,03,7525513,"Samvaad Hindi",20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Sep 19",98,A,03,7525513,"Samvaad Hindi",20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Oct 19",98,A,03,7525513,"Samvaad Hindi",20,17,2,0,0,0,0,0,0,2,0,0,0,0,0,4,2,7,0,1,1,,Active
@@ -608,7 +595,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,03,7525513,Samvaad,8,12,2,0,0,0,0,0,0,1,0,0,0,0,0,4,4,4,0,1,0,,Active
 "Feb 21",98,A,03,7525513,Samvaad,8,12,3,0,0,0,0,0,0,1,0,0,0,0,0,4,4,4,5,1,0,,Active
 "Mar 21",98,A,03,7525513,Samvaad,8,12,3,0,0,0,0,0,0,1,0,0,0,0,0,4,4,4,5,1,0,,Active
-" "
 "Mar 20",98,A,03,7730165,Gwalior,20,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Apr 20",98,A,03,7730165,Gwalior,20,8,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,,Active
 "May 20",98,A,03,7730165,Gwalior,20,10,1,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,1,1,,Active
@@ -622,7 +608,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,03,7730165,Gwalior,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,1,,Active
 "Feb 21",98,A,03,7730165,Gwalior,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,1,,Ineligible
 "Mar 21",98,A,03,7730165,Gwalior,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,1,,Ineligible
-" "
 "Jun 13",41,C,04,2587096,Transcendence,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 13",41,K,04,2587096,Transcendence,20,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Aug 13",41,K,04,2587096,Transcendence,20,20,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -716,7 +701,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,04,2587096,Transcendence,21,31,9,0,0,0,0,0,0,5,2,3,2,1,2,4,11,7,0,1,2,,Active
 "Feb 21",98,A,04,2587096,Transcendence,21,34,10,0,0,0,0,0,0,6,2,3,2,1,2,4,14,7,7,2,2,,Active
 "Mar 21",98,A,04,2587096,Transcendence,21,34,10,0,0,0,0,0,0,7,2,5,3,1,2,4,14,7,7,2,2,,Active
-" "
 "Oct 17",98,B,01,6692382,Impact,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 17",98,B,01,6692382,Impact,20,20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 17",98,B,01,6692382,Impact,20,20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -759,7 +743,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,04,6692382,Impact,16,15,7,0,0,0,0,0,0,4,1,0,3,1,1,4,4,6,0,1,2,,Active
 "Feb 21",98,A,04,6692382,Impact,16,17,8,0,0,0,0,0,0,4,1,0,3,1,1,4,6,6,4,1,2,,Active
 "Mar 21",98,A,04,6692382,Impact,16,21,9,0,0,0,0,0,0,4,2,0,3,1,1,4,10,6,4,1,2,,Active
-" "
 "May 18",98,B,01,6977979,"TCS Maitree Toastmasters Club Indore",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,B,01,6977979,"TCS Maitree Toastmasters Club Indore",23,27,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,,Active
 "Jul 18",98,A,04,6977979,"TCS Maitree Toastmasters Club Indore",27,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,Active
@@ -795,7 +778,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,04,6977979,"TCS Maitree Toastmasters Club Indore",26,15,6,0,0,0,0,0,0,4,2,0,1,1,2,4,3,7,0,1,2,,Active
 "Feb 21",98,A,04,6977979,"TCS Maitree Toastmasters Club Indore",26,22,10,0,0,0,0,0,0,5,2,2,2,1,2,4,10,7,7,1,2,,Active
 "Mar 21",98,A,04,6977979,"TCS Maitree Toastmasters Club Indore",26,23,10,0,0,0,0,0,0,5,2,2,2,1,2,4,11,7,7,2,2,,Active
-" "
 "Dec 18",98,A,04,7235362,Avantika,23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 19",98,A,04,7235362,Avantika,23,23,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Feb 19",98,A,04,7235362,Avantika,23,23,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
@@ -824,7 +806,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,04,7235362,Avantika,19,18,3,0,0,0,0,0,0,8,1,0,1,0,0,4,2,7,0,1,1,,Active
 "Feb 21",98,A,04,7235362,Avantika,19,20,7,0,0,0,0,0,0,9,2,2,1,0,0,4,4,7,7,1,1,,Active
 "Mar 21",98,A,04,7235362,Avantika,19,20,7,0,0,0,0,0,0,9,2,2,1,0,0,4,4,7,7,1,1,,Active
-" "
 "Nov 19",98,A,04,7691809,"Beyond Key",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 19",98,A,04,7691809,"Beyond Key",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 20",98,A,04,7691809,"Beyond Key",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -842,7 +823,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,04,7691809,"Beyond Key",8,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,0,,Ineligible
 "Feb 21",98,A,04,7691809,"Beyond Key",8,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,0,,Ineligible
 "Mar 21",98,A,04,7691809,"Beyond Key",8,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,0,,Ineligible
-" "
 "Aug 20",98,A,04,7806306,InfoBeans,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Sep 20",98,A,04,7806306,InfoBeans,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 20",98,A,04,7806306,InfoBeans,21,23,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,,Active
@@ -851,7 +831,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,04,7806306,InfoBeans,21,24,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,,Active
 "Feb 21",98,A,04,7806306,InfoBeans,21,16,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,0,1,,Active
 "Mar 21",98,A,04,7806306,InfoBeans,21,16,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,0,1,,Active
-" "
 "Nov 13",41,D,01,3220784,"TCS BE@T Gandhinagar",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Dec 13",41,D,01,3220784,"TCS BE@T Gandhinagar",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Jan 14",41,D,01,3220784,"TCS BE@T Gandhinagar",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
@@ -940,7 +919,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,05,3220784,"TCS BE@T Gandhinagar",42,27,8,0,0,0,0,0,0,8,2,2,4,1,0,4,7,7,0,2,2,,Active
 "Feb 21",98,A,05,3220784,"TCS BE@T Gandhinagar",42,36,10,0,0,0,0,0,0,9,2,2,4,1,1,4,16,7,7,2,2,,Active
 "Mar 21",98,A,05,3220784,"TCS BE@T Gandhinagar",42,37,10,0,0,0,0,0,0,10,2,3,4,1,4,4,17,7,7,2,2,,Active
-" "
 "Feb 18",98,A,01,6839027,"TCS KALPAK TOASTMASTERS CLUB",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 18",98,A,01,6839027,"TCS KALPAK TOASTMASTERS CLUB",21,25,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,7,2,1,,Active
 "Apr 18",98,A,01,6839027,"TCS KALPAK TOASTMASTERS CLUB",21,30,3,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,7,2,1,,Active
@@ -979,7 +957,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,05,6839027,"TCS KALPAK TOASTMASTERS CLUB",18,10,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,7,0,1,2,,Active
 "Feb 21",98,A,05,6839027,"TCS KALPAK TOASTMASTERS CLUB",18,10,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,7,7,1,2,,Active
 "Mar 21",98,A,05,6839027,"TCS KALPAK TOASTMASTERS CLUB",18,10,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,7,7,1,2,,Active
-" "
 "Oct 19",98,A,01,7636059,Gandhinagar,20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Nov 19",98,A,01,7636059,Gandhinagar,20,18,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,,Active
 "Dec 19",98,A,01,7636059,Gandhinagar,20,19,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,,Active
@@ -998,7 +975,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,A,05,7636059,Gandhinagar,21,22,5,0,0,0,0,0,0,5,2,0,0,0,0,4,8,7,0,1,2,,Active
 "Feb 21",98,A,05,7636059,Gandhinagar,21,23,6,0,0,0,0,0,0,6,2,1,1,0,0,4,9,7,7,1,2,,Active
 "Mar 21",98,A,05,7636059,Gandhinagar,21,23,7,0,0,0,0,0,0,6,2,1,1,1,0,4,9,7,7,1,2,,Active
-" "
 "Feb 08",82,D,17,1135184,Bombay,20,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Mar 08",82,D,17,1135184,Bombay,20,27,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,,Active
 "Apr 08",82,D,17,1135184,Bombay,20,27,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,,Active
@@ -1156,7 +1132,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,01,1135184,Bombay,43,45,9,0,0,0,0,0,0,5,2,1,4,1,2,4,7,7,7,2,1,,Active
 "Feb 21",98,B,01,1135184,Bombay,43,46,9,0,0,0,0,0,0,5,2,1,4,1,2,4,8,7,7,2,1,,Active
 "Mar 21",98,B,01,1135184,Bombay,43,47,10,0,0,0,0,0,0,8,2,2,4,1,3,4,9,7,7,2,1,,Active
-" "
 "Nov 12",41,D,01,2854357,BACI,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Dec 12",41,D,01,2854357,BACI,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jan 13",41,D,01,2854357,BACI,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -1257,7 +1232,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,01,2854357,Eminent,41,37,10,0,0,0,0,0,0,5,2,2,6,1,4,4,6,7,7,1,2,,Active
 "Feb 21",98,B,01,2854357,Eminent,41,44,10,0,0,0,0,0,0,5,2,4,6,1,5,4,13,7,7,1,2,,Active
 "Mar 21",98,B,01,2854357,Eminent,41,44,10,0,0,0,0,0,0,7,2,5,6,1,5,4,13,7,7,2,2,,Active
-" "
 "Jul 14",41,D,04,4297290,"SBM NMIMS",89,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 14",41,D,04,4297290,"SBM NMIMS",89,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Sep 14",41,D,04,4297290,"SBM NMIMS",89,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -1338,7 +1312,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,01,4297290,"NMIMS Mumbai Toastmasters Club (NMTC)",9,25,3,0,0,0,0,0,0,0,0,0,0,0,0,4,25,7,2,1,1,,Active
 "Feb 21",98,B,01,4297290,"NMIMS Mumbai Toastmasters Club (NMTC)",9,25,3,0,0,0,0,0,0,0,0,0,0,0,0,4,25,7,2,1,1,,Active
 "Mar 21",98,B,01,4297290,"NMIMS Mumbai Toastmasters Club (NMTC)",9,25,3,0,0,0,0,0,0,0,0,0,0,0,0,4,25,7,2,1,1,,Active
-" "
 "Mar 20",98,B,04,7770358,"Leaders Connect",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Apr 20",98,B,04,7770358,"Leaders Connect",20,24,4,0,0,1,0,0,0,0,0,0,0,0,0,4,13,0,0,2,1,,Active
 "May 20",98,B,04,7770358,"Leaders Connect",20,24,5,0,0,1,0,1,0,1,0,0,0,0,0,4,13,0,0,2,1,D,Active
@@ -1352,7 +1325,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,01,7770358,"Leaders Connect",24,25,6,0,0,0,0,0,0,2,2,0,1,1,0,4,5,7,7,1,2,,Active
 "Feb 21",98,B,01,7770358,"Leaders Connect",24,25,6,0,0,0,0,0,0,3,2,0,1,1,0,4,5,7,7,1,2,,Active
 "Mar 21",98,B,01,7770358,"Leaders Connect",24,25,6,0,0,0,0,0,0,3,2,0,1,1,0,4,5,7,7,1,2,,Active
-" "
 "Mar 10",82,D,05,1447379,Mahindra,20,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Apr 10",82,D,05,1447379,Mahindra,20,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "May 10",82,D,05,1447379,Mahindra,20,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
@@ -1485,7 +1457,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,02,1447379,Mahindra,21,22,7,0,0,0,0,0,0,3,2,4,2,0,0,4,5,7,7,1,1,,Active
 "Feb 21",98,B,02,1447379,Mahindra,21,22,7,0,0,0,0,0,0,3,2,4,2,0,0,4,5,7,7,1,1,,Active
 "Mar 21",98,B,02,1447379,Mahindra,21,22,8,0,0,0,0,0,0,4,2,4,2,0,0,4,5,7,7,1,1,,Active
-" "
 "Apr 16",98,A,02,5235362,"DB Mumbai",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 16",98,A,02,5235362,"DB Mumbai",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 16",98,A,02,5235362,"DB Mumbai",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -1545,7 +1516,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,02,5235362,"DB Mumbai",8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7,0,0,1,,Active
 "Feb 21",98,B,02,5235362,"DB Mumbai",8,10,2,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,0,0,1,,Active
 "Mar 21",98,B,02,5235362,"DB Mumbai",8,10,2,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,0,0,1,,Active
-" "
 "Jan 18",98,B,03,6786470,Chatterati,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 18",98,B,03,6786470,Chatterati,21,23,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,1,1,,Active
 "Mar 18",98,B,03,6786470,Chatterati,21,23,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,2,1,,Active
@@ -1585,7 +1555,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,02,6786470,Chatterati,41,32,7,0,0,0,0,0,0,6,2,0,2,0,0,4,7,7,7,2,2,,Active
 "Feb 21",98,B,02,6786470,Chatterati,41,34,7,0,0,0,0,0,0,6,2,1,2,0,0,4,9,7,7,2,2,,Active
 "Mar 21",98,B,02,6786470,Chatterati,41,35,7,0,0,0,0,0,0,7,2,1,4,0,0,4,10,7,7,2,2,,Active
-" "
 "Apr 20",98,B,04,7770363,Articulators,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 20",98,B,04,7770363,Articulators,20,20,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,,Active
 "Jun 20",98,B,04,7770363,Articulators,20,20,2,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,,Active
@@ -1598,15 +1567,12 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,02,7770363,Articulators,21,31,7,0,0,0,0,0,0,2,2,0,0,1,1,4,13,7,7,1,2,,Active
 "Feb 21",98,B,02,7770363,Articulators,21,31,7,0,0,0,0,0,0,2,2,0,0,1,1,4,13,7,7,1,2,,Active
 "Mar 21",98,B,02,7770363,Articulators,21,31,7,0,0,0,0,0,0,3,2,0,0,1,1,4,13,7,7,1,2,,Active
-" "
 "Jan 21",98,B,02,7840662,"Mumbai Speakers",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Feb 21",98,B,02,7840662,"Mumbai Speakers",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Mar 21",98,B,02,7840662,"Mumbai Speakers",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
-" "
 "Jan 21",98,B,02,7854983,VJTI,20,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 21",98,B,02,7854983,VJTI,20,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 21",98,B,02,7854983,VJTI,20,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,,Active
-" "
 "Jun 12",41,D,01,2543055,"Tech Talkers",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 12",41,D,04,2543055,"Tech Talkers",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,1,,Active
 "Aug 12",41,D,04,2543055,"Tech Talkers",20,35,3,0,0,0,0,0,0,0,0,0,0,0,0,4,11,6,0,1,1,,Active
@@ -1712,7 +1678,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,03,2543055,"Tech Talkers",50,50,6,0,0,0,0,0,0,4,2,0,0,0,0,4,27,7,7,1,2,,Active
 "Feb 21",98,B,03,2543055,"Tech Talkers",50,50,6,0,0,0,0,0,0,4,2,0,0,0,0,4,27,7,7,1,2,,Active
 "Mar 21",98,B,03,2543055,"Tech Talkers",50,50,6,0,0,0,0,0,0,4,2,0,0,0,0,4,27,7,7,1,2,,Active
-" "
 "Jun 14",41,K,03,4002291,"Oracle Mumbai",20,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 14",41,D,07,4002291,"Oracle Mumbai",23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Aug 14",41,D,07,4002291,"Oracle Mumbai",23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,,Active
@@ -1794,7 +1759,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,03,4002291,"Oracle Mumbai",17,14,6,0,0,0,0,0,0,0,2,0,1,1,1,4,1,7,7,1,2,,Active
 "Feb 21",98,B,03,4002291,"Oracle Mumbai",17,14,6,0,0,0,0,0,0,0,2,0,1,1,1,4,1,7,7,1,2,,Active
 "Mar 21",98,B,03,4002291,"Oracle Mumbai",17,15,6,0,0,0,0,0,0,0,2,0,1,1,1,4,2,7,7,1,2,,Active
-" "
 "Jun 15",41,D,07,4764536,"JPMC Malad",49,49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 15",98,A,03,4764536,"JPMC Malad",49,49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 15",98,A,03,4764536,"JPMC Malad",98,49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
@@ -1864,7 +1828,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,03,4764536,"JPMC Malad",20,20,8,0,0,0,0,0,0,4,2,1,3,1,1,4,0,7,7,1,2,,Active
 "Feb 21",98,B,03,4764536,"JPMC Malad",20,20,8,0,0,0,0,0,0,6,2,1,3,1,1,4,0,7,7,1,2,,Active
 "Mar 21",98,B,03,4764536,"JPMC Malad",20,20,9,0,0,0,0,0,0,7,2,2,3,1,1,4,0,7,7,2,2,,Active
-" "
 "Jan 20",98,B,06,7726190,"Goregaon Speakers Community Toastmasters-(GSC Toastmasters)",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,B,06,7726190,"Goregaon Speakers Community Toastmasters-(GSC Toastmasters)",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Mar 20",98,B,06,7726190,"Goregaon Speakers Community Toastmasters-(GSC Toastmasters)",20,25,5,0,0,1,0,1,0,1,0,0,0,0,0,4,1,0,7,2,1,,Active
@@ -1880,11 +1843,9 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,03,7726190,"Goregaon Speakers Community Toastmasters-(GSC Toastmasters)",29,24,9,0,0,0,0,0,0,7,2,3,2,1,0,4,6,7,7,2,2,,Active
 "Feb 21",98,B,03,7726190,"Goregaon Speakers Community Toastmasters-(GSC Toastmasters)",29,25,9,0,0,0,0,0,0,7,2,3,3,1,0,4,7,7,7,2,2,,Active
 "Mar 21",98,B,03,7726190,"Goregaon Speakers Community Toastmasters-(GSC Toastmasters)",29,27,10,0,0,0,0,0,0,8,2,4,3,1,1,4,9,7,7,2,2,,Active
-" "
 "Jan 21",98,B,03,7851177,"Spirit of Women",20,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Feb 21",98,B,03,7851177,"Spirit of Women",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,2,1,,Active
 "Mar 21",98,B,03,7851177,"Spirit of Women",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,2,1,,Active
-" "
 "Jul 13",41,0D,0A,3349716,Crown,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Aug 13",41,D,03,3349716,Crown,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,,Active
 "Sep 13",41,D,03,3349716,Crown,20,25,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,0,1,0,,Active
@@ -1977,7 +1938,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,04,3349716,Powai,23,15,3,0,0,0,0,0,0,0,0,0,0,0,0,4,3,7,4,1,1,,Active
 "Feb 21",98,B,04,3349716,Powai,23,17,4,0,0,0,0,0,0,0,0,0,0,0,0,4,4,7,4,1,1,,Active
 "Mar 21",98,B,04,3349716,Powai,23,17,4,0,0,0,0,0,0,0,0,0,0,0,0,4,4,7,4,1,1,,Active
-" "
 "Sep 17",98,B,05,6649866,"TYHO MISB Bocconi",25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 17",98,B,05,6649866,"TYHO MISB Bocconi",25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Nov 17",98,B,05,6649866,"TYHO MISB Bocconi",25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -2021,7 +1981,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,04,6649866,"TYHO SDA Bocconi",8,34,8,0,0,0,0,0,0,9,2,0,7,1,15,4,51,7,3,1,2,,Active
 "Feb 21",98,B,04,6649866,"TYHO SDA Bocconi",8,34,9,0,0,0,0,0,0,9,2,0,7,1,15,4,51,7,4,1,2,,Active
 "Mar 21",98,B,04,6649866,"TYHO SDA Bocconi",8,34,10,0,0,0,0,0,0,19,2,2,7,1,15,4,51,7,4,1,2,,Active
-" "
 "Mar 19",98,B,01,7297859,CRISIL,54,54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 19",98,B,01,7297859,CRISIL,54,54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 19",98,B,01,7297859,CRISIL,54,54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -2047,7 +2006,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,04,7297859,CRISIL,35,23,4,0,0,0,0,0,0,1,2,0,0,0,0,4,4,7,5,0,1,,Active
 "Feb 21",98,B,04,7297859,CRISIL,35,23,4,0,0,0,0,0,0,3,2,0,0,0,0,4,4,7,5,0,1,,Active
 "Mar 21",98,B,04,7297859,CRISIL,35,23,5,0,0,0,0,0,0,4,2,0,0,0,0,4,4,7,5,0,1,,Active
-" "
 "Sep 19",98,B,01,7581427,"Teradata Mumbai",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 19",98,B,01,7581427,"Teradata Mumbai",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 19",98,B,01,7581427,"Teradata Mumbai",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -2067,7 +2025,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,04,7581427,"Teradata Mumbai",30,30,2,0,0,0,0,0,0,1,0,0,1,0,0,3,0,7,7,1,1,,Active
 "Feb 21",98,B,04,7581427,"Teradata Mumbai",30,30,2,0,0,0,0,0,0,1,0,0,1,0,0,3,0,7,7,1,1,,Active
 "Mar 21",98,B,04,7581427,"Teradata Mumbai",30,33,3,0,0,0,0,0,0,1,0,0,1,0,0,4,2,7,7,1,1,,Active
-" "
 "Sep 11",41,D,03,2017514,"General Mills India",20,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Oct 11",41,D,03,2017514,"General Mills India",20,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Nov 11",41,D,03,2017514,"General Mills India",20,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
@@ -2182,7 +2139,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,05,2017514,"General Mills India",29,26,4,0,0,0,0,0,0,4,1,0,0,0,0,4,5,7,6,0,1,,Active
 "Feb 21",98,B,05,2017514,"General Mills India",29,26,5,0,0,0,0,0,0,6,2,0,0,0,0,4,5,7,6,0,1,,Active
 "Mar 21",98,B,05,2017514,"General Mills India",29,26,5,0,0,0,0,0,0,6,2,0,0,0,0,4,5,7,6,0,1,,Active
-" "
 "Oct 12",41,D,01,2798803,Nitie,20,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Nov 12",41,D,01,2798803,Nitie,20,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Dec 12",41,D,01,2798803,Nitie,20,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -2284,7 +2240,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,05,2798803,NITIE,8,17,4,0,0,0,0,0,0,2,0,0,0,0,0,4,8,7,6,1,2,,Active
 "Feb 21",98,B,05,2798803,NITIE,8,17,5,0,0,0,0,0,0,4,0,0,0,0,0,4,8,7,6,1,2,,Active
 "Mar 21",98,B,05,2798803,NITIE,8,17,5,0,0,0,0,0,0,4,1,0,0,0,0,4,8,7,7,1,2,,Active
-" "
 "Jun 15",41,D,03,4764579,"JPMC Powai",49,49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 15",98,B,03,4764579,"JPMC Powai",49,49,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 15",98,B,03,4764579,"JPMC Powai",98,49,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -2354,7 +2309,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,05,4764579,"JPMC Powai",21,18,4,0,0,0,0,0,0,1,2,1,2,0,0,3,0,7,7,1,2,,Active
 "Feb 21",98,B,05,4764579,"JPMC Powai",21,18,5,0,0,0,0,0,0,3,2,1,2,1,0,3,0,7,7,1,2,,Active
 "Mar 21",98,B,05,4764579,"JPMC Powai",21,18,7,0,0,0,0,0,0,4,2,2,2,1,0,3,0,7,7,2,2,,Active
-" "
 "Jun 18",98,B,05,6578723,AVENUE,27,27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 18",98,B,01,6578723,AVENUE,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 18",98,B,01,6578723,AVENUE,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,,Active
@@ -2389,10 +2343,8 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,B,05,6578723,"Schindler Toastmasters Powai (STM Powai)",21,22,4,0,0,0,0,0,0,0,1,0,2,0,0,4,1,7,6,1,1,,Active
 "Feb 21",98,B,05,6578723,"Schindler Toastmasters Powai (STM Powai)",21,22,5,0,0,0,0,0,0,0,2,0,2,0,0,4,1,7,6,1,1,,Active
 "Mar 21",98,B,05,6578723,"Schindler Toastmasters Powai (STM Powai)",21,22,5,0,0,0,0,0,0,0,2,0,2,0,0,4,1,7,6,2,1,,Active
-" "
 "Feb 21",98,B,05,7854767,"Eloquent Elites",29,29,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 21",98,B,05,7854767,"Eloquent Elites",29,31,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,,Active
-" "
 "Nov 12",41,I,02,2645684,"Emerson Innovation Center-Pune",20,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Dec 12",41,I,02,2645684,"Emerson Innovation Center-Pune",20,30,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,,Active
 "Jan 13",41,I,02,2645684,"Emerson Innovation Center-Pune",20,30,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,6,0,1,,Active
@@ -2493,7 +2445,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,01,2645684,"Emerson Innovation Center-Pune",14,9,4,0,0,0,0,0,0,5,2,1,0,1,0,0,0,7,2,1,1,,Active
 "Feb 21",98,C,01,2645684,"Emerson Innovation Center-Pune",14,9,4,0,0,0,0,0,0,5,2,1,0,1,0,0,0,7,2,1,1,,Active
 "Mar 21",98,C,01,2645684,"Emerson Innovation Center-Pune",14,9,4,0,0,0,0,0,0,5,2,1,0,1,0,0,0,7,2,1,1,,Active
-" "
 "Jul 14",41,E,01,4167410,"TCS Maitree Toastmasters Club Pune",20,25,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,0,1,1,,Active
 "Aug 14",41,E,01,4167410,"TCS Maitree Toastmasters Club Pune",20,25,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,0,1,1,,Active
 "Sep 14",41,E,01,4167410,"TCS Maitree Toastmasters Club Pune",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,1,1,,Active
@@ -2574,7 +2525,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,01,4167410,"TCS Maitree Toastmasters Club Pune",50,49,9,0,0,0,0,0,0,9,2,1,2,1,3,4,13,7,7,1,2,,Active
 "Feb 21",98,C,01,4167410,"TCS Maitree Toastmasters Club Pune",50,54,9,0,0,0,0,0,0,9,2,1,2,1,4,4,18,7,7,1,2,,Active
 "Mar 21",98,C,01,4167410,"TCS Maitree Toastmasters Club Pune",50,57,10,0,0,0,0,0,0,9,2,3,2,1,4,4,21,7,7,2,2,,Active
-" "
 "Jun 18",98,C,04,7030730,Wakad,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 18",98,C,04,7030730,Wakad,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,,Active
 "Aug 18",98,C,04,7030730,Wakad,0,9,4,0,0,0,0,1,1,1,0,0,0,0,0,4,5,7,0,0,1,,Active
@@ -2609,7 +2559,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,01,7030730,Wakad,33,31,10,0,0,0,0,0,0,7,2,2,4,1,4,4,11,7,7,2,2,,Active
 "Feb 21",98,C,01,7030730,Wakad,33,31,10,0,0,0,0,0,0,7,2,3,5,1,5,4,11,7,7,2,2,,Active
 "Mar 21",98,C,01,7030730,Wakad,33,32,10,0,0,0,0,0,0,7,2,4,5,1,6,4,12,7,7,2,2,,Active
-" "
 "Oct 18",98,0D,0A,7051977,"RA Pune",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 18",98,C,05,7051977,"RA Pune",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
 "Dec 18",98,C,05,7051977,"RA Pune",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
@@ -2640,7 +2589,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,01,7051977,"RA Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,C,01,7051977,"RA Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,C,01,7051977,"RA Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Apr 20",98,C,01,7764009,"Ikigai Capgemini",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 20",98,C,01,7764009,"Capgemini  Ikigai",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 20",98,C,01,7764009,"Capgemini  Ikigai",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -2653,10 +2601,8 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,01,7764009,"Capgemini  Ikigai",21,20,7,0,0,0,0,0,0,4,1,0,1,1,1,4,7,7,4,1,2,,Active
 "Feb 21",98,C,01,7764009,"Capgemini  Ikigai",21,20,7,0,0,0,0,0,0,6,1,0,1,1,1,4,7,7,4,1,2,,Active
 "Mar 21",98,C,01,7764009,"Capgemini  Ikigai",21,22,7,0,0,0,0,0,0,6,1,0,1,1,1,4,9,7,4,2,2,,Active
-" "
 "Feb 21",98,C,01,7860939,"Emerson ISV",29,30,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,2,1,,Active
 "Mar 21",98,C,01,7860939,"Emerson ISV",29,30,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,2,1,,Active
-" "
 "Mar 05",U,I,01,776544,,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Apr 05",U,I,01,776544,,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "May 05",U,I,01,776544,,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -2847,7 +2793,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,02,776544,Genesis,11,14,5,0,0,0,0,0,0,5,2,1,2,0,0,4,2,7,0,1,1,,Active
 "Feb 21",98,C,02,776544,Genesis,11,14,5,0,0,0,0,0,0,5,2,1,2,0,0,4,2,7,0,1,1,,Active
 "Mar 21",98,C,02,776544,Genesis,11,14,5,0,0,0,0,0,0,5,2,1,2,0,0,4,2,7,0,1,1,,Active
-" "
 "Mar 16",98,C,03,5297378,"Barclays Pune 2",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 16",98,C,03,5297378,"Barclays Pune 2",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 16",98,C,03,5297378,"Barclays Pune 2",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -2908,7 +2853,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,02,5297378,"Barclays Pune 2",26,24,7,0,0,0,0,0,0,7,2,3,1,1,0,4,3,7,7,1,2,,Active
 "Feb 21",98,C,02,5297378,"Barclays Pune 2",26,24,7,0,0,0,0,0,0,7,2,3,1,1,0,4,3,7,7,1,2,,Active
 "Mar 21",98,C,02,5297378,"Barclays Pune 2",26,25,8,0,0,0,0,0,0,7,2,3,1,1,0,4,4,7,7,1,2,,Active
-" "
 "May 16",98,C,04,5506714,Baner,20,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 16",98,C,04,5506714,Baner,20,9,5,0,0,0,0,1,1,0,0,0,0,0,0,4,5,0,0,1,1,,Active
 "Aug 16",98,C,03,5506714,Baner,9,17,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,7,0,0,1,,Active
@@ -2967,7 +2911,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,02,5506714,Baner,33,37,10,0,0,0,0,0,0,5,2,2,4,1,4,4,10,7,7,1,2,,Active
 "Feb 21",98,C,02,5506714,Baner,33,37,10,0,0,0,0,0,0,5,2,2,4,1,4,4,10,7,7,2,2,,Active
 "Mar 21",98,C,02,5506714,Baner,33,37,10,0,0,0,0,0,0,5,2,2,4,1,4,4,10,7,7,2,2,,Active
-" "
 "Jan 18",98,C,03,6786792,"WIPRO Rendezvous Toastmasters Club of Pune",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Feb 18",98,C,03,6786792,"WIPRO Rendezvous Toastmasters Club of Pune",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Mar 18",98,C,03,6786792,"WIPRO Rendezvous Toastmasters Club of Pune",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
@@ -3007,7 +2950,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,02,6786792,"WIPRO Rendezvous Toastmasters Club of Pune",11,9,2,0,0,0,0,0,0,0,1,0,0,0,0,4,1,7,4,0,0,,Active
 "Feb 21",98,C,02,6786792,"WIPRO Rendezvous Toastmasters Club of Pune",11,9,3,0,0,0,0,0,0,0,2,0,0,0,0,4,1,7,4,0,0,,Active
 "Mar 21",98,C,02,6786792,"WIPRO Rendezvous Toastmasters Club of Pune",11,9,3,0,0,0,0,0,0,0,2,0,0,0,0,4,1,7,4,0,0,,Active
-" "
 "Mar 17",98,P,01,6097544,"Toastmasters for Pune Entrepreneurs",20,24,5,0,0,0,0,1,1,0,0,0,0,0,0,4,0,0,6,2,1,,Active
 "Apr 17",98,P,01,6097544,"Toastmasters for Pune Entrepreneurs",20,25,5,1,0,0,0,1,1,0,0,0,0,0,0,4,1,0,6,2,1,D,Active
 "May 17",98,P,01,6097544,"Toastmasters for Pune Entrepreneurs",20,25,5,1,0,0,0,1,1,0,0,0,0,0,0,4,1,0,6,2,1,D,Active
@@ -3057,7 +2999,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,03,6097544,"Toastmasters for Pune Entrepreneurs",34,26,10,0,0,0,0,0,0,4,2,4,5,1,4,4,4,7,7,2,2,,Active
 "Feb 21",98,C,03,6097544,"Toastmasters for Pune Entrepreneurs",34,26,10,0,0,0,0,0,0,4,2,4,5,1,4,4,4,7,7,2,2,,Active
 "Mar 21",98,C,03,6097544,"Toastmasters for Pune Entrepreneurs",34,26,10,0,0,0,0,0,0,5,2,5,6,1,5,4,4,7,7,2,2,,Active
-" "
 "Apr 18",98,C,05,6933610,"KPIT Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 18",98,C,05,6933610,"KPIT Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,C,05,6933610,"KPIT Pune",20,22,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,,Active
@@ -3094,7 +3035,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,03,6933610,"Birlasoft Toastmasters Club Pune",20,18,6,0,0,0,0,0,0,4,0,0,0,1,2,4,2,7,5,1,2,,Active
 "Feb 21",98,C,03,6933610,"Birlasoft Toastmasters Club Pune",20,18,6,0,0,0,0,0,0,4,0,0,0,1,2,4,2,7,5,1,2,,Active
 "Mar 21",98,C,03,6933610,"Birlasoft Toastmasters Club Pune",20,18,6,0,0,0,0,0,0,4,0,0,0,1,2,4,2,7,5,1,2,,Active
-" "
 "Feb 19",98,C,03,7239392,Aundh,20,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 19",98,C,03,7239392,Aundh,20,13,2,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,5,2,1,,Active
 "Apr 19",98,C,03,7239392,Aundh,20,21,5,0,0,0,0,1,1,1,0,0,0,0,0,4,1,0,5,2,1,D,Active
@@ -3121,7 +3061,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,03,7239392,Aundh,26,25,8,0,0,0,0,0,0,11,2,2,1,1,0,4,5,7,7,1,2,,Active
 "Feb 21",98,C,03,7239392,Aundh,26,26,8,0,0,0,0,0,0,11,2,2,1,1,0,4,6,7,7,1,2,,Active
 "Mar 21",98,C,03,7239392,Aundh,26,26,9,0,0,0,0,0,0,11,2,2,1,1,1,4,6,7,7,2,2,,Active
-" "
 "May 19",98,C,05,7431038,"STS Pune",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 19",98,C,05,7431038,"STS Pune",22,23,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Jul 19",98,C,05,7431038,"STS Pune",23,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,Active
@@ -3145,7 +3084,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,03,7431038,"STS Pune",7,12,5,0,0,0,0,0,0,4,2,0,1,0,0,4,1,7,5,1,1,,Active
 "Feb 21",98,C,03,7431038,"STS Pune",7,13,7,0,0,0,0,0,0,4,2,0,2,1,0,4,2,7,5,1,1,,Active
 "Mar 21",98,C,03,7431038,"STS Pune",7,13,7,0,0,0,0,0,0,4,2,0,2,1,0,4,2,7,5,1,1,,Active
-" "
 "Jun 06",U,,0,916446,,20,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Jul 06",82,C,04,916446,,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 06",82,C,04,916446,,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -3323,7 +3261,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,04,916446,"Infosys Pune",28,29,6,0,0,0,0,0,0,4,2,0,1,0,0,4,6,7,7,1,2,,Active
 "Feb 21",98,C,04,916446,"Infosys Pune",28,29,6,0,0,0,0,0,0,4,2,0,1,0,0,4,6,7,7,1,2,,Active
 "Mar 21",98,C,04,916446,"Infosys Pune",28,29,6,0,0,0,0,0,0,4,2,1,1,0,0,4,6,7,7,1,2,,Active
-" "
 "Jan 15",41,E,02,4421153,"Toastmasters Club of Pune North West",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 15",41,E,02,4421153,"Toastmasters Club of Pune North West",20,6,5,2,1,0,0,1,0,0,0,0,0,0,0,4,2,0,7,1,1,,Active
 "Mar 15",41,E,02,4421153,"Toastmasters Club of Pune North West",20,10,7,2,1,0,0,1,1,0,0,0,0,0,0,4,6,0,7,2,1,,Active
@@ -3398,7 +3335,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,04,4421153,"Toastmasters Club of Pune North West",42,36,10,0,0,0,0,0,0,8,2,2,3,1,1,4,4,7,7,1,2,,Active
 "Feb 21",98,C,04,4421153,"Toastmasters Club of Pune North West",42,37,10,0,0,0,0,0,0,9,2,2,5,1,1,4,5,7,7,1,2,,Active
 "Mar 21",98,C,04,4421153,"Toastmasters Club of Pune North West",42,39,10,0,0,0,0,0,0,10,2,4,5,1,2,4,7,7,7,2,2,,Active
-" "
 "Sep 19",98,C,05,7390011,"SISW Pune",23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 19",98,C,05,7390011,"SISW Pune",23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Ineligible
 "Nov 19",98,C,05,7390011,"SISW Pune",23,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,1,,Active
@@ -3418,7 +3354,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,04,7390011,"SISW Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,C,04,7390011,"SISW Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,C,04,7390011,"SISW Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Nov 19",98,C,04,7632324,"Eaton Toastmasters Collaboration",20,29,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,7,1,1,,Active
 "Dec 19",98,C,04,7632324,"Eaton Toastmasters Collaboration",20,29,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,7,1,1,,Active
 "Jan 20",98,C,04,7632324,"Eaton Toastmasters Collaboration",20,29,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,7,1,1,,Active
@@ -3436,7 +3371,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,04,7632324,"Eaton Toastmasters Collaboration",8,9,3,0,0,0,0,0,0,3,0,0,0,0,0,4,10,7,7,0,1,,Active
 "Feb 21",98,C,04,7632324,"Eaton Toastmasters Collaboration",8,9,3,0,0,0,0,0,0,3,0,0,0,0,0,4,10,7,7,0,1,,Active
 "Mar 21",98,C,04,7632324,"Eaton Toastmasters Collaboration",8,9,3,0,0,0,0,0,0,3,0,0,0,0,0,4,10,7,7,0,1,,Active
-" "
 "Jan 17",98,C,02,5965350,Pimpri,20,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Feb 17",98,C,02,5965350,Pimpri,20,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,6,1,1,,Active
 "Mar 17",98,C,02,5965350,Pimpri,20,3,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,6,2,1,,Active
@@ -3488,7 +3422,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,05,5965350,Pimpri,29,34,10,0,0,0,0,0,0,9,2,6,4,1,2,4,11,7,7,1,2,,Active
 "Feb 21",98,C,05,5965350,Pimpri,29,35,10,0,0,0,0,0,0,9,2,8,4,1,3,4,12,7,7,1,2,,Active
 "Mar 21",98,C,05,5965350,Pimpri,29,36,10,0,0,0,0,0,0,9,2,8,4,1,3,4,13,7,7,2,2,,Active
-" "
 "Aug 17",98,C,02,6601517,"ATLAS COPCO PUNE TOASTMASTERS CLUB",30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Sep 17",98,C,02,6601517,"ATLAS COPCO PUNE TOASTMASTERS CLUB",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Oct 17",98,C,02,6601517,"ATLAS COPCO PUNE TOASTMASTERS CLUB",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
@@ -3533,7 +3466,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,05,6601517,"ATLAS COPCO PUNE TOASTMASTERS CLUB",17,14,9,0,0,0,0,0,0,6,2,5,5,1,9,4,2,7,4,1,1,,Active
 "Feb 21",98,C,05,6601517,"ATLAS COPCO PUNE TOASTMASTERS CLUB",17,14,9,0,0,0,0,0,0,6,2,5,5,1,9,4,2,7,4,1,1,,Active
 "Mar 21",98,C,05,6601517,"ATLAS COPCO PUNE TOASTMASTERS CLUB",17,14,9,0,0,0,0,0,0,6,2,5,5,1,9,4,2,7,4,1,1,,Active
-" "
 "Feb 19",98,C,01,7229711,"JCB Pune",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Mar 19",98,C,01,7229711,"JCB Pune",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
 "Apr 19",98,C,01,7229711,"JCB Pune",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
@@ -3560,7 +3492,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,05,7229711,"JCB Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,C,05,7229711,"JCB Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,C,05,7229711,"JCB Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Jan 20",98,C,03,7683449,"Toastmasters of Mediaocean",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,C,03,7683449,"Toastmasters of Mediaocean",21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Mar 20",98,C,03,7683449,"Toastmasters of Mediaocean",21,26,3,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,7,1,1,,Active
@@ -3576,7 +3507,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,C,05,7683449,"Toastmasters of Mediaocean",27,12,5,0,0,0,0,0,0,8,2,0,1,1,0,0,0,7,7,1,2,,Active
 "Feb 21",98,C,05,7683449,"Toastmasters of Mediaocean",27,13,6,0,0,0,0,0,0,9,2,1,2,1,0,1,0,7,7,1,2,,Active
 "Mar 21",98,C,05,7683449,"Toastmasters of Mediaocean",27,13,7,0,0,0,0,0,0,11,2,2,2,1,0,1,0,7,7,2,2,,Active
-" "
 "May 12",41,E,03,2383421,ZS,20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jun 12",41,E,03,2383421,ZS,20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 12",41,E,01,2383421,ZS,18,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,1,1,,Active
@@ -3683,7 +3613,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,01,2383421,ZS,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,,Active
 "Feb 21",98,D,01,2383421,ZS,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,,Ineligible
 "Mar 21",98,D,01,2383421,ZS,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,,Ineligible
-" "
 "Jul 15",98,D,03,5144305,"Barclays Pune",33,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 15",98,D,03,5144305,"Barclays Pune",33,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Sep 15",98,D,03,5144305,"Barclays Pune",33,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -3751,7 +3680,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,01,5144305,"Barclays Pune",25,21,5,0,0,0,0,0,0,0,1,0,1,1,2,4,2,7,5,1,2,,Active
 "Feb 21",98,D,01,5144305,"Barclays Pune",25,21,6,0,0,0,0,0,0,1,2,0,1,1,2,4,2,7,5,1,2,,Active
 "Mar 21",98,D,01,5144305,"Barclays Pune",25,21,6,0,0,0,0,0,0,1,2,0,1,1,2,4,2,7,5,1,2,,Active
-" "
 "Feb 19",98,D,02,7289566,"Expedition Toastmasters Pune",25,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Mar 19",98,D,02,7289566,"Expedition Toastmasters Pune",25,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Apr 19",98,D,02,7289566,"Expedition Toastmasters Pune",25,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
@@ -3778,7 +3706,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,01,7289566,"Expedition Toastmasters Pune",12,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,,Active
 "Feb 21",98,D,01,7289566,"Expedition Toastmasters Pune",12,21,2,0,0,0,0,0,0,0,0,0,0,0,0,4,6,7,0,2,0,,Active
 "Mar 21",98,D,01,7289566,"Expedition Toastmasters Pune",12,21,2,0,0,0,0,0,0,1,0,0,0,0,0,4,6,7,0,2,0,,Active
-" "
 "Jan 20",98,D,05,7709657,Baramati,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,D,05,7709657,Baramati,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 20",98,D,05,7709657,Baramati,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -3794,7 +3721,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,01,7709657,Baramati,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,,Active
 "Feb 21",98,D,01,7709657,Baramati,20,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,4,0,0,,Ineligible
 "Mar 21",98,D,01,7709657,Baramati,20,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,4,0,0,,Ineligible
-" "
 "Apr 12",41,E,03,2187981,JDTCI,20,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "May 12",41,E,03,2187981,JDTCI,20,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jun 12",41,E,03,2187981,JDTCI,20,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -3902,7 +3828,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,02,2187981,"John Deere Pune",39,30,10,0,0,0,0,0,0,13,2,5,7,1,4,4,4,7,7,2,2,,Active
 "Feb 21",98,D,02,2187981,"John Deere Pune",39,30,10,0,0,0,0,0,0,14,2,5,7,1,5,4,4,7,7,2,2,,Active
 "Mar 21",98,D,02,2187981,"John Deere Pune",39,30,10,0,0,0,0,0,0,14,2,5,7,1,8,4,4,7,7,2,2,,Active
-" "
 "Jun 17",98,P,02,6604804,Bibvewadi,20,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 17",98,P,01,6604804,Bibvewadi,10,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,1,,Active
 "Aug 17",98,P,01,6604804,Bibvewadi,10,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,2,,Active
@@ -3949,7 +3874,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,02,6604804,Bibvewadi,20,20,7,0,0,0,0,0,0,3,2,2,2,1,0,4,3,7,6,1,2,,Active
 "Feb 21",98,D,02,6604804,Bibvewadi,20,20,7,0,0,0,0,0,0,3,2,2,2,1,0,4,3,7,6,1,2,,Active
 "Mar 21",98,D,02,6604804,Bibvewadi,20,20,9,0,0,0,0,0,0,4,2,3,3,1,2,4,3,7,6,1,2,,Active
-" "
 "Jun 19",98,D,05,7483153,"Eaton Innovators",20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,D,03,7483153,"Eaton Innovators",17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Aug 19",98,D,03,7483153,"Eaton Innovators",17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -3972,7 +3896,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,02,7483153,"Eaton Innovators",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,D,02,7483153,"Eaton Innovators",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,D,02,7483153,"Eaton Innovators",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "May 20",98,D,04,7752570,Clarion,20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Jun 20",98,D,04,7752570,Clarion,20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Jul 20",98,D,02,7752570,Clarion,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,Active
@@ -3984,7 +3907,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,02,7752570,Clarion,20,18,4,0,0,0,0,0,0,4,0,0,0,0,0,4,2,7,5,1,1,,Active
 "Feb 21",98,D,02,7752570,Clarion,20,18,4,0,0,0,0,0,0,4,0,0,0,0,0,4,2,7,7,2,1,,Active
 "Mar 21",98,D,02,7752570,Clarion,20,20,5,0,0,0,0,0,0,4,0,0,0,0,0,4,4,7,7,2,1,,Active
-" "
 "Sep 16",98,D,02,5742252,"Toastmasters Club of Zensar, Pune",27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 16",98,D,02,5742252,"Toastmasters Club of Zensar, Pune",27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Nov 16",98,D,02,5742252,"Toastmasters Club of Zensar, Pune",27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -4040,7 +3962,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,03,5742252,"Toastmasters Club of Zensar, Pune",11,5,3,0,0,0,0,0,0,4,0,0,0,0,0,4,0,7,4,0,2,,Active
 "Feb 21",98,D,03,5742252,"Toastmasters Club of Zensar, Pune",11,5,3,0,0,0,0,0,0,4,0,0,0,0,0,4,0,7,7,0,2,,Low
 "Mar 21",98,D,03,5742252,"Toastmasters Club of Zensar, Pune",11,6,3,0,0,0,0,0,0,4,0,0,0,0,0,4,1,7,7,0,2,,Low
-" "
 "Sep 16",98,D,04,5749190,"iNautix Pune",21,26,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,1,,Active
 "Oct 16",98,D,04,5749190,"iNautix Pune",21,27,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,1,,Active
 "Nov 16",98,D,04,5749190,"iNautix Pune",21,27,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,1,,Active
@@ -4096,7 +4017,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,03,5749190,"BNY Mellon Technology Pune",10,10,2,0,0,0,0,0,0,0,0,0,0,0,0,4,2,7,2,1,2,,Active
 "Feb 21",98,D,03,5749190,"BNY Mellon Technology Pune",10,12,4,0,0,0,0,0,0,0,0,0,0,0,0,4,4,7,7,1,2,,Active
 "Mar 21",98,D,03,5749190,"BNY Mellon Technology Pune",10,13,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,7,1,2,,Active
-" "
 "Oct 17",98,D,03,6691907,"DFPCL Pune",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 17",98,D,03,6691907,"DFPCL Pune",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Dec 17",98,D,03,6691907,"DFPCL Pune",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
@@ -4139,7 +4059,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,03,6691907,"RISE Toastmasters Club, Magarpatta",23,21,6,0,0,0,0,0,0,1,1,0,3,1,4,4,2,7,7,2,2,,Active
 "Feb 21",98,D,03,6691907,"RISE Toastmasters Club, Magarpatta",23,22,7,0,0,0,0,0,0,1,2,0,3,1,4,4,3,7,7,2,2,,Active
 "Mar 21",98,D,03,6691907,"RISE Toastmasters Club, Magarpatta",23,25,8,0,0,0,0,0,0,2,2,0,4,1,5,4,6,7,7,2,2,,Active
-" "
 "Mar 19",98,D,04,7327561,"Teradata Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 19",98,D,04,7327561,"Teradata Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 19",98,D,04,7327561,"Teradata Pune",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
@@ -4165,11 +4084,9 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,03,7327561,"Teradata Pune",29,23,9,0,0,0,0,0,0,5,2,2,3,1,2,4,1,7,7,1,1,,Active
 "Feb 21",98,D,03,7327561,"Teradata Pune",29,23,9,0,0,0,0,0,0,5,2,2,4,1,2,4,1,7,7,2,1,,Active
 "Mar 21",98,D,03,7327561,"Teradata Pune",29,31,10,0,0,0,0,0,0,6,2,2,5,1,7,4,9,7,7,2,1,,Active
-" "
 "Jan 21",98,D,03,7850267,Backpackers,20,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Feb 21",98,D,03,7850267,Backpackers,20,18,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,2,1,,Active
 "Mar 21",98,D,03,7850267,Backpackers,20,21,5,0,0,0,0,0,0,0,0,0,2,1,1,3,0,0,7,2,1,,Active
-" "
 "May 11",82,M,02,1813871,"ADP Pune",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jun 11",82,M,02,1813871,"ADP Pune",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 11",41,E,03,1813871,"ADP Pune",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -4288,7 +4205,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,04,1813871,"ADP Pune",25,25,8,0,0,0,0,0,0,5,2,0,2,1,2,4,1,7,7,1,2,,Active
 "Feb 21",98,D,04,1813871,"ADP Pune",25,25,8,0,0,0,0,0,0,5,2,0,2,1,2,4,1,7,7,1,2,,Active
 "Mar 21",98,D,04,1813871,"ADP Pune",25,25,9,0,0,0,0,0,0,5,2,2,2,1,2,4,1,7,7,2,2,,Active
-" "
 "Apr 17",98,D,03,6006628,"Allstate Toastmasters Club Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 17",98,D,03,6006628,"Allstate Toastmasters Club Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 17",98,D,03,6006628,"Allstate Toastmasters Club Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -4337,7 +4253,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,04,6006628,"Allstate Toastmasters Club Pune",17,14,4,0,0,0,0,0,0,4,1,0,1,1,0,4,1,7,4,0,2,,Active
 "Feb 21",98,D,04,6006628,"Allstate Toastmasters Club Pune",17,17,5,0,0,0,0,0,0,4,1,0,1,1,0,4,4,7,6,0,2,,Active
 "Mar 21",98,D,04,6006628,"Allstate Toastmasters Club Pune",17,17,5,0,0,0,0,0,0,5,1,0,1,1,0,4,4,7,6,0,2,,Active
-" "
 "Apr 18",98,D,02,6894572,"Accenture Pune Cluster - 1",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 18",98,D,02,6894572,"Accenture Pune Cluster - 1",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,D,02,6894572,"Accenture Pune Cluster - 1",20,25,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,1,,Active
@@ -4374,7 +4289,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,04,6894572,"Accenture Pune Toastmasters Club - Magarpatta",8,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,7,0,0,0,,Active
 "Feb 21",98,D,04,6894572,"Accenture Pune Toastmasters Club - Magarpatta",8,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,7,0,0,0,,Ineligible
 "Mar 21",98,D,04,6894572,"Accenture Pune Toastmasters Club - Magarpatta",8,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,7,0,0,0,,Ineligible
-" "
 "Apr 18",98,D,04,6958921,"Srujan Hindi Toastmasters Club, Pune",20,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 18",98,D,04,6958921,"Srujan Hindi Toastmasters Club, Pune",20,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,D,04,6958921,"Srujan Hindi Toastmasters Club, Pune",20,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -4411,7 +4325,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,04,6958921,"Srujan Hindi Toastmasters Club, Pune",17,9,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,7,3,1,1,,Active
 "Feb 21",98,D,04,6958921,"Srujan Hindi Toastmasters Club, Pune",17,9,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,7,4,1,1,,Active
 "Mar 21",98,D,04,6958921,"Srujan Hindi Toastmasters Club, Pune",17,9,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,7,4,1,1,,Active
-" "
 "May 20",98,D,05,7780150,"Wonders of Women",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 20",98,D,05,7780150,"Wonders of Women",20,24,5,0,0,0,0,1,1,0,0,0,0,0,1,4,0,0,0,1,1,D,Active
 "Jul 20",98,D,04,7780150,"Wonders of Women",24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,,Active
@@ -4423,7 +4336,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,04,7780150,"Wonders of Women",24,24,6,0,0,0,0,0,0,7,2,1,2,1,0,4,0,7,2,1,2,,Active
 "Feb 21",98,D,04,7780150,"Wonders of Women",24,24,7,0,0,0,0,0,0,7,2,1,2,1,1,4,0,7,2,1,2,,Active
 "Mar 21",98,D,04,7780150,"Wonders of Women",24,24,7,0,0,0,0,0,0,7,2,1,2,1,1,4,0,7,2,1,2,,Active
-" "
 "Sep 10",82,M,02,1543586,"Toastmasters Club of Pune South East",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Oct 10",82,M,02,1543586,"Toastmasters Club of Pune South East",20,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,Active
 "Nov 10",82,M,02,1543586,"Toastmasters Club of Pune South East",20,10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
@@ -4550,7 +4462,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,05,1543586,"Toastmasters Club of Pune South East",52,48,8,0,0,0,0,0,0,3,2,4,1,1,2,4,11,7,7,1,2,,Active
 "Feb 21",98,D,05,1543586,"Toastmasters Club of Pune South East",52,49,10,0,0,0,0,0,0,4,2,7,2,1,4,4,12,7,7,2,2,,Active
 "Mar 21",98,D,05,1543586,"Toastmasters Club of Pune South East",52,51,10,0,0,0,0,0,0,5,2,8,3,1,6,4,14,7,7,2,2,,Active
-" "
 "Sep 13",41,I,01,3499545,"Toastmasters Club of AMDOCS",20,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Oct 13",41,I,01,3499545,"Toastmasters Club of AMDOCS",20,17,2,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Nov 13",41,I,01,3499545,"Toastmasters Club of AMDOCS",20,17,2,0,0,0,0,1,2,0,0,0,0,0,0,0,0,6,0,0,0,,Active
@@ -4641,7 +4552,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,05,3499545,"Toastmasters Club of Amdocs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,D,05,3499545,"Toastmasters Club of Amdocs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,D,05,3499545,"Toastmasters Club of Amdocs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Feb 18",98,D,03,6783469,"BNYMellon - Magarpatta",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 18",98,D,03,6783469,"BNYMellon - Magarpatta",21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
 "Apr 18",98,D,03,6783469,"BNYMellon - Magarpatta",21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
@@ -4680,7 +4590,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,05,6783469,"BNYMellon - Magarpatta",13,23,6,0,0,0,0,0,0,0,1,0,1,1,2,4,11,7,5,1,1,,Active
 "Feb 21",98,D,05,6783469,"BNYMellon - Magarpatta",13,23,6,0,0,0,0,0,0,0,1,0,1,1,2,4,11,7,7,1,1,,Active
 "Mar 21",98,D,05,6783469,"BNYMellon - Magarpatta",13,23,6,0,0,0,0,0,0,0,1,0,1,1,2,4,11,7,7,1,1,,Active
-" "
 "Feb 20",98,D,03,7709645,"E3 Ecolab",36,36,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 20",98,D,03,7709645,"E3 Ecolab",36,36,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Apr 20",98,D,03,7709645,"E3 Ecolab",36,36,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Ineligible
@@ -4695,7 +4604,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,D,05,7709645,"E3 Ecolab",36,15,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,4,1,1,,Active
 "Feb 21",98,D,05,7709645,"E3 Ecolab",36,15,4,0,0,0,0,0,0,2,0,0,0,0,0,4,5,7,6,1,1,,Active
 "Mar 21",98,D,05,7709645,"E3 Ecolab",36,15,4,0,0,0,0,0,0,2,0,0,0,0,0,4,5,7,6,2,1,,Active
-" "
 "Jun 09",82,F,01,1272701,Elan,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 09",82,F,02,1272701,Elan,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 09",82,F,02,1272701,Elan,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -4837,7 +4745,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,01,1272701,"Elan Toastmasters Hyderabad",30,26,8,0,0,0,0,0,0,6,2,5,4,1,0,4,0,7,6,1,1,,Active
 "Feb 21",98,E,01,1272701,"Elan Toastmasters Hyderabad",30,26,8,0,0,0,0,0,0,6,2,6,4,1,0,4,0,7,6,2,1,,Active
 "Mar 21",98,E,01,1272701,"Elan Toastmasters Hyderabad",30,26,9,0,0,0,0,0,0,7,2,6,5,1,1,4,0,7,6,2,1,,Active
-" "
 "Aug 10",82,F,03,1390103,"Microsoft Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Sep 10",82,F,03,1390103,"Microsoft Hyderabad",20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,Active
 "Oct 10",82,F,03,1390103,"Microsoft Hyderabad",20,25,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,,Active
@@ -4965,7 +4872,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,01,1390103,"Microsoft Hyderabad Toastmasters ",19,19,3,0,0,0,0,0,0,2,1,0,1,0,0,4,1,7,6,1,1,,Active
 "Feb 21",98,E,01,1390103,"Microsoft Hyderabad Toastmasters ",19,20,3,0,0,0,0,0,0,2,1,0,1,0,0,4,2,7,6,1,1,,Active
 "Mar 21",98,E,01,1390103,"Microsoft Hyderabad Toastmasters ",19,20,3,0,0,0,0,0,0,2,1,0,1,0,0,4,2,7,6,1,1,,Active
-" "
 "Sep 12",41,H,02,2694327,"Chaitanya Bharathi Institute of Technology",20,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Oct 12",41,H,02,2694327,"Chaitanya Bharathi Institute of Technology",20,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Nov 12",41,H,02,2694327,"Chaitanya Bharathi Institute of Technology",20,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -5068,7 +4974,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,01,2694327,"Chaitanya Bharathi Institute of Technology",3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,,Ineligible
 "Feb 21",98,E,01,2694327,"Chaitanya Bharathi Institute of Technology",3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,,Ineligible
 "Mar 21",98,E,01,2694327,"Chaitanya Bharathi Institute of Technology",3,10,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,1,,Active
-" "
 "Mar 14",41,L,03,3743725,Ben's,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Apr 14",41,L,03,3743725,Ben's,20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "May 14",41,L,03,3743725,Ben's,20,23,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,7,1,1,,Active
@@ -5153,7 +5058,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,01,3743725,Ben's,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Active
 "Feb 21",98,E,01,3743725,Ben's,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Ineligible
 "Mar 21",98,E,01,3743725,Ben's,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Ineligible
-" "
 "Aug 20",98,E,01,7799944,SLIC,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Sep 20",98,E,01,7799944,SLIC,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
 "Oct 20",98,E,01,7799944,SLIC,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
@@ -5162,11 +5066,9 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,01,7799944,SLIC,20,20,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,5,4,1,1,,Active
 "Feb 21",98,E,01,7799944,SLIC,20,20,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,5,4,2,1,,Active
 "Mar 21",98,E,01,7799944,SLIC,20,33,6,0,0,0,0,0,0,5,2,0,1,0,0,4,9,5,4,2,1,,Active
-" "
 "Jan 21",98,E,01,7847230,"Spoorthy Telugu",24,24,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Feb 21",98,E,01,7847230,"Spoorthy Telugu",24,27,2,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,7,2,1,,Active
 "Mar 21",98,E,01,7847230,"Spoorthy Telugu",24,28,4,0,0,0,0,0,0,2,1,0,0,1,0,4,0,0,7,2,1,,Active
-" "
 "Nov 06",82,C,13,946002,,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Dec 06",82,C,13,946002,,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jan 07",82,C,13,946002,,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -5339,7 +5241,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,02,946002,Hyderabad,45,47,9,0,0,0,0,0,0,3,2,2,3,1,2,4,4,7,6,1,1,,Active
 "Feb 21",98,E,02,946002,Hyderabad,45,47,9,0,0,0,0,0,0,3,2,3,3,1,3,4,4,7,6,1,1,,Active
 "Mar 21",98,E,02,946002,Hyderabad,45,47,9,0,0,0,0,0,0,3,2,3,3,1,4,4,4,7,6,2,1,,Active
-" "
 "Aug 07",82,E,12,1041988,,20,25,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,0,0,1,,Active
 "Sep 07",82,E,12,1041988,,20,25,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,0,0,1,,Active
 "Oct 07",82,E,12,1041988,,20,25,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,0,0,1,,Active
@@ -5503,7 +5404,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,02,1041988,"Synopsys Hyderabad",10,15,3,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,4,2,1,,Active
 "Feb 21",98,E,02,1041988,"Synopsys Hyderabad",10,15,3,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,4,2,1,,Active
 "Mar 21",98,E,02,1041988,"Synopsys Hyderabad",10,15,3,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,4,2,1,,Active
-" "
 "Mar 15",41,H,04,4504233,"Techmahindra Toastmasters Club (Infocity)",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,,Active
 "Apr 15",41,H,04,4504233,"Techmahindra Toastmasters Club (Infocity)",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,,Active
 "May 15",41,H,04,4504233,"Techmahindra Toastmasters Club (Infocity)",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,,Ineligible
@@ -5576,7 +5476,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,02,4504233,"Techmahindra Toastmasters Club (Infocity)",12,10,3,0,0,0,0,0,0,3,0,0,0,1,0,2,0,7,5,1,2,,Active
 "Feb 21",98,E,02,4504233,"Techmahindra Toastmasters Club (Infocity)",12,11,4,0,0,0,0,0,0,4,0,0,0,1,0,3,0,7,5,1,2,,Active
 "Mar 21",98,E,02,4504233,"Techmahindra Toastmasters Club (Infocity)",12,11,4,0,0,0,0,0,0,4,0,0,0,1,0,3,0,7,5,1,2,,Active
-" "
 "Aug 17",98,F,03,6623002,"TCS HYD Maitree Kohinoor Park",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Sep 17",98,F,03,6623002,"TCS HYD Maitree Kohinoor Park",20,25,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,,Active
 "Oct 17",98,F,03,6623002,"TCS HYD Maitree Kohinoor Park",20,25,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,,Low
@@ -5621,7 +5520,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,02,6623002,"TCS HYD Maitree Kohinoor Park",11,9,4,0,0,0,0,0,0,1,1,0,0,1,0,4,2,6,4,1,2,,Active
 "Feb 21",98,E,02,6623002,"TCS HYD Maitree Kohinoor Park",11,9,4,0,0,0,0,0,0,1,1,0,0,1,0,4,2,6,4,1,2,,Active
 "Mar 21",98,E,02,6623002,"TCS HYD Maitree Kohinoor Park",11,9,5,0,0,0,0,0,0,1,2,0,1,1,0,4,2,6,4,1,2,,Active
-" "
 "Jan 20",98,0D,0A,7533654,StoryDellers,23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,G,01,7533654,StoryDellers,23,24,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Mar 20",98,G,01,7533654,StoryDellers,23,24,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
@@ -5637,7 +5535,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,02,7533654,StoryDellers,25,11,3,0,0,0,0,0,0,5,0,0,0,0,0,2,0,6,6,1,1,,Active
 "Feb 21",98,E,02,7533654,StoryDellers,25,11,4,0,0,0,0,0,0,6,2,1,0,0,0,2,0,6,6,1,1,,Active
 "Mar 21",98,E,02,7533654,StoryDellers,25,11,5,0,0,0,0,0,0,6,2,2,0,0,0,2,0,6,6,1,1,,Active
-" "
 "Aug 12",41,H,03,2660168,"TCS Waverock Hyderabad",20,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,,Active
 "Sep 12",41,H,03,2660168,"TCS Waverock Hyderabad",20,25,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,1,1,,Active
 "Oct 12",41,H,03,2660168,"TCS Waverock Hyderabad",20,30,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,0,1,1,,Active
@@ -5741,7 +5638,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,03,2660168,"TCS Waverock Hyderabad",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,E,03,2660168,"TCS Waverock Hyderabad",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,E,03,2660168,"TCS Waverock Hyderabad",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Sep 12",41,F,03,2669965,"Infosys Toastmasters, Hyderabad Prakriti",26,21,1,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,1,0,,Active
 "Oct 12",41,F,03,2669965,"Infosys Toastmasters, Hyderabad Prakriti",26,27,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,1,0,,Active
 "Nov 12",41,F,03,2669965,"Infosys Toastmasters, Hyderabad Prakriti",26,46,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,1,0,,Active
@@ -5844,7 +5740,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,03,2669965,"Infosys Toastmasters, Hyderabad Prakriti",20,18,4,0,0,0,0,0,0,3,1,0,1,0,0,4,6,6,7,1,2,,Active
 "Feb 21",98,E,03,2669965,"Infosys Toastmasters, Hyderabad Prakriti",20,18,4,0,0,0,0,0,0,3,1,0,1,0,0,4,6,6,7,1,2,,Active
 "Mar 21",98,E,03,2669965,"Infosys Toastmasters, Hyderabad Prakriti",20,19,4,0,0,0,0,0,0,3,1,0,1,0,0,4,7,6,7,1,2,,Active
-" "
 "Jun 13",41,F,02,3265856,"Xilinx India",20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 13",41,H,02,3265856,"Xilinx India",21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Active
 "Aug 13",41,H,02,3265856,"Xilinx India",21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Active
@@ -5938,7 +5833,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,03,3265856,"Xilinx India",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,E,03,3265856,"Xilinx India",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,E,03,3265856,"Xilinx India",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Sep 17",98,H,01,6662202,"TCS Maitree Adibatla",26,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 17",98,H,01,6662202,"TCS Maitree Adibatla",26,27,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,1,,Active
 "Nov 17",98,H,01,6662202,"TCS Maitree Adibatla",26,28,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,0,1,,Active
@@ -5982,7 +5876,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,03,6662202,"TCS Maitree Adibatla",25,26,7,0,0,0,0,0,0,4,2,3,0,0,0,4,5,7,5,1,2,,Active
 "Feb 21",98,E,03,6662202,"TCS Maitree Adibatla",25,28,7,0,0,0,0,0,0,4,2,3,0,0,0,4,7,7,5,1,2,,Active
 "Mar 21",98,E,03,6662202,"TCS Maitree Adibatla",25,29,9,0,0,0,0,0,0,4,2,5,2,1,0,4,8,7,5,2,2,,Active
-" "
 "Feb 19",98,G,03,7308980,ANURAG,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 19",98,G,03,7308980,ANURAG,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 19",98,G,03,7308980,ANURAG,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -6009,7 +5902,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,03,7308980,ANURAG,12,9,3,0,0,0,0,0,0,7,1,0,1,0,0,1,0,5,4,1,1,,Active
 "Feb 21",98,E,03,7308980,ANURAG,12,9,5,0,0,0,0,0,0,8,2,0,2,0,0,1,0,5,4,1,1,,Active
 "Mar 21",98,E,03,7308980,ANURAG,12,9,5,0,0,0,0,0,0,8,2,0,2,0,0,1,0,5,4,1,1,,Active
-" "
 "Jun 20",98,F,04,7681349,"GH ReveRB",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 20",98,E,03,7681349,"GH ReveRB",22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 20",98,E,03,7681349,"GH ReveRB",22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -6020,7 +5912,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,03,7681349,"GH ReveRB",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Feb 21",98,E,03,7681349,"GH ReveRB",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Ineligible
 "Mar 21",98,E,03,7681349,"GH ReveRB",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Ineligible
-" "
 "Apr 12",41,F,03,2221384,"Invesco India",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "May 12",41,F,03,2221384,"Invesco India",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jun 12",41,F,03,2221384,"Invesco India",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -6128,7 +6019,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,04,2221384,"Invesco India",20,21,4,0,0,0,0,0,0,1,2,0,0,0,0,4,1,7,5,1,1,,Active
 "Feb 21",98,E,04,2221384,"Invesco India",20,21,4,0,0,0,0,0,0,1,2,0,0,0,0,4,1,7,5,1,1,,Active
 "Mar 21",98,E,04,2221384,"Invesco India",20,21,4,0,0,0,0,0,0,1,2,0,0,0,0,4,1,7,5,1,1,,Active
-" "
 "Jun 15",41,F,01,4800980,"Stagecoach Hyderabad",28,28,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 15",98,E,04,4800980,"Stagecoach Hyderabad",0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 15",98,E,04,4800980,"Stagecoach Hyderabad",0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,,Active
@@ -6198,7 +6088,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,04,4800980,"Stagecoach Hyderabad",21,25,6,0,0,0,0,0,0,5,2,1,0,0,0,4,4,7,6,1,1,,Active
 "Feb 21",98,E,04,4800980,"Stagecoach Hyderabad",21,25,6,0,0,0,0,0,0,5,2,1,0,0,0,4,4,7,6,1,1,,Active
 "Mar 21",98,E,04,4800980,"Stagecoach Hyderabad",21,25,7,0,0,0,0,0,0,5,2,2,0,0,0,4,4,7,6,2,1,,Active
-" "
 "Oct 18",98,G,01,7166006,"SRIT Anantapur",31,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 18",98,G,01,7166006,"SRIT Anantapur",31,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 18",98,G,01,7166006,"SRIT Anantapur",31,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -6229,7 +6118,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,04,7166006,"SRIT Anantapur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,E,04,7166006,"SRIT Anantapur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,E,04,7166006,"SRIT Anantapur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "May 20",98,F,02,7709596,"RG Titans",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 20",98,F,02,7709596,"RG Titans",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 20",98,E,04,7709596,"RG Titans",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -6241,13 +6129,11 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,E,04,7709596,"RG Titans",20,0,1,0,0,0,0,0,0,3,2,0,0,0,0,0,0,7,0,0,1,,Active
 "Feb 21",98,E,04,7709596,"RG Titans",20,0,1,0,0,0,0,0,0,3,2,0,0,0,0,0,0,7,0,0,1,,Ineligible
 "Mar 21",98,E,04,7709596,"RG Titans",20,0,1,0,0,0,0,0,0,3,2,0,0,0,0,0,0,7,0,0,1,,Ineligible
-" "
 "Nov 20",98,E,04,7833894,"Toastmasters For Hyderabad Entrepreneurs",20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Dec 20",98,E,04,7833894,"Toastmasters For Hyderabad Entrepreneurs",20,20,4,0,0,0,0,0,0,0,1,0,2,1,3,3,0,0,0,2,1,,Active
 "Jan 21",98,E,04,7833894,"Toastmasters For Hyderabad Entrepreneurs",20,26,8,0,0,0,0,0,0,7,1,0,2,1,4,4,5,0,7,2,1,,Active
 "Feb 21",98,E,04,7833894,"Toastmasters For Hyderabad Entrepreneurs",20,27,10,0,0,0,0,0,0,10,2,2,4,1,6,4,6,0,7,2,1,,Active
 "Mar 21",98,E,04,7833894,"Toastmasters For Hyderabad Entrepreneurs",20,27,10,0,0,0,0,0,0,10,2,2,4,1,10,4,6,0,7,2,1,,Active
-" "
 "Jan 10",82,F,03,1431155,Broadridge,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Active
 "Feb 10",82,F,03,1431155,Broadridge,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Active
 "Mar 10",82,F,03,1431155,Broadridge,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Active
@@ -6382,7 +6268,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,01,1431155,Broadridge,20,20,2,0,0,0,0,0,0,1,1,0,0,0,0,4,0,7,5,0,1,,Active
 "Feb 21",98,F,01,1431155,Broadridge,20,20,2,0,0,0,0,0,0,1,1,0,0,0,0,4,0,7,5,0,1,,Active
 "Mar 21",98,F,01,1431155,Broadridge,20,20,2,0,0,0,0,0,0,1,1,0,0,0,0,4,0,7,5,0,1,,Active
-" "
 "Oct 10",82,F,01,1530783,Madhapur,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Nov 10",82,F,01,1530783,Madhapur,20,20,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Dec 10",82,F,01,1530783,Madhapur,20,20,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -6508,7 +6393,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,01,1530783,Madhapur,21,21,9,0,0,0,0,0,0,6,2,2,4,1,4,4,0,7,6,1,1,,Active
 "Feb 21",98,F,01,1530783,Madhapur,21,21,9,0,0,0,0,0,0,6,2,2,4,1,4,4,0,7,6,1,1,,Active
 "Mar 21",98,F,01,1530783,Madhapur,21,21,9,0,0,0,0,0,0,6,2,2,4,1,4,4,0,7,6,1,1,,Active
-" "
 "May 15",41,H,02,4731654,"JPMC Hyderabad",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 15",41,H,02,4731654,"JPMC Hyderabad",50,50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 15",98,E,05,4731654,"JPMC Hyderabad",47,50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -6579,7 +6463,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,01,4731654,"JPMC Hyderabad",20,16,3,0,0,0,0,0,0,1,0,0,0,0,0,4,1,7,7,1,2,,Active
 "Feb 21",98,F,01,4731654,"JPMC Hyderabad",20,16,3,0,0,0,0,0,0,1,0,0,0,0,0,4,1,7,7,1,2,,Active
 "Mar 21",98,F,01,4731654,"JPMC Hyderabad",20,16,4,0,0,0,0,0,0,1,0,0,0,1,0,4,1,7,7,1,2,,Active
-" "
 "Dec 17",98,H,06,6779917,Pega,22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 18",98,H,06,6779917,Pega,22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 18",98,H,06,6779917,Pega,22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,,Active
@@ -6620,7 +6503,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,01,6779917,Pega,23,5,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,1,,Active
 "Feb 21",98,F,01,6779917,Pega,23,5,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,1,,Low
 "Mar 21",98,F,01,6779917,Pega,23,5,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,1,,Low
-" "
 "Jun 19",98,F,01,7446896,"Informatica iDiction",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,F,01,7446896,"Informatica iDiction",21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 19",98,F,01,7446896,"Informatica iDiction",21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Active
@@ -6643,7 +6525,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,01,7446896,"Informatica iDiction",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,F,01,7446896,"Informatica iDiction",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,F,01,7446896,"Informatica iDiction",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Jun 09",82,F,01,1340464,"TCS-Maitree Hyderabad",20,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 09",82,F,01,1340464,"TCS-Maitree Hyderabad",36,49,4,0,0,0,0,1,1,0,0,0,0,0,0,4,9,0,0,0,1,,Active
 "Aug 09",82,F,01,1340464,"TCS-Maitree Hyderabad",36,50,4,1,0,0,0,1,2,0,0,0,0,0,0,4,10,0,0,0,1,,Active
@@ -6785,7 +6666,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,02,1340464,"TCS Maitree Hyderabad",20,14,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,7,6,1,2,,Active
 "Feb 21",98,F,02,1340464,"TCS Maitree Hyderabad",20,14,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,7,6,1,2,,Active
 "Mar 21",98,F,02,1340464,"TCS Maitree Hyderabad",20,14,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,7,6,1,2,,Active
-" "
 "Apr 10",82,F,02,1466666,"ADP Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "May 10",82,F,02,1466666,"ADP Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jun 10",82,F,02,1466666,"ADP Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -6917,7 +6797,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,02,1466666,"ADP Hyderabad",30,31,9,0,0,0,0,0,0,8,2,4,2,1,0,4,5,7,7,1,2,,Active
 "Feb 21",98,F,02,1466666,"ADP Hyderabad",30,31,10,0,0,0,0,0,0,11,2,5,2,1,3,4,5,7,7,1,2,,Active
 "Mar 21",98,F,02,1466666,"ADP Hyderabad",30,31,10,0,0,0,0,0,0,12,2,5,2,1,3,4,5,7,7,2,2,,Active
-" "
 "Jun 14",41,L,03,4040445,"CMC Hyderabad",20,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 14",41,L,03,4040445,"CMC Hyderabad",19,26,1,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,1,,Active
 "Aug 14",41,H,01,4040445,"CMC Hyderabad",19,26,2,0,0,0,0,1,0,0,0,0,0,0,0,4,3,5,0,0,1,,Active
@@ -6999,7 +6878,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,02,4040445,"CMC Hyderabad",10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,0,0,,Active
 "Feb 21",98,F,02,4040445,"CMC Hyderabad",10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,0,0,,Active
 "Mar 21",98,F,02,4040445,"CMC Hyderabad",10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,0,0,,Active
-" "
 "Jul 15",98,F,02,5030861,Roots,30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 15",98,F,02,5030861,Roots,30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Sep 15",98,F,02,5030861,Roots,30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -7067,7 +6945,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,02,5030861,Roots,20,28,10,0,0,0,0,0,0,4,2,2,2,1,2,4,13,7,6,1,1,,Active
 "Feb 21",98,F,02,5030861,Roots,20,28,10,0,0,0,0,0,0,4,2,2,2,1,2,4,13,7,6,1,1,,Active
 "Mar 21",98,F,02,5030861,Roots,20,28,10,0,0,0,0,0,0,4,2,2,2,1,3,4,13,7,6,1,1,,Active
-" "
 "Mar 12",41,F,01,2254770,"Toastmasters @ Novartis Hyderabad",20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Apr 12",41,F,01,2254770,"Toastmasters @ Novartis Hyderabad",20,30,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,1,0,,Active
 "May 12",41,F,01,2254770,"Toastmasters @ Novartis Hyderabad",20,36,2,0,0,0,0,0,0,0,0,0,0,0,0,4,10,0,0,1,0,,Active
@@ -7176,7 +7053,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,03,2254770,"Toastmasters at Novartis Hyderabad",28,24,4,0,0,0,0,0,0,1,2,1,1,0,0,4,3,7,7,1,1,,Active
 "Feb 21",98,F,03,2254770,"Toastmasters at Novartis Hyderabad",28,26,6,0,0,0,0,0,0,2,2,1,3,0,0,4,5,7,7,1,1,,Active
 "Mar 21",98,F,03,2254770,"Toastmasters at Novartis Hyderabad",28,26,6,0,0,0,0,0,0,2,2,1,3,0,0,4,5,7,7,2,1,,Active
-" "
 "Jan 17",98,F,02,5957707,"SYF Hyderabad",26,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Feb 17",98,F,02,5957707,"SYF Hyderabad",26,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 17",98,F,02,5957707,"SYF Hyderabad",26,26,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
@@ -7228,7 +7104,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,03,5957707,"SYF Hyderabad",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,F,03,5957707,"SYF Hyderabad",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,F,03,5957707,"SYF Hyderabad",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Dec 19",98,H,01,7318924,"Statestreet Hyd",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 20",98,H,01,7318924,"Statestreet Hyd",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,H,01,7318924,"Statestreet Hyd",30,30,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
@@ -7245,7 +7120,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,03,7318924,"Statestreet Hyd",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,7,0,0,,Active
 "Feb 21",98,F,03,7318924,"Statestreet Hyd",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,7,0,0,,Active
 "Mar 21",98,F,03,7318924,"Statestreet Hyd",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,7,0,0,,Active
-" "
 "Jun 19",98,F,03,7432531,"RMSI Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Jul 19",98,F,03,7432531,"RMSI Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 19",98,F,03,7432531,"RMSI Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -7268,7 +7142,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,03,7432531,"RMSI Hyderabad",3,8,2,0,0,0,0,0,0,3,2,0,0,0,0,4,1,0,5,0,1,,Active
 "Feb 21",98,F,03,7432531,"RMSI Hyderabad",3,8,2,0,0,0,0,0,0,3,2,0,0,0,0,4,1,0,5,0,1,,Active
 "Mar 21",98,F,03,7432531,"RMSI Hyderabad",3,8,2,0,0,0,0,0,0,3,2,0,0,0,0,4,1,0,5,0,1,,Active
-" "
 "Dec 14",41,H,03,3492833,Waltair,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 15",41,H,03,3492833,Waltair,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Feb 15",41,H,03,3492833,Waltair,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
@@ -7344,7 +7217,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,04,3492833,Waltair,14,15,3,0,0,0,0,0,0,0,0,0,0,1,0,4,3,6,6,0,1,,Active
 "Feb 21",98,F,04,3492833,Waltair,14,15,4,0,0,0,0,0,0,3,2,0,0,1,0,4,3,6,6,0,1,,Active
 "Mar 21",98,F,04,3492833,Waltair,14,17,6,0,0,0,0,0,0,5,2,1,1,1,0,4,5,6,6,0,1,,Active
-" "
 "Apr 18",98,E,06,6943597,"L&T Vizag",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 18",98,E,06,6943597,"L&T Vizag",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,E,06,6943597,"L&T Vizag",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -7381,7 +7253,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,04,6943597,"L&T Vizag",29,25,4,0,0,0,0,0,0,3,2,1,1,0,0,4,2,7,7,1,2,,Active
 "Feb 21",98,F,04,6943597,"L&T Vizag",29,25,4,0,0,0,0,0,0,3,2,1,1,0,0,4,2,7,7,1,2,,Active
 "Mar 21",98,F,04,6943597,"L&T Vizag",29,25,7,0,0,0,0,0,0,3,2,1,2,1,2,4,2,7,7,1,2,,Active
-" "
 "Apr 19",98,E,02,7402154,Pragati,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 19",98,E,02,7402154,Pragati,22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 19",98,E,02,7402154,Pragati,22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -7406,7 +7277,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,04,7402154,Pragati,27,23,7,0,0,0,0,0,0,7,2,4,1,0,0,4,8,7,7,1,2,,Active
 "Feb 21",98,F,04,7402154,Pragati,27,23,7,0,0,0,0,0,0,7,2,4,1,0,0,4,8,7,7,1,2,,Active
 "Mar 21",98,F,04,7402154,Pragati,27,23,7,0,0,0,0,0,0,7,2,4,1,0,0,4,8,7,7,1,2,,Active
-" "
 "Aug 20",98,F,04,7657911,Kiet,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,,Active
 "Sep 20",98,F,04,7657911,Kiet,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,,Active
 "Oct 20",98,F,04,7657911,Kiet,20,20,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,6,0,0,1,,Active
@@ -7415,14 +7285,12 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,F,04,7657911,Kiet,20,20,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,6,7,0,1,,Active
 "Feb 21",98,F,04,7657911,Kiet,20,20,2,0,0,0,0,0,0,5,1,0,0,0,0,0,0,6,7,0,1,,Active
 "Mar 21",98,F,04,7657911,Kiet,20,20,5,0,0,0,0,0,0,5,2,2,0,0,0,0,0,6,7,1,1,,Active
-" "
 "Oct 20",98,F,04,7825838,GITAM,23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 20",98,F,04,7825838,GITAM,23,23,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Dec 20",98,F,04,7825838,GITAM,23,24,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,1,1,,Active
 "Jan 21",98,F,04,7825838,GITAM,23,26,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,7,1,1,,Active
 "Feb 21",98,F,04,7825838,GITAM,23,35,4,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0,7,1,1,,Active
 "Mar 21",98,F,04,7825838,GITAM,23,36,4,0,0,0,0,0,0,0,0,0,0,0,0,4,9,0,7,1,1,,Active
-" "
 "Jan 07",82,C,13,991226,,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Feb 07",82,C,13,991226,,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Active
 "Mar 07",82,C,13,991226,,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Active
@@ -7593,7 +7461,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,01,991226,"Vision Toastmasters (community Club)",26,28,4,0,0,0,0,0,0,3,2,1,1,1,0,4,3,7,5,1,0,,Active
 "Feb 21",98,G,01,991226,"Vision Toastmasters (community Club)",26,29,8,0,0,0,0,0,0,6,2,1,3,1,1,4,4,7,5,1,0,,Active
 "Mar 21",98,G,01,991226,"Vision Toastmasters (community Club)",26,30,9,0,0,0,0,0,0,6,2,3,3,1,2,4,5,7,5,1,0,,Active
-" "
 "Nov 11",41,F,04,2097754,"Oracle Hyderabad",20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,Active
 "Dec 11",41,F,04,2097754,"Oracle Hyderabad",20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,Active
 "Jan 12",41,F,04,2097754,"Oracle Hyderabad",20,24,1,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,,Active
@@ -7706,7 +7573,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,01,2097754,"Oracle Hyderabad",20,17,1,0,0,0,0,0,0,1,0,0,0,0,0,3,0,7,1,1,1,,Active
 "Feb 21",98,G,01,2097754,"Oracle Hyderabad",20,17,1,0,0,0,0,0,0,1,0,0,0,0,0,3,0,7,1,1,1,,Active
 "Mar 21",98,G,01,2097754,"Oracle Hyderabad",20,18,2,0,0,0,0,0,0,1,0,0,0,0,0,4,0,7,1,1,1,,Active
-" "
 "Oct 18",98,E,01,7171974,HRDC,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 18",98,E,01,7171974,HRDC,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Dec 18",98,E,01,7171974,HRDC,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
@@ -7737,7 +7603,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,01,7171974,HRDC,21,15,3,0,0,0,0,0,0,0,2,1,0,0,0,2,0,4,4,1,2,,Active
 "Feb 21",98,G,01,7171974,HRDC,21,15,3,0,0,0,0,0,0,0,2,1,0,0,0,2,0,4,4,1,2,,Active
 "Mar 21",98,G,01,7171974,HRDC,21,15,5,0,0,0,0,0,0,2,2,2,2,0,0,2,0,4,4,1,2,,Active
-" "
 "Apr 20",98,E,02,7722776,"CKM Toastmasters",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 20",98,E,02,7722776,"CKM Toastmasters",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Jun 20",98,E,02,7722776,"CKM Toastmasters",20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
@@ -7750,7 +7615,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,01,7722776,"CKM Toastmasters",21,8,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,1,2,,Active
 "Feb 21",98,G,01,7722776,"CKM Toastmasters",21,8,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,1,2,,Active
 "Mar 21",98,G,01,7722776,"CKM Toastmasters",21,8,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,1,2,,Active
-" "
 "Jul 04",U,I,01,702390,,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 04",U,I,01,702390,,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Sep 04",U,I,01,702390,,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -7951,7 +7815,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,02,702390,"Infosys Hyderabad Toastmasters Club (IHTMC)",7,10,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7,4,1,0,,Active
 "Feb 21",98,G,02,702390,"Infosys Hyderabad Toastmasters Club (IHTMC)",7,10,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7,4,1,0,,Active
 "Mar 21",98,G,02,702390,"Infosys Hyderabad Toastmasters Club (IHTMC)",7,10,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7,4,1,0,,Active
-" "
 "Feb 12",41,F,03,2247357,"Virtusa Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Mar 12",41,F,03,2247357,"Virtusa Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Apr 12",41,F,03,2247357,"Virtusa Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
@@ -8061,7 +7924,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,02,2247357,"Virtusa Hyderabad",20,15,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,3,1,0,,Active
 "Feb 21",98,G,02,2247357,"Virtusa Hyderabad",20,15,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,3,1,0,,Active
 "Mar 21",98,G,02,2247357,"Virtusa Hyderabad",20,15,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,3,1,0,,Active
-" "
 "Dec 13",41,L,04,3216981,"Toastmasters of Capgemini Hyderabad",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Jan 14",41,L,04,3216981,"Toastmasters of Capgemini Hyderabad",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 14",41,L,04,3216981,"Toastmasters of Capgemini Hyderabad",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,,Active
@@ -8149,7 +8011,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,02,3216981,"Toastmasters of Capgemini Hyderabad",10,0,2,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,,Active
 "Feb 21",98,G,02,3216981,"Toastmasters of Capgemini Hyderabad",10,0,2,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,G,02,3216981,"Toastmasters of Capgemini Hyderabad",10,0,2,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,,Ineligible
-" "
 "Mar 15",41,F,05,4486936,"Hitachi Consulting ",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 15",41,F,05,4486936,"Hitachi Consulting ",28,29,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,,Active
 "May 15",41,F,05,4486936,"Hitachi Consulting ",28,43,3,0,0,0,0,0,0,0,0,0,0,0,0,4,11,0,0,2,1,,Active
@@ -8222,7 +8083,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,02,4486936,"Hitachi Consulting",14,15,5,0,0,0,0,0,0,2,2,0,1,1,0,4,2,7,5,1,2,,Active
 "Feb 21",98,G,02,4486936,"Hitachi Consulting",14,15,5,0,0,0,0,0,0,2,2,0,1,1,0,4,2,7,5,1,2,,Active
 "Mar 21",98,G,02,4486936,"Hitachi Consulting",14,15,5,0,0,0,0,0,0,2,2,0,1,1,0,4,2,7,5,1,2,,Active
-" "
 "Sep 17",98,H,02,5906439,Nizampet,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 17",98,H,02,5906439,Nizampet,21,22,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,1,1,,Active
 "Nov 17",98,H,02,5906439,Nizampet,21,23,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,1,1,,Active
@@ -8266,7 +8126,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,03,5906439,Nizampet,25,29,6,0,0,0,0,0,0,5,2,0,1,1,1,4,2,5,3,2,1,,Active
 "Feb 21",98,G,03,5906439,Nizampet,25,29,6,0,0,0,0,0,0,5,2,0,1,1,1,4,2,5,3,2,1,,Active
 "Mar 21",98,G,03,5906439,Nizampet,25,29,6,0,0,0,0,0,0,5,2,0,1,1,1,4,2,5,3,2,1,,Active
-" "
 "Jun 17",98,E,02,6557404,"BVRIT Hyderabad TM",32,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 17",98,H,02,6557404,"BVRIT Hyderabad TM",32,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 17",98,H,02,6557404,"BVRIT Hyderabad TM",32,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -8313,7 +8172,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,03,6557404,"BVRIT Hyderabad TM",25,20,5,0,0,0,0,0,0,5,0,0,1,0,0,4,4,7,5,1,2,,Active
 "Feb 21",98,G,03,6557404,"BVRIT Hyderabad TM",25,20,5,0,0,0,0,0,0,5,0,0,1,0,0,4,4,7,5,2,2,,Active
 "Mar 21",98,G,03,6557404,"BVRIT Hyderabad TM",25,20,5,0,0,0,0,0,0,5,0,0,1,0,0,4,4,7,5,2,2,,Active
-" "
 "Feb 18",98,0D,0A,6563084,"USP Orators",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 18",98,F,05,6563084,"USP Orators",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Apr 18",98,F,05,6563084,"USP Orators",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Ineligible
@@ -8352,7 +8210,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,03,6563084,"USP Orators",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,1,0,,Active
 "Feb 21",98,G,03,6563084,"USP Orators",21,21,3,0,0,0,0,0,0,1,1,0,0,1,1,4,0,2,0,1,0,,Active
 "Mar 21",98,G,03,6563084,"USP Orators",21,21,3,0,0,0,0,0,0,3,1,0,0,1,1,4,0,2,0,1,0,,Active
-" "
 "Apr 18",98,E,03,6945484,VJIM,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 18",98,E,03,6945484,VJIM,23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,E,03,6945484,VJIM,23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -8389,11 +8246,9 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,03,6945484,VJIM,26,38,4,0,0,0,0,0,0,0,0,0,0,0,0,4,25,7,6,1,1,,Active
 "Feb 21",98,G,03,6945484,VJIM,26,38,4,0,0,0,0,0,0,0,0,0,0,0,0,4,25,7,6,1,1,,Active
 "Mar 21",98,G,03,6945484,VJIM,26,38,4,0,0,0,0,0,0,0,0,0,0,0,0,4,25,7,6,1,1,,Active
-" "
 "Jan 21",98,G,03,7542047,BITS-H,20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,,Active
 "Feb 21",98,G,03,7542047,BITS-H,20,22,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,2,1,,Active
 "Mar 21",98,G,03,7542047,BITS-H,20,22,2,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,5,2,1,,Active
-" "
 "Jan 08",82,E,12,1095031,"ISB Toastmasters",20,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Feb 08",82,E,12,1095031,"ISB Toastmasters",20,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Mar 08",82,E,12,1095031,"ISB Toastmasters",20,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -8552,7 +8407,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,04,1095031,"Indian School of Business Toastmasters ",38,47,2,0,0,0,0,0,0,0,0,0,0,0,0,4,7,4,0,1,0,,Active
 "Feb 21",98,G,04,1095031,"Indian School of Business Toastmasters ",38,47,2,0,0,0,0,0,0,0,0,0,0,0,0,4,7,4,0,1,0,,Active
 "Mar 21",98,G,04,1095031,"Indian School of Business Toastmasters ",38,47,2,0,0,0,0,0,0,0,0,0,0,0,0,4,7,4,0,1,0,,Active
-" "
 "Jun 15",41,F,03,4637951,"XLRATORS-The Miyapur",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 15",98,E,02,4637951,"XLRATORS-The Miyapur",0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 15",98,E,02,4637951,"XLRATORS-The Miyapur",0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,1,,Active
@@ -8622,7 +8476,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,04,4637951,Xlrators-Miyapur,20,24,7,0,0,0,0,0,0,3,2,1,3,1,3,4,2,7,7,1,1,,Active
 "Feb 21",98,G,04,4637951,Xlrators-Miyapur,20,25,8,0,0,0,0,0,0,5,2,1,3,1,3,4,3,7,7,1,1,,Active
 "Mar 21",98,G,04,4637951,Xlrators-Miyapur,20,25,8,0,0,0,0,0,0,6,2,1,3,1,3,4,3,7,7,2,1,,Active
-" "
 "Apr 16",98,F,04,5442547,"Persistent Hyderbad",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 16",98,F,04,5442547,"Persistent Hyderbad",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 16",98,F,04,5442547,"Persistent Hyderbad",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -8682,7 +8535,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,04,5442547,"Persistent Hyderbad",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,G,04,5442547,"Persistent Hyderbad",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,G,04,5442547,"Persistent Hyderbad",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Aug 18",98,E,04,7074267,AVEVA,27,27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
 "Sep 18",98,E,04,7074267,AVEVA,27,27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
 "Oct 18",98,E,04,7074267,AVEVA,27,27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
@@ -8715,7 +8567,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,04,7074267,AVEVA,25,25,4,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,4,1,1,,Active
 "Feb 21",98,G,04,7074267,AVEVA,25,25,4,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,4,1,1,,Active
 "Mar 21",98,G,04,7074267,AVEVA,25,25,4,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,4,1,1,,Active
-" "
 "Oct 18",98,H,02,7160333,HITAM,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 18",98,H,02,7160333,HITAM,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Dec 18",98,H,02,7160333,HITAM,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
@@ -8746,7 +8597,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,G,04,7160333,HITAM,16,15,7,0,0,0,0,0,0,2,2,2,3,1,3,3,0,7,5,1,1,,Active
 "Feb 21",98,G,04,7160333,HITAM,16,15,7,0,0,0,0,0,0,2,2,2,4,1,3,3,0,7,5,1,1,,Active
 "Mar 21",98,G,04,7160333,HITAM,16,15,8,0,0,0,0,0,0,4,2,3,5,1,3,3,0,7,5,1,1,,Active
-" "
 "Apr 13",41,F,03,3123809,Secunderabad,26,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "May 13",41,F,03,3123809,Secunderabad,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jun 13",41,F,03,3123809,Secunderabad,20,25,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,Active
@@ -8842,7 +8692,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,01,3123809,Secunderabad,21,34,10,0,0,0,0,0,0,6,2,2,4,1,2,4,13,7,7,1,1,,Active
 "Feb 21",98,H,01,3123809,Secunderabad,21,37,10,0,0,0,0,0,0,6,2,2,4,1,4,4,16,7,7,2,1,,Active
 "Mar 21",98,H,01,3123809,Secunderabad,21,38,10,0,0,0,0,0,0,12,2,4,5,1,7,4,17,7,7,2,1,,Active
-" "
 "Jun 19",98,G,03,7440234,Cyient,42,42,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,G,05,7440234,Cyient,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 19",98,G,05,7440234,Cyient,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -8865,7 +8714,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,01,7440234,Cyient,10,30,5,0,0,0,0,0,0,4,0,0,0,0,0,4,17,7,6,2,1,,Active
 "Feb 21",98,H,01,7440234,Cyient,10,30,5,0,0,0,0,0,0,4,0,0,0,0,0,4,17,7,6,2,1,,Active
 "Mar 21",98,H,01,7440234,Cyient,10,30,5,0,0,0,0,0,0,4,0,0,0,0,0,4,17,7,6,2,1,,Active
-" "
 "Jun 19",98,F,04,7454302,Dilsukhnagar,20,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,F,04,7454302,Dilsukhnagar,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 19",98,F,04,7454302,Dilsukhnagar,18,18,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,4,0,0,1,,Active
@@ -8888,7 +8736,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,01,7454302,Dilsukhnagar,22,29,7,0,0,0,0,0,0,1,2,0,2,1,0,4,13,7,5,1,2,,Active
 "Feb 21",98,H,01,7454302,Dilsukhnagar,22,31,7,0,0,0,0,0,0,1,2,0,2,1,0,4,15,7,5,1,2,,Active
 "Mar 21",98,H,01,7454302,Dilsukhnagar,22,33,7,0,0,0,0,0,0,1,2,0,2,1,0,4,17,7,5,1,2,,Active
-" "
 "Feb 20",98,0D,0A,7701907,TechnipFMC,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 20",98,G,03,7701907,TechnipFMC,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Apr 20",98,G,03,7701907,TechnipFMC,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -8903,7 +8750,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,01,7701907,TechnipFMC,20,14,2,0,0,0,0,0,0,0,0,0,0,0,0,4,3,5,4,0,1,,Active
 "Feb 21",98,H,01,7701907,TechnipFMC,20,14,2,0,0,0,0,0,0,0,0,0,0,0,0,4,3,5,4,0,1,,Active
 "Mar 21",98,H,01,7701907,TechnipFMC,20,14,2,0,0,0,0,0,0,0,0,0,0,0,0,4,3,5,4,0,1,,Active
-" "
 "Aug 10",82,F,03,1534632,"TCS Maitree Synergy Park",20,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Sep 10",82,F,03,1534632,"TCS Maitree Synergy Park",20,38,1,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,1,0,,Active
 "Oct 10",82,F,03,1534632,"TCS Maitree Synergy Park",20,38,1,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,1,0,,Active
@@ -9031,7 +8877,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,02,1534632,"TCS Maitree Synergy Park",31,26,7,0,0,0,0,0,0,4,2,0,0,1,4,4,3,7,7,1,2,,Active
 "Feb 21",98,H,02,1534632,"TCS Maitree Synergy Park",31,28,9,0,0,0,0,0,0,6,2,2,1,1,4,4,5,7,7,2,2,,Active
 "Mar 21",98,H,02,1534632,"TCS Maitree Synergy Park",31,29,10,0,0,0,0,0,0,10,2,5,2,1,4,4,6,7,7,2,2,,Active
-" "
 "Nov 17",98,F,01,6768787,Highako,20,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 17",98,F,01,6768787,Highako,32,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 18",98,F,01,6768787,Highako,32,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -9073,7 +8918,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,02,6768787,Toastmasters@HighRadius,4,9,8,0,0,0,0,0,0,5,2,0,2,1,1,4,1,5,5,1,1,,Active
 "Feb 21",98,H,02,6768787,Toastmasters@HighRadius,4,10,8,0,0,0,0,0,0,5,2,0,2,1,1,4,2,5,5,1,1,,Active
 "Mar 21",98,H,02,6768787,Toastmasters@HighRadius,4,11,8,0,0,0,0,0,0,5,2,0,2,1,1,4,3,5,5,1,1,,Active
-" "
 "Mar 18",98,E,05,6886129,"NGA Hyderabad",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 18",98,E,05,6886129,"NGA Hyderabad",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 18",98,E,05,6886129,"NGA Hyderabad",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -9111,7 +8955,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,02,6886129,"NGA Hyderabad",13,22,6,0,0,0,0,0,0,1,1,0,1,1,1,4,11,7,5,1,1,,Active
 "Feb 21",98,H,02,6886129,"NGA Hyderabad",13,22,8,0,0,0,0,0,0,2,2,0,2,1,1,4,11,7,5,1,1,,Active
 "Mar 21",98,H,02,6886129,"NGA Hyderabad",13,22,8,0,0,0,0,0,0,2,2,0,2,1,1,4,11,7,5,1,1,,Active
-" "
 "Oct 19",98,0D,0A,7537315,Zenith,20,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 19",98,H,03,7537315,Zenith,20,22,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,,Active
 "Dec 19",98,H,03,7537315,Zenith,20,23,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,,Active
@@ -9130,10 +8973,8 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,02,7537315,Zenith,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,1,,Active
 "Feb 21",98,H,02,7537315,Zenith,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,1,,Low
 "Mar 21",98,H,02,7537315,Zenith,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,1,,Low
-" "
 "Feb 21",98,H,02,7854456,Mehdipatnam,24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 21",98,H,02,7854456,Mehdipatnam,24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
-" "
 "May 07",82,C,12,1036431,,20,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,Active
 "Jun 07",82,C,12,1036431,,20,28,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,Active
 "Jul 07",82,E,12,1036431,,28,37,2,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,1,,Active
@@ -9300,7 +9141,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,03,1036431,"Deloitte Hyderabad",21,24,6,0,0,0,0,0,0,7,2,0,1,0,0,4,6,7,7,1,2,,Active
 "Feb 21",98,H,03,1036431,"Deloitte Hyderabad",21,26,7,0,0,0,0,0,0,7,2,1,2,0,0,4,8,7,7,2,2,,Active
 "Mar 21",98,H,03,1036431,"Deloitte Hyderabad",21,27,9,0,0,0,0,0,0,7,2,2,2,1,0,4,9,7,7,2,2,,Active
-" "
 "Oct 11",41,F,01,1937401,"""""BACI HYDERABAD""""",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Nov 11",41,F,01,1937401,"""""BACI HYDERABAD""""",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Dec 11",41,F,01,1937401,"""""BACI HYDERABAD""""",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -9414,7 +9254,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,03,1937401,"Golden Falcon",38,40,10,0,0,0,0,0,0,12,2,6,7,1,7,4,10,7,7,1,2,,Active
 "Feb 21",98,H,03,1937401,"Golden Falcon",38,46,10,0,0,0,0,0,0,12,2,9,7,1,7,4,16,7,7,2,2,,Active
 "Mar 21",98,H,03,1937401,"Golden Falcon",38,48,10,0,0,0,0,0,0,14,2,10,7,1,7,4,18,7,7,2,2,,Active
-" "
 "Oct 13",41,H,01,3543283,"Quest-Qualcomm's Enlightened Speakers of Tomorrow",27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Nov 13",41,H,01,3543283,"Quest-Qualcomm's Enlightened Speakers of Tomorrow",27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,,Active
 "Dec 13",41,H,01,3543283,"Quest-Qualcomm's Enlightened Speakers of Tomorrow",27,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,,Active
@@ -9504,7 +9343,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,03,3543283,"Quest-Qualcomm's Enlightened Speakers of Tomorrow",13,13,3,0,0,0,0,0,0,4,0,0,0,0,0,4,1,4,0,1,1,,Active
 "Feb 21",98,H,03,3543283,"Quest-Qualcomm's Enlightened Speakers of Tomorrow",13,13,3,0,0,0,0,0,0,4,0,0,0,0,0,4,1,4,0,1,1,,Active
 "Mar 21",98,H,03,3543283,"Quest-Qualcomm's Enlightened Speakers of Tomorrow",13,13,3,0,0,0,0,0,0,4,0,0,0,0,0,4,1,4,0,1,1,,Active
-" "
 "Jul 15",98,F,01,4799292,"CDK Hyderabad",28,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Ineligible
 "Aug 15",98,F,01,4799292,"CDK Hyderabad",28,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Ineligible
 "Sep 15",98,F,01,4799292,"CDK Hyderabad",28,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -9573,7 +9411,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,03,4799292,"CDK Hyderabad",16,21,7,0,0,0,0,0,0,4,0,0,4,1,1,4,2,7,4,1,1,,Active
 "Feb 21",98,H,03,4799292,"CDK Hyderabad",16,21,7,0,0,0,0,0,0,4,1,0,4,1,1,4,2,7,4,1,1,,Active
 "Mar 21",98,H,03,4799292,"CDK Hyderabad",16,21,7,0,0,0,0,0,0,4,1,0,4,1,1,4,2,7,4,1,1,,Active
-" "
 "May 16",98,E,03,5488272,"HSBC Hyderabad",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 16",98,E,03,5488272,"HSBC Hyderabad",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 16",98,F,04,5488272,"HSBC Hyderabad",25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,,Active
@@ -9632,7 +9469,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,03,5488272,"Eager Beaver's",16,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,1,,Active
 "Feb 21",98,H,03,5488272,"Eager Beaver's",16,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,1,,Low
 "Mar 21",98,H,03,5488272,"Eager Beaver's",16,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,1,,Low
-" "
 "Apr 18",98,F,02,6887490,Guntur,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 18",98,F,02,6887490,Guntur,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,F,02,6887490,Guntur,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -9669,7 +9505,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,04,6887490,Guntur,15,26,10,0,0,0,0,0,0,5,2,2,2,1,3,4,13,7,7,1,2,,Active
 "Feb 21",98,H,04,6887490,Guntur,15,29,10,0,0,0,0,0,0,5,2,2,2,1,3,4,16,7,7,1,2,,Active
 "Mar 21",98,H,04,6887490,Guntur,15,29,10,0,0,0,0,0,0,5,2,3,2,1,3,4,16,7,7,1,2,,Active
-" "
 "Oct 18",98,F,02,7160802,PSCMR,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 18",98,F,02,7160802,PSCMR,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Dec 18",98,F,02,7160802,PSCMR,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
@@ -9700,7 +9535,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,04,7160802,PSCMR,22,21,8,0,0,0,0,0,0,9,2,4,3,1,9,2,0,7,5,1,2,,Active
 "Feb 21",98,H,04,7160802,PSCMR,22,21,8,0,0,0,0,0,0,9,2,4,4,1,9,2,0,7,5,1,2,,Active
 "Mar 21",98,H,04,7160802,PSCMR,22,21,8,0,0,0,0,0,0,9,2,4,4,1,9,2,0,7,5,1,2,,Active
-" "
 "Mar 19",98,E,05,7326699,"SVECW Speech Weavers",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 19",98,E,05,7326699,"SVECW Speech Weavers",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 19",98,E,05,7326699,"SVECW Speech Weavers",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -9726,7 +9560,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,04,7326699,"SVECW Speech Weavers",26,35,7,0,0,0,0,0,0,8,2,1,2,0,0,4,7,7,7,1,2,,Active
 "Feb 21",98,H,04,7326699,"SVECW Speech Weavers",26,35,7,0,0,0,0,0,0,10,2,1,2,0,0,4,7,7,7,1,2,,Active
 "Mar 21",98,H,04,7326699,"SVECW Speech Weavers",26,35,7,0,0,0,0,0,0,10,2,1,2,0,0,4,7,7,7,1,2,,Active
-" "
 "Mar 19",98,E,03,7327622,S.R.K.R.,22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 19",98,E,03,7327622,S.R.K.R.,22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 19",98,E,03,7327622,S.R.K.R.,22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -9752,7 +9585,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,04,7327622,S.R.K.R.,9,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,4,0,2,,Active
 "Feb 21",98,H,04,7327622,S.R.K.R.,9,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,4,0,2,,Low
 "Mar 21",98,H,04,7327622,S.R.K.R.,9,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,4,0,2,,Low
-" "
 "Aug 20",98,H,04,7780796,"KW's Silver Tongue",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Sep 20",98,H,04,7780796,"KW's Silver Tongue",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Oct 20",98,H,04,7780796,"KW's Silver Tongue",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -9761,7 +9593,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,H,04,7780796,"KW's Silver Tongue",20,20,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,7,0,1,,Active
 "Feb 21",98,H,04,7780796,"KW's Silver Tongue",20,20,4,0,0,0,0,0,0,5,2,1,0,0,0,0,0,7,7,1,1,,Active
 "Mar 21",98,H,04,7780796,"KW's Silver Tongue",20,29,7,0,0,0,0,0,0,5,2,2,0,0,0,4,5,7,7,1,1,,Active
-" "
 "Feb 17",98,A,01,6062133,"Diamond City",20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 17",98,A,01,6062133,"Diamond City",20,17,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Apr 17",98,A,01,6062133,"Diamond City",20,23,3,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,7,2,1,,Active
@@ -9812,7 +9643,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,01,6062133,"Diamond City",23,22,4,0,0,0,0,0,0,1,2,1,1,0,0,4,3,7,7,1,2,,Active
 "Feb 21",98,J,01,6062133,"Diamond City",23,23,7,0,0,0,0,0,0,2,2,2,2,0,0,4,4,7,7,2,2,,Active
 "Mar 21",98,J,01,6062133,"Diamond City",23,28,7,0,0,0,0,0,0,3,2,2,2,0,0,4,9,7,7,2,2,,Active
-" "
 "Oct 18",98,A,03,7164888,"Mount Carmel",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Nov 18",98,A,03,7164888,"Mount Carmel",20,23,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7,0,1,1,,Active
 "Dec 18",98,A,03,7164888,"Mount Carmel",20,24,3,0,0,0,0,1,0,1,1,0,0,0,0,4,0,7,0,1,1,,Active
@@ -9843,7 +9673,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,01,7164888,"Mount Carmel",26,25,8,0,0,0,0,0,0,5,2,1,2,1,3,4,1,7,7,1,1,,Active
 "Feb 21",98,J,01,7164888,"Mount Carmel",26,25,8,0,0,0,0,0,0,5,2,1,2,1,3,4,1,7,7,1,1,,Active
 "Mar 21",98,J,01,7164888,"Mount Carmel",26,25,9,0,0,0,0,0,0,5,2,2,2,1,3,4,1,7,7,2,1,,Active
-" "
 "May 20",98,J,01,7782447,"Dahej Orators",20,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 20",98,J,01,7782447,"Dahej Orators",20,12,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,,Active
 "Jul 20",98,J,01,7782447,"Dahej Orators",12,12,1,0,0,0,0,0,0,5,1,0,0,0,0,0,0,6,0,0,1,,Active
@@ -9855,7 +9684,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,01,7782447,"Dahej Orators",12,12,5,0,0,0,0,0,0,6,2,1,0,1,0,2,0,7,7,1,2,,Active
 "Feb 21",98,J,01,7782447,"Dahej Orators",12,12,5,0,0,0,0,0,0,6,2,1,0,1,0,2,0,7,7,1,2,,Active
 "Mar 21",98,J,01,7782447,"Dahej Orators",12,12,5,0,0,0,0,0,0,6,2,1,0,1,0,2,0,7,7,1,2,,Active
-" "
 "Nov 16",98,0D,0A,5689336,"RG Speakers",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 16",98,A,01,5689336,"RG Speakers",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 17",98,A,01,5689336,"RG Speakers",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
@@ -9909,7 +9737,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,02,5689336,"RG Speakers",51,56,6,0,0,0,0,0,0,1,0,0,2,1,2,4,1,7,7,1,1,,Active
 "Feb 21",98,J,02,5689336,"RG Speakers",51,56,6,0,0,0,0,0,0,1,1,0,2,1,2,4,1,7,7,1,1,,Active
 "Mar 21",98,J,02,5689336,"RG Speakers",51,56,8,0,0,0,0,0,0,6,2,1,2,1,2,4,1,7,7,1,1,,Active
-" "
 "Dec 18",98,A,03,7185923,"RG Orators",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 19",98,A,03,7185923,"RG Orators",20,24,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,7,1,1,,Active
 "Feb 19",98,A,03,7185923,"RG Orators",20,24,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,7,1,1,,Active
@@ -9938,7 +9765,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,02,7185923,"RG Orators",26,33,10,0,0,0,0,0,0,9,2,2,4,1,2,4,7,7,7,2,1,,Active
 "Feb 21",98,J,02,7185923,"RG Orators",26,33,10,0,0,0,0,0,0,9,2,3,4,1,3,4,7,7,7,2,1,,Active
 "Mar 21",98,J,02,7185923,"RG Orators",26,33,10,0,0,0,0,0,0,9,2,3,6,1,6,4,7,7,7,2,1,,Active
-" "
 "Apr 19",98,A,03,7244872,"RIL JMD Speakers",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 19",98,A,03,7244872,"RIL JMD Speakers",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 19",98,A,03,7244872,"RIL JMD Speakers",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -9963,7 +9789,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,02,7244872,"RIL JMD Speakers",21,37,4,0,0,0,0,0,0,0,0,0,0,0,0,4,11,7,7,1,1,,Active
 "Feb 21",98,J,02,7244872,"RIL JMD Speakers",21,37,7,0,0,0,0,0,0,4,2,2,0,0,0,4,11,7,7,1,1,,Active
 "Mar 21",98,J,02,7244872,"RIL JMD Speakers",21,37,7,0,0,0,0,0,0,4,2,2,0,0,0,4,11,7,7,1,1,,Active
-" "
 "Sep 19",98,J,02,7594745,Jamnagar,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 19",98,J,02,7594745,Jamnagar,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 19",98,J,02,7594745,Jamnagar,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -9983,7 +9808,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,02,7594745,Jamnagar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,J,02,7594745,Jamnagar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,J,02,7594745,Jamnagar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Dec 18",98,A,03,7169553,"RG Doyens",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 19",98,A,03,7169553,"RG Doyens",20,0,4,1,0,0,0,1,1,3,1,0,0,0,0,0,0,0,7,1,1,,Active
 "Feb 19",98,A,03,7169553,"RG Doyens",20,0,5,1,0,1,0,1,1,3,1,0,0,0,0,0,0,0,7,1,1,,Active
@@ -10012,7 +9836,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,03,7169553,"RG Doyens",30,33,10,0,0,0,0,0,0,11,2,2,2,1,1,4,5,7,7,2,1,,Active
 "Feb 21",98,J,03,7169553,"RG Doyens",30,33,10,0,0,0,0,0,0,11,2,2,2,1,3,4,5,7,7,2,1,,Active
 "Mar 21",98,J,03,7169553,"RG Doyens",30,33,10,0,0,0,0,0,0,12,2,2,2,1,3,4,5,7,7,2,1,,Active
-" "
 "Oct 18",98,A,03,7182855,"RG KDAV Speakers",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 18",98,A,03,7182855,"RG KDAV Speakers",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Dec 18",98,A,03,7182855,"RG KDAV Speakers",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
@@ -10043,7 +9866,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,03,7182855,"RG KDAV Speakers",20,19,6,0,0,0,0,0,0,2,2,1,1,1,1,4,2,7,7,1,1,,Active
 "Feb 21",98,J,03,7182855,"RG KDAV Speakers",20,19,6,0,0,0,0,0,0,2,2,1,1,1,1,4,2,7,7,1,1,,Active
 "Mar 21",98,J,03,7182855,"RG KDAV Speakers",20,19,9,0,0,0,0,0,0,5,2,2,4,1,10,4,2,7,7,1,1,,Active
-" "
 "Apr 19",98,A,03,7403659,Rajkot,20,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 19",98,A,03,7403659,Rajkot,20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Jun 19",98,A,03,7403659,Rajkot,20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,,Active
@@ -10068,7 +9890,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,J,03,7403659,Rajkot,13,14,6,0,0,0,0,0,0,3,2,2,4,0,0,4,0,7,7,1,1,,Active
 "Feb 21",98,J,03,7403659,Rajkot,13,15,6,0,0,0,0,0,0,3,2,2,4,0,0,4,1,7,7,1,1,,Active
 "Mar 21",98,J,03,7403659,Rajkot,13,15,6,0,0,0,0,0,0,3,2,2,4,0,0,4,1,7,7,1,1,,Active
-" "
 "Oct 08",82,D,04,1246728,Mulund,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Nov 08",82,D,04,1246728,Mulund,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Dec 08",82,D,04,1246728,Mulund,20,23,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,Active
@@ -10218,7 +10039,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,01,1246728,Mulund,72,68,10,0,0,0,0,0,0,13,2,4,6,1,3,4,11,7,7,2,2,,Active
 "Feb 21",98,M,01,1246728,Mulund,72,70,10,0,0,0,0,0,0,13,2,5,6,1,3,4,13,7,7,2,2,,Active
 "Mar 21",98,M,01,1246728,Mulund,72,76,10,0,0,0,0,0,0,13,2,5,6,1,4,4,19,7,7,2,2,,Active
-" "
 "Mar 18",98,M,01,6881120,"UBS MUMBAI TOASTMASTERS CLUB",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 18",98,M,01,6881120,"UBS MUMBAI TOASTMASTERS CLUB",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 18",98,M,01,6881120,"UBS MUMBAI TOASTMASTERS CLUB",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -10256,7 +10076,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,01,6881120,"UBS Mumbai",25,24,4,0,0,0,0,0,0,0,1,0,1,0,0,4,8,7,7,1,1,,Active
 "Feb 21",98,M,01,6881120,"UBS Mumbai",25,24,4,0,0,0,0,0,0,1,1,0,1,0,0,4,8,7,7,1,1,,Active
 "Mar 21",98,M,01,6881120,"UBS Mumbai",25,24,4,0,0,0,0,0,0,1,1,0,1,0,0,4,8,7,7,1,1,,Active
-" "
 "Feb 20",98,0D,0A,7753761,"Speakathon Kalwa",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 20",98,M,06,7753761,"Speakathon Kalwa",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 20",98,M,06,7753761,"Speakathon Kalwa",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -10270,10 +10089,8 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,01,7753761,"Speakathon Kalwa",24,22,3,0,0,0,0,0,0,5,0,0,0,0,0,2,0,7,4,1,1,,Active
 "Feb 21",98,M,01,7753761,"Speakathon Kalwa",24,23,3,0,0,0,0,0,0,8,0,0,0,0,0,3,0,7,4,1,1,,Active
 "Mar 21",98,M,01,7753761,"Speakathon Kalwa",24,23,3,0,0,0,0,0,0,8,0,0,0,0,0,3,0,7,4,1,1,,Active
-" "
 "Feb 21",98,M,01,7861024,"Readers and Debaters",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 21",98,M,01,7861024,"Readers and Debaters",20,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
-" "
 "Feb 16",98,B,04,4899367,RIL,60,60,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,,Active
 "Mar 16",98,B,04,4899367,RIL,60,60,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,,Active
 "Apr 16",98,B,04,4899367,RIL,60,60,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,,Active
@@ -10335,7 +10152,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,02,4899367,RIL,81,84,10,0,0,0,0,0,0,10,2,3,5,1,3,4,11,7,7,2,1,,Active
 "Feb 21",98,M,02,4899367,RIL,81,84,10,0,0,0,0,0,0,11,2,4,5,1,4,4,11,7,7,2,1,,Active
 "Mar 21",98,M,02,4899367,RIL,81,84,10,0,0,0,0,0,0,12,2,6,5,1,4,4,11,7,7,2,1,,Active
-" "
 "Sep 16",98,M,01,5748839,"KJ SIMSR",52,52,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 16",98,M,01,5748839,"KJ SIMSR",52,52,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 16",98,M,01,5748839,"KJ SIMSR",52,52,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
@@ -10391,7 +10207,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,02,5748839,Somaiya,8,26,6,0,0,0,0,0,0,2,1,0,2,1,0,4,18,5,7,1,2,,Active
 "Feb 21",98,M,02,5748839,Somaiya,8,28,6,0,0,0,0,0,0,2,1,0,2,1,0,4,20,5,7,1,2,,Active
 "Mar 21",98,M,02,5748839,Somaiya,8,28,8,0,0,0,0,0,0,5,2,0,2,1,0,4,20,5,7,2,2,,Active
-" "
 "Nov 17",98,A,03,6770016,Palava,32,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 17",98,A,03,6770016,Palava,32,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 18",98,A,03,6770016,Palava,32,34,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,,Active
@@ -10433,7 +10248,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,02,6770016,Palava,23,28,10,0,0,0,0,0,0,7,2,2,2,1,1,4,6,7,7,1,1,,Active
 "Feb 21",98,M,02,6770016,Palava,23,30,10,0,0,0,0,0,0,8,2,3,2,1,2,4,8,7,7,1,1,,Active
 "Mar 21",98,M,02,6770016,Palava,23,31,10,0,0,0,0,0,0,8,2,3,3,1,4,4,9,7,7,2,1,,Active
-" "
 "Feb 19",98,B,03,7289546,"Expedition Toastmasters Mumbai",25,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Mar 19",98,B,03,7289546,"Expedition Toastmasters Mumbai",25,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Apr 19",98,B,03,7289546,"Expedition Toastmasters Mumbai",25,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
@@ -10460,7 +10274,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,02,7289546,"Expedition Toastmasters Mumbai",11,10,2,0,0,0,0,0,0,2,0,0,0,0,0,1,0,7,5,1,1,,Active
 "Feb 21",98,M,02,7289546,"Expedition Toastmasters Mumbai",11,10,2,0,0,0,0,0,0,2,0,0,0,0,0,1,0,7,5,1,1,,Active
 "Mar 21",98,M,02,7289546,"Expedition Toastmasters Mumbai",11,15,3,0,0,0,0,0,0,2,0,0,0,0,0,4,2,7,5,1,1,,Active
-" "
 "Sep 11",41,D,04,2017422,Thane,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Oct 11",41,D,04,2017422,Thane,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Nov 11",41,D,04,2017422,Thane,20,27,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,,Active
@@ -10575,7 +10388,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,03,2017422,Thane,49,51,9,0,0,0,0,0,0,11,2,0,2,1,2,4,16,7,7,1,2,,Active
 "Feb 21",98,M,03,2017422,Thane,49,51,10,0,0,0,0,0,0,11,2,2,2,1,2,4,16,7,7,1,2,,Active
 "Mar 21",98,M,03,2017422,Thane,49,52,10,0,0,0,0,0,0,11,2,2,2,1,3,4,17,7,7,1,2,,Active
-" "
 "Jun 13",41,D,03,3301510,AEMA,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 13",41,D,02,3301510,AEMA,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 13",41,D,02,3301510,AEMA,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Active
@@ -10669,7 +10481,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,03,3301510,AEMA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
 "Feb 21",98,M,03,3301510,AEMA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
 "Mar 21",98,M,03,3301510,AEMA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
-" "
 "Jun 17",98,M,02,6592002,Ghodbunder,20,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 17",98,M,03,6592002,Ghodbunder,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 17",98,M,03,6592002,Ghodbunder,5,9,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,1,,Active
@@ -10716,7 +10527,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,03,6592002,Ghodbunder,43,49,10,0,0,0,0,0,0,14,2,5,6,1,5,4,13,6,6,1,2,,Active
 "Feb 21",98,M,03,6592002,Ghodbunder,43,53,10,0,0,0,0,0,0,14,2,5,6,1,5,4,17,6,6,1,2,,Active
 "Mar 21",98,M,03,6592002,Ghodbunder,43,54,10,0,0,0,0,0,0,14,2,6,7,1,5,4,18,6,6,2,2,,Active
-" "
 "Oct 19",98,M,03,7571457,GEP,32,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 19",98,M,03,7571457,GEP,32,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 19",98,M,03,7571457,GEP,32,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -10735,7 +10545,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,03,7571457,GEP,31,36,4,0,0,0,0,0,0,0,0,0,0,0,0,4,12,7,5,1,2,,Active
 "Feb 21",98,M,03,7571457,GEP,31,36,5,0,0,0,0,0,0,3,1,0,1,1,0,4,12,7,5,1,2,,Active
 "Mar 21",98,M,03,7571457,GEP,31,36,5,0,0,0,0,0,0,3,1,0,1,1,0,4,12,7,5,1,2,,Active
-" "
 "Aug 20",98,M,03,7798485,"Airoli Bilingual",20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Sep 20",98,M,03,7798485,"Airoli Bilingual",20,18,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,7,0,1,1,,Active
 "Oct 20",98,M,03,7798485,"Airoli Bilingual",20,21,1,0,0,0,0,0,0,2,1,0,1,0,0,1,0,7,0,1,1,,Active
@@ -10744,11 +10553,9 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,03,7798485,"Airoli Bilingual",20,22,5,0,0,0,0,0,0,2,2,2,1,1,0,2,0,7,4,2,1,,Active
 "Feb 21",98,M,03,7798485,"Airoli Bilingual",20,22,6,0,0,0,0,0,0,2,2,2,2,1,0,2,0,7,4,2,1,,Active
 "Mar 21",98,M,03,7798485,"Airoli Bilingual",20,22,6,0,0,0,0,0,0,2,2,2,2,1,0,2,0,7,4,2,1,,Active
-" "
 "Jan 21",98,M,03,7849406,"Worley India Toastmasters Club Harmony",35,35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
 "Feb 21",98,M,03,7849406,"Worley India Toastmasters Harmony",35,35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
 "Mar 21",98,M,03,7849406,"Worley India Toastmasters Harmony",35,35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
-" "
 "Jan 13",41,D,02,2380536,Agnel,6,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Feb 13",41,D,02,2380536,Agnel,6,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,,Active
 "Mar 13",41,D,02,2380536,Agnel,6,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,,Active
@@ -10847,7 +10654,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,04,2380536,Agnel,40,41,9,0,0,0,0,0,0,5,2,0,2,1,5,4,21,7,7,1,1,,Active
 "Feb 21",98,M,04,2380536,Agnel,40,41,9,0,0,0,0,0,0,5,2,1,2,1,6,4,21,7,7,2,1,,Active
 "Mar 21",98,M,04,2380536,Agnel,40,42,9,0,0,0,0,0,0,5,2,1,2,1,6,4,22,7,7,2,1,,Active
-" "
 "Jun 16",98,B,02,5116082,"Capgemini Mumbai",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 16",98,M,01,5116082,"Capgemini Mumbai",22,28,2,0,0,0,0,0,0,0,0,0,0,0,0,4,2,7,0,1,1,,Active
 "Sep 16",98,M,01,5116082,"Capgemini Mumbai",22,31,3,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,0,1,1,,Active
@@ -10905,7 +10711,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,04,5116082,"Capgemini Mumbai",33,28,7,0,0,0,0,0,0,4,2,0,1,1,1,4,0,7,5,1,2,,Active
 "Feb 21",98,M,04,5116082,"Capgemini Mumbai",33,28,8,0,0,0,0,0,0,6,2,1,2,1,2,4,0,7,5,1,2,,Active
 "Mar 21",98,M,04,5116082,"Capgemini Mumbai",33,28,8,0,0,0,0,0,0,6,2,1,2,1,2,4,0,7,5,1,2,,Active
-" "
 "Oct 18",98,B,05,7065737,"WNS Mumbai",48,48,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 18",98,B,05,7065737,"WNS Mumbai",48,48,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 18",98,B,05,7065737,"WNS Mumbai",48,48,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -10936,7 +10741,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,04,7065737,"WNS Mumbai",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
 "Feb 21",98,M,04,7065737,"WNS Mumbai",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
 "Mar 21",98,M,04,7065737,"WNS Mumbai",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Suspended
-" "
 "Sep 18",98,M,03,7106853,"MTC Advanced",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 18",98,M,03,7106853,"MTC Advanced",25,29,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,,Active
 "Nov 18",98,M,03,7106853,"MTC Advanced",25,29,4,0,0,0,0,1,1,0,0,0,0,0,0,4,0,0,0,1,1,,Active
@@ -10968,7 +10772,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,04,7106853,"MTC Advanced",8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Active
 "Feb 21",98,M,04,7106853,"MTC Advanced",8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Ineligible
 "Mar 21",98,M,04,7106853,"MTC Advanced",8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Ineligible
-" "
 "Sep 17",98,M,01,6651953,Mastek,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 17",98,M,01,6651953,Mastek,31,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,,Active
 "Nov 17",98,M,01,6651953,Mastek,31,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,1,,Active
@@ -11012,7 +10815,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,05,6651953,Mastek,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5,0,0,1,,Active
 "Feb 21",98,M,05,6651953,Mastek,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5,0,0,1,,Active
 "Mar 21",98,M,05,6651953,Mastek,19,11,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,5,0,0,1,,Active
-" "
 "Jan 19",98,M,01,7231185,Kharghar,20,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Feb 19",98,M,01,7231185,Kharghar,20,14,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,6,2,1,,Active
 "Mar 19",98,M,01,7231185,Kharghar,20,18,3,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,6,2,1,,Active
@@ -11040,7 +10842,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,05,7231185,Kharghar,31,42,10,0,0,0,0,0,0,8,2,5,4,1,1,4,14,7,7,1,1,,Active
 "Feb 21",98,M,05,7231185,Kharghar,31,42,10,0,0,0,0,0,0,8,2,5,4,1,1,4,14,7,7,1,1,,Active
 "Mar 21",98,M,05,7231185,Kharghar,31,45,10,0,0,0,0,0,0,8,2,5,4,1,2,4,17,7,7,2,1,,Active
-" "
 "Jan 20",98,M,06,7697954,"Majesco Mahape",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,M,06,7697954,"Majesco Mahape",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 20",98,M,06,7697954,"Majesco Mahape",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -11056,7 +10857,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,05,7697954,"Majesco Mahape",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,M,05,7697954,"Majesco Mahape",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,M,05,7697954,"Majesco Mahape",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Jun 20",98,M,01,7763127,NMD,44,44,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 20",98,M,05,7763127,NMD,44,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Aug 20",98,M,05,7763127,NMD,44,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -11067,15 +10867,12 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,M,05,7763127,NMD,44,41,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,1,,Active
 "Feb 21",98,M,05,7763127,NMD,44,41,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,1,1,,Active
 "Mar 21",98,M,05,7763127,NMD,44,41,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,1,1,,Active
-" "
 "Jan 21",98,M,05,7842156,"Worley India Toastmasters Synergy",35,35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Feb 21",98,M,05,7842156,"Worley India Toastmasters Synergy",35,40,3,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,7,2,1,,Active
 "Mar 21",98,M,05,7842156,"Worley India Toastmasters Synergy",35,41,8,0,0,0,0,0,0,4,2,1,2,1,1,4,2,0,7,2,1,,Active
-" "
 "Jan 21",98,M,05,7849707,"Speakers Community",21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,,Active
 "Feb 21",98,M,05,7849707,"Speakers Community",21,23,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,7,2,1,,Active
 "Mar 21",98,M,05,7849707,"Speakers Community",21,23,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,7,2,1,,Active
-" "
 "Jan 07",82,C,15,992223,,20,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Feb 07",82,C,15,992223,,20,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Mar 07",82,C,15,992223,,20,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,,Active
@@ -11246,7 +11043,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,01,992223,"Raisoni Institute's Diamond",8,17,10,0,0,0,0,0,0,7,2,2,4,1,4,4,5,5,5,1,2,,Active
 "Feb 21",98,N,01,992223,"Raisoni Institute's Diamond",8,17,10,0,0,0,0,0,0,7,2,2,4,1,4,4,5,5,5,1,2,,Active
 "Mar 21",98,N,01,992223,"Raisoni Institute's Diamond",8,17,10,0,0,0,0,0,0,7,2,2,4,1,4,4,5,5,5,1,2,,Active
-" "
 "Sep 16",98,H,02,5757009,"Toastmasters @ IIM Nagpur",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 16",98,H,02,5757009,"Toastmasters @ IIM Nagpur",20,39,3,0,0,0,0,0,0,0,0,0,0,0,0,4,15,0,0,1,1,,Active
 "Nov 16",98,H,02,5757009,"Toastmasters @ IIM Nagpur",20,39,3,0,0,0,0,0,0,0,0,0,0,0,0,4,15,0,0,1,1,,Active
@@ -11302,7 +11098,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,01,5757009,"IIM Nagpur",8,42,4,0,0,0,0,0,0,4,0,0,0,0,0,4,34,4,1,1,1,,Active
 "Feb 21",98,N,01,5757009,"IIM Nagpur",8,42,5,0,0,0,0,0,0,4,0,0,0,1,0,4,34,4,1,1,1,,Active
 "Mar 21",98,N,01,5757009,"IIM Nagpur",8,42,5,0,0,0,0,0,0,4,0,0,0,1,0,4,34,4,1,1,1,,Active
-" "
 "Nov 16",98,H,01,5893739,"TCS Nagpur",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 16",98,H,01,5893739,"TCS Nagpur",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 17",98,H,01,5893739,"TCS Nagpur",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -11356,7 +11151,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,01,5893739,"TCS Nagpur",21,24,7,0,0,0,0,0,0,6,2,0,0,1,0,4,7,7,7,2,1,,Active
 "Feb 21",98,N,01,5893739,"TCS Nagpur",21,24,8,0,0,0,0,0,0,6,2,0,0,1,1,4,7,7,7,2,1,,Active
 "Mar 21",98,N,01,5893739,"TCS Nagpur",21,26,8,0,0,0,0,0,0,7,2,0,1,1,4,4,9,7,7,2,1,,Active
-" "
 "Feb 20",98,H,05,7735020,Loyal,20,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,,Active
 "Mar 20",98,H,05,7735020,Loyal,20,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,,Active
 "Apr 20",98,H,05,7735020,Loyal,20,19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,,Active
@@ -11371,7 +11165,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,01,7735020,Loyal,19,18,6,0,0,0,0,0,0,4,2,0,1,0,0,4,4,4,4,2,1,,Active
 "Feb 21",98,N,01,7735020,Loyal,19,20,6,0,0,0,0,0,0,4,2,0,1,0,0,4,6,4,4,2,1,,Active
 "Mar 21",98,N,01,7735020,Loyal,19,21,7,0,0,0,0,0,0,5,2,0,2,0,0,4,7,4,4,2,1,,Active
-" "
 "Jan 07",82,C,15,992337,,20,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Feb 07",82,C,15,992337,,20,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Mar 07",82,C,15,992337,,20,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,,Active
@@ -11542,7 +11335,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,02,992337,"Raisoni Institute's Emerald",8,17,10,0,0,0,0,0,0,12,2,8,10,1,1,4,7,4,5,1,2,,Active
 "Feb 21",98,N,02,992337,"Raisoni Institute's Emerald",8,17,10,0,0,0,0,0,0,12,2,8,10,1,1,4,7,4,5,1,2,,Active
 "Mar 21",98,N,02,992337,"Raisoni Institute's Emerald",8,17,10,0,0,0,0,0,0,12,2,8,10,1,1,4,7,4,5,1,2,,Active
-" "
 "Sep 16",98,H,02,5762025,"IMT Nagpur",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 16",98,H,02,5762025,"IMT Nagpur",27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Ineligible
 "Nov 16",98,H,02,5762025,"IMT Nagpur",27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Ineligible
@@ -11598,7 +11390,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,02,5762025,"IMT Nagpur",8,14,4,0,0,0,0,0,0,3,0,0,0,0,0,4,6,4,7,1,1,,Active
 "Feb 21",98,N,02,5762025,"IMT Nagpur",8,14,4,0,0,0,0,0,0,3,0,0,0,0,0,4,6,4,7,1,1,,Active
 "Mar 21",98,N,02,5762025,"IMT Nagpur",8,14,4,0,0,0,0,0,0,3,0,0,0,0,0,4,6,4,7,1,1,,Active
-" "
 "Sep 18",98,H,04,7073592,Gurukul.Education,20,20,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 18",98,H,04,7073592,Gurukul.Education,20,21,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Nov 18",98,H,04,7073592,Gurukul.Education,20,21,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,4,0,1,1,,Active
@@ -11630,7 +11421,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,02,7073592,Gurukul.Education,16,21,8,0,0,0,0,0,0,6,2,2,2,1,0,4,2,7,5,1,1,,Active
 "Feb 21",98,N,02,7073592,Gurukul.Education,16,23,9,0,0,0,0,0,0,6,2,2,2,1,0,4,4,7,5,1,1,,Active
 "Mar 21",98,N,02,7073592,Gurukul.Education,16,23,10,0,0,0,0,0,0,6,2,2,2,1,1,4,4,7,5,2,1,,Active
-" "
 "Sep 20",98,N,02,7811085,InfoCepts,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,1,,Active
 "Oct 20",98,N,02,7811085,InfoCepts,21,25,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,6,0,1,1,,Active
 "Nov 20",98,N,02,7811085,InfoCepts,21,25,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,6,0,1,1,,Active
@@ -11638,7 +11428,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,02,7811085,InfoCepts,21,26,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,6,4,1,1,,Active
 "Feb 21",98,N,02,7811085,InfoCepts,21,28,3,0,0,0,0,0,0,2,1,0,0,0,0,4,2,6,4,1,1,,Active
 "Mar 21",98,N,02,7811085,InfoCepts,21,28,5,0,0,0,0,0,0,3,2,0,1,1,0,4,2,6,4,2,1,,Active
-" "
 "Jan 14",41,F,03,3531688,Nagpur,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Feb 14",41,F,03,3531688,Nagpur,20,21,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,1,1,,Active
 "Mar 14",41,F,03,3531688,Nagpur,20,21,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,2,1,,Active
@@ -11725,7 +11514,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,03,3531688,Nagpur,23,26,8,0,0,0,0,0,0,4,2,3,2,0,0,4,4,7,5,2,1,,Active
 "Feb 21",98,N,03,3531688,Nagpur,23,26,9,0,0,0,0,0,0,4,2,3,2,1,0,4,4,7,5,2,1,,Active
 "Mar 21",98,N,03,3531688,Nagpur,23,27,9,0,0,0,0,0,0,4,2,3,2,1,0,4,5,7,5,2,1,,Active
-" "
 "Feb 19",98,H,05,7289583,BRIO,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 19",98,H,05,7289583,BRIO,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 19",98,H,05,7289583,BRIO,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -11752,7 +11540,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,03,7289583,BRIO,8,21,6,0,0,0,0,0,0,3,2,2,0,0,0,4,14,6,6,1,2,,Active
 "Feb 21",98,N,03,7289583,BRIO,8,21,7,0,0,0,0,0,0,6,2,2,0,0,0,4,14,6,6,1,2,,Active
 "Mar 21",98,N,03,7289583,BRIO,8,21,7,0,0,0,0,0,0,8,2,3,0,0,0,4,14,6,6,1,2,,Active
-" "
 "Jun 19",98,H,05,7447795,"Toastmasters @ Persistent Nagpur",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,H,05,7447795,"Toastmasters @ Persistent Nagpur",25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 19",98,H,05,7447795,"Toastmasters @ Persistent Nagpur",25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,,Active
@@ -11775,7 +11562,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,03,7447795,"Toastmasters @ Persistent Nagpur",10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Active
 "Feb 21",98,N,03,7447795,"Toastmasters @ Persistent Nagpur",10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Low
 "Mar 21",98,N,03,7447795,"Toastmasters @ Persistent Nagpur",10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Low
-" "
 "Sep 16",98,H,02,5742286,"Provakta Toastmasters Club of IIM Raipur",47,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 16",98,H,02,5742286,"Provakta Toastmasters Club of IIM Raipur",47,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Ineligible
 "Nov 16",98,H,02,5742286,"Provakta Toastmasters Club of IIM Raipur",47,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Ineligible
@@ -11831,7 +11617,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,04,5742286,"Provakta Toastmasters Club of IIM Raipur",8,21,4,0,0,0,0,0,0,3,1,0,0,0,0,4,14,7,7,1,1,,Active
 "Feb 21",98,N,04,5742286,"Provakta Toastmasters Club of IIM Raipur",8,21,4,0,0,0,0,0,0,3,1,0,0,0,0,4,14,7,7,1,1,,Active
 "Mar 21",98,N,04,5742286,"Provakta Toastmasters Club of IIM Raipur",8,21,4,0,0,0,0,0,0,3,1,0,0,0,0,4,14,7,7,1,1,,Active
-" "
 "Nov 18",98,G,04,7185394,"SSIPMT Spellbinders",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 18",98,G,04,7185394,"SSIPMT Spellbinders",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 19",98,G,04,7185394,"SSIPMT Spellbinders",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -11861,7 +11646,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,04,7185394,"SSIPMT Spellbinders",26,29,8,0,0,0,0,0,0,5,2,0,4,1,4,4,3,7,7,1,2,,Active
 "Feb 21",98,N,04,7185394,"SSIPMT Spellbinders",26,29,8,0,0,0,0,0,0,6,2,0,5,1,4,4,3,7,7,1,2,,Active
 "Mar 21",98,N,04,7185394,"SSIPMT Spellbinders",26,29,8,0,0,0,0,0,0,7,2,1,5,1,6,4,3,7,7,1,2,,Active
-" "
 "May 19",98,G,04,7429657,Rungta,24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 19",98,G,04,7429657,Rungta,24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,G,04,7429657,Rungta,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -11885,7 +11669,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,N,04,7429657,Rungta,3,11,2,0,0,0,0,0,0,1,1,0,1,0,0,4,4,4,1,1,0,,Active
 "Feb 21",98,N,04,7429657,Rungta,3,11,4,0,0,0,0,0,0,1,1,0,1,1,1,4,4,4,1,1,0,,Active
 "Mar 21",98,N,04,7429657,Rungta,3,11,4,0,0,0,0,0,0,1,1,0,1,1,1,4,4,4,1,1,0,,Active
-" "
 "May 17",98,P,03,6539289,"UBS Pune",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 17",98,P,03,6539289,"UBS Pune",25,25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 17",98,P,05,6539289,"UBS Pune",25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Active
@@ -11933,7 +11716,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,01,6539289,"UBS Pune",25,24,3,0,0,0,0,0,0,1,0,0,0,1,0,4,0,5,0,1,1,,Active
 "Feb 21",98,O,01,6539289,"UBS Pune",25,24,3,0,0,0,0,0,0,1,0,0,0,1,0,4,0,5,1,1,1,,Active
 "Mar 21",98,O,01,6539289,"UBS Pune",25,24,3,0,0,0,0,0,0,1,0,0,0,1,0,4,0,5,2,1,1,,Active
-" "
 "Jun 17",98,P,01,6592020,"Deutsche Bank Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 17",98,P,03,6592020,"Deutsche Bank Pune",21,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,1,,Active
 "Aug 17",98,P,03,6592020,"Deutsche Bank Pune",21,23,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,1,,Active
@@ -11980,7 +11762,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,01,6592020,"Deutsche Bank Pune",20,11,1,0,0,0,0,0,0,1,0,0,0,0,0,3,0,7,2,1,1,,Active
 "Feb 21",98,O,01,6592020,"Deutsche Bank Pune",20,11,1,0,0,0,0,0,0,1,0,0,0,0,0,3,0,7,2,1,1,,Active
 "Mar 21",98,O,01,6592020,"Deutsche Bank Pune",20,11,2,0,0,0,0,0,0,1,0,0,0,0,0,3,0,7,4,1,1,,Active
-" "
 "Jun 19",98,O,01,7448369,"Toastmasters for Pune Entrepreneurs 2.0",20,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,O,01,7448369,"Toastmasters for Pune Entrepreneurs 2.0",2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 19",98,O,01,7448369,"Toastmasters for Pune Entrepreneurs 2.0",2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,0,1,,Active
@@ -12003,7 +11784,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,01,7448369,"Toastmasters for Pune Entrepreneurs 2.0",29,25,8,0,0,0,0,0,0,4,2,2,4,1,0,4,1,7,5,2,2,,Active
 "Feb 21",98,O,01,7448369,"Toastmasters for Pune Entrepreneurs 2.0",29,26,9,0,0,0,0,0,0,4,2,2,4,1,1,4,2,7,7,2,2,,Active
 "Mar 21",98,O,01,7448369,"Toastmasters for Pune Entrepreneurs 2.0",29,27,9,0,0,0,0,0,0,5,2,2,4,1,1,4,3,7,7,2,2,,Active
-" "
 "Jun 12",41,E,03,2571105,"Toastmasters Club Of Pune East",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 12",41,E,02,2571105,"Toastmasters Club Of Pune East",0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,1,1,,Active
 "Aug 12",41,E,02,2571105,"Toastmasters Club Of Pune East",0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,1,1,,Active
@@ -12109,7 +11889,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,02,2571105,"Opulent Toastmasters Club Of Pune Camp",33,17,7,0,0,0,0,0,0,5,2,2,0,1,0,4,1,7,7,1,2,,Active
 "Feb 21",98,O,02,2571105,"Opulent Toastmasters Club Of Pune Camp",33,21,8,0,0,0,0,0,0,5,2,2,0,1,0,4,5,7,7,1,2,,Active
 "Mar 21",98,O,02,2571105,"Opulent Toastmasters Club Of Pune Camp",33,21,9,0,0,0,0,0,0,5,2,2,1,1,1,4,5,7,7,2,2,,Active
-" "
 "Apr 16",98,C,02,5404212,"CDK Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 16",98,C,02,5404212,"CDK Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 16",98,C,02,5404212,"CDK Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -12169,7 +11948,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,02,5404212,"CDK Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,O,02,5404212,"CDK Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,O,02,5404212,"CDK Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Oct 17",98,P,03,6716037,Aurangabad,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 17",98,P,03,6716037,Aurangabad,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 17",98,P,03,6716037,Aurangabad,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
@@ -12212,7 +11990,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,02,6716037,Aurangabad,21,20,5,0,0,0,0,0,0,5,0,0,1,0,0,4,4,7,6,1,2,,Active
 "Feb 21",98,O,02,6716037,Aurangabad,21,21,5,0,0,0,0,0,0,5,0,0,1,0,0,4,5,7,6,1,2,,Active
 "Mar 21",98,O,02,6716037,Aurangabad,21,21,5,0,0,0,0,0,0,5,0,0,1,0,0,4,5,7,6,2,2,,Active
-" "
 "Feb 20",98,O,03,7757012,"Toastmasters Club of BMC Software Customer Success",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 20",98,O,03,7757012,"Toastmasters Club of BMC Software Customer Success",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Apr 20",98,O,03,7757012,"Toastmasters Club of BMC Software Customer Success",20,25,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,1,,Active
@@ -12227,7 +12004,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,02,7757012,"Toastmasters Club of BMC Software Customer Success",29,31,4,0,0,0,0,0,0,6,1,0,1,0,0,4,2,4,7,1,2,,Active
 "Feb 21",98,O,02,7757012,"Toastmasters Club of BMC Software Customer Success",29,32,5,0,0,0,0,0,0,6,2,0,1,0,0,4,3,4,7,1,2,,Active
 "Mar 21",98,O,02,7757012,"Toastmasters Club of BMC Software Customer Success",29,32,6,0,0,0,0,0,0,7,2,1,1,1,0,4,3,4,7,1,2,,Active
-" "
 "Apr 11",82,M,03,1764192,"The Orators",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "May 11",82,M,03,1764192,"The Orators",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jun 11",82,M,03,1764192,"The Orators",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
@@ -12347,7 +12123,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,03,1764192,"The Orators",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,Ineligible
 "Feb 21",98,O,03,1764192,"The Orators",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,Ineligible
 "Mar 21",98,O,03,1764192,"The Orators",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,Ineligible
-" "
 "Jul 15",98,D,02,5027867,Tieto,20,46,3,0,0,0,0,0,0,0,0,0,0,0,0,4,22,0,0,1,1,,Active
 "Aug 15",98,D,02,5027867,Tieto,20,46,3,0,0,0,0,0,0,0,0,0,0,0,0,4,22,0,0,1,1,,Active
 "Sep 15",98,D,02,5027867,Tieto,20,46,3,0,0,0,0,0,0,0,0,0,0,0,0,4,22,0,0,1,1,,Active
@@ -12416,7 +12191,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,03,5027867,Tieto,31,25,5,0,0,0,0,0,0,4,2,0,1,1,0,1,0,7,7,1,2,,Active
 "Feb 21",98,O,03,5027867,Tieto,31,25,6,0,0,0,0,0,0,4,2,1,2,1,0,1,0,7,7,1,2,,Active
 "Mar 21",98,O,03,5027867,Tieto,31,25,7,0,0,0,0,0,0,5,2,3,2,1,0,1,0,7,7,1,2,,Active
-" "
 "Aug 17",98,D,02,6642875,"Toastmasters Club of Pune South",20,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Sep 17",98,D,02,6642875,"Toastmasters Club of Pune South",20,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 17",98,D,02,6642875,"Toastmasters Club of Pune South",20,22,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,1,1,,Active
@@ -12461,7 +12235,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,03,6642875,"Toastmasters Club of Pune South",20,23,8,0,0,0,0,0,0,5,2,1,1,1,4,4,6,7,6,2,2,,Active
 "Feb 21",98,O,03,6642875,"Toastmasters Club of Pune South",20,24,8,0,0,0,0,0,0,5,2,1,1,1,4,4,7,7,7,2,2,,Active
 "Mar 21",98,O,03,6642875,"Toastmasters Club of Pune South",20,28,10,0,0,0,0,0,0,5,2,2,2,1,4,4,11,7,7,2,2,,Active
-" "
 "Mar 18",98,D,02,6885728,SgAs,20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 18",98,D,02,6885728,SgAs,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 18",98,D,02,6885728,SgAs,20,22,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,,Active
@@ -12499,7 +12272,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,03,6885728,SgAs,16,20,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,4,1,2,,Active
 "Feb 21",98,O,03,6885728,SgAs,16,20,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,5,1,2,,Active
 "Mar 21",98,O,03,6885728,SgAs,16,20,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7,5,1,2,,Active
-" "
 "Dec 18",98,P,04,7215018,"Schlumberger Toastmasters Club of Pune",20,35,3,0,0,0,0,0,0,0,0,0,0,0,0,4,11,0,0,1,1,,Active
 "Jan 19",98,P,04,7215018,"Schlumberger Toastmasters Club of Pune",20,35,4,0,0,0,0,0,0,0,0,0,0,0,0,4,11,0,6,1,1,,Active
 "Feb 19",98,P,04,7215018,"Schlumberger Toastmasters Club of Pune",20,35,4,0,0,0,0,0,0,0,0,0,0,0,0,4,11,0,6,1,1,,Active
@@ -12528,7 +12300,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,03,7215018,"Schlumberger Toastmasters Club of Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,O,03,7215018,"Schlumberger Toastmasters Club of Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,O,03,7215018,"Schlumberger Toastmasters Club of Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Dec 11",41,E,02,2150212,"TSYS Pune",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Jan 12",41,E,02,2150212,"TSYS Pune",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Feb 12",41,E,02,2150212,"TSYS Pune",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -12640,7 +12411,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,04,2150212,"TSYS Pune",8,10,2,0,0,0,0,0,0,1,0,0,1,0,0,3,0,7,4,1,2,,Active
 "Feb 21",98,O,04,2150212,"TSYS Pune",8,11,3,0,0,0,0,0,0,1,0,0,1,0,0,4,0,7,4,1,2,,Active
 "Mar 21",98,O,04,2150212,"TSYS Pune",8,12,4,0,0,0,0,0,0,1,0,0,1,1,0,4,1,7,4,2,2,,Active
-" "
 "Jun 13",41,E,01,2973814,"The Speakers Guild",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 13",41,E,01,2973814,"The Speakers Guild",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 13",41,E,01,2973814,"The Speakers Guild",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -12734,7 +12504,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,04,2973814,"Toastmasters Club of Pune - North East",32,28,10,0,0,0,0,0,0,11,2,4,2,1,2,4,8,7,6,1,2,,Active
 "Feb 21",98,O,04,2973814,"Toastmasters Club of Pune - North East",32,31,10,0,0,0,0,0,0,11,2,4,2,1,2,4,11,7,6,1,2,,Active
 "Mar 21",98,O,04,2973814,"Toastmasters Club of Pune - North East",32,34,10,0,0,0,0,0,0,11,2,7,2,1,2,4,14,7,6,2,2,,Active
-" "
 "Feb 14",41,E,03,3700901,"Toastmasters Club of BMC Software",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 14",41,E,03,3700901,"Toastmasters Club of BMC Software",20,12,4,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0,5,2,1,,Active
 "Apr 14",41,E,03,3700901,"Toastmasters Club of BMC Software",20,35,6,0,0,1,0,1,0,0,0,0,0,0,0,4,12,0,5,2,1,D,Active
@@ -12820,7 +12589,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,04,3700901,"Toastmasters Club of BMC Software",22,20,8,0,0,0,0,0,0,1,2,2,3,1,1,4,3,7,7,1,2,,Active
 "Feb 21",98,O,04,3700901,"Toastmasters Club of BMC Software",22,20,8,0,0,0,0,0,0,1,2,2,3,1,1,4,3,7,7,1,2,,Active
 "Mar 21",98,O,04,3700901,"Toastmasters Club of BMC Software",22,20,8,0,0,0,0,0,0,2,2,3,3,1,2,4,3,7,7,1,2,,Active
-" "
 "Mar 18",98,P,05,6783455,"BNY Mellon - Pune Commerzone",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 18",98,P,05,6783455,"BNY Mellon - Pune Commerzone",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 18",98,P,05,6783455,"BNY Mellon - Pune Commerzone",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -12858,10 +12626,8 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,O,04,6783455,"BNY Mellon - Pune Commerzone",20,25,3,0,0,0,0,0,0,1,0,0,0,0,0,4,11,7,3,1,2,,Active
 "Feb 21",98,O,04,6783455,"BNY Mellon - Pune Commerzone",20,25,4,0,0,0,0,0,0,1,0,0,0,0,0,4,11,7,6,1,2,,Active
 "Mar 21",98,O,04,6783455,"BNY Mellon - Pune Commerzone",20,25,4,0,0,0,0,0,0,1,0,0,0,0,0,4,11,7,6,1,2,,Active
-" "
 "Feb 21",98,O,04,7850062,"STL Toastmaster",24,24,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,,Active
 "Mar 21",98,O,04,7850062,"STL Toastmaster",24,24,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,,Active
-" "
 "Feb 08",82,D,13,1141787,"Toastmasters Club of Pune",20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Mar 08",82,D,13,1141787,"Toastmasters Club of Pune",20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
 "Apr 08",82,D,13,1141787,"Toastmasters Club of Pune",20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Active
@@ -13019,7 +12785,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,01,1141787,"Toastmasters Club of Pune",49,52,10,0,0,0,0,0,0,17,2,10,7,1,10,4,14,7,7,1,2,,Active
 "Feb 21",98,P,01,1141787,"Toastmasters Club of Pune",49,57,10,0,0,0,0,0,0,20,2,14,7,1,13,4,19,7,7,2,2,,Active
 "Mar 21",98,P,01,1141787,"Toastmasters Club of Pune",49,58,10,0,0,0,0,0,0,21,2,14,8,1,15,4,20,7,7,2,2,,Active
-" "
 "Jan 17",98,P,01,5979643,e-Zest,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,,Active
 "Feb 17",98,P,01,5979643,e-Zest,20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,,Active
 "Mar 17",98,P,01,5979643,e-Zest,20,24,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,2,1,,Active
@@ -13071,7 +12836,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,01,5979643,e-Zest,20,19,6,0,0,0,0,0,0,4,2,0,0,1,1,3,0,5,4,1,2,,Active
 "Feb 21",98,P,01,5979643,e-Zest,20,19,6,0,0,0,0,0,0,4,2,1,0,1,1,3,0,5,4,1,2,,Active
 "Mar 21",98,P,01,5979643,e-Zest,20,19,6,0,0,0,0,0,0,4,2,1,0,1,1,3,0,5,4,2,2,,Active
-" "
 "Mar 18",98,C,02,6879034,"Adient Toastmasters Club of Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Apr 18",98,C,02,6879034,"Adient Toastmasters Club of Pune",20,25,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,1,,Active
 "May 18",98,C,02,6879034,"Adient Toastmasters Club of Pune",20,25,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,1,,Active
@@ -13109,7 +12873,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,01,6879034,"Adient Toastmasters Club of Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,P,01,6879034,"Adient Toastmasters Club of Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,P,01,6879034,"Adient Toastmasters Club of Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Jun 19",98,P,03,7470706,"Pune Marathi",20,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,P,04,7470706,"Pune Marathi",3,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,4,0,0,1,,Active
 "Aug 19",98,P,04,7470706,"Pune Marathi",4,4,2,0,0,1,0,1,0,0,1,0,1,0,0,1,0,4,0,0,1,,Active
@@ -13132,7 +12895,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,01,7470706,"Pune Marathi",14,20,10,0,0,0,0,0,0,4,2,3,4,1,2,4,4,7,4,1,2,,Active
 "Feb 21",98,P,01,7470706,"Pune Marathi",14,21,10,0,0,0,0,0,0,4,2,3,4,1,2,4,5,7,4,1,2,,Active
 "Mar 21",98,P,01,7470706,"Pune Marathi",14,21,10,0,0,0,0,0,0,4,2,3,4,1,2,4,5,7,4,1,2,,Active
-" "
 "Aug 10",82,M,01,1534609,"Toastmasters Club of Pune-West",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,,Active
 "Sep 10",82,M,01,1534609,"Toastmasters Club of Pune-West",20,5,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,0,1,0,,Active
 "Oct 10",82,M,01,1534609,"Toastmasters Club of Pune-West",20,14,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,0,1,0,,Active
@@ -13260,7 +13022,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,02,1534609,"Toastmasters Club of Pune-West",32,32,10,0,0,0,0,0,0,8,2,2,4,1,3,4,14,7,7,1,2,,Active
 "Feb 21",98,P,02,1534609,"Toastmasters Club of Pune-West",32,33,10,0,0,0,0,0,0,9,2,4,5,1,3,4,15,7,7,1,2,,Active
 "Mar 21",98,P,02,1534609,"Toastmasters Club of Pune-West",32,37,10,0,0,0,0,0,0,11,2,6,5,1,4,4,19,7,7,2,2,,Active
-" "
 "Jan 17",98,C,02,5970302,"CTCI Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 17",98,C,02,5970302,"CTCI Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Mar 17",98,C,02,5970302,"CTCI Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -13312,7 +13073,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,02,5970302,"Cummins Pune",17,15,6,0,0,0,0,0,0,4,2,0,3,1,1,3,0,7,3,1,1,,Active
 "Feb 21",98,P,02,5970302,"Cummins Pune",17,17,7,0,0,0,0,0,0,4,2,1,3,1,1,4,1,7,3,1,1,,Active
 "Mar 21",98,P,02,5970302,"Cummins Pune",17,17,7,0,0,0,0,0,0,4,2,1,3,1,1,4,1,7,3,1,1,,Active
-" "
 "Sep 17",98,P,01,6643694,"Persistent Pune ArPg",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 17",98,P,01,6643694,"Persistent Pune ArPg",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 17",98,P,01,6643694,"Persistent Pune ArPg",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
@@ -13356,7 +13116,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,02,6643694,"Persistent Pune ArPg",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,P,02,6643694,"Persistent Pune ArPg",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,P,02,6643694,"Persistent Pune ArPg",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "May 18",98,P,02,6974223,Sinhgad,20,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,P,02,6974223,Sinhgad,20,16,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,,Active
 "Jul 18",98,P,02,6974223,Sinhgad,16,16,2,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -13392,7 +13151,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,02,6974223,Sinhgad,27,24,10,0,0,0,0,0,0,8,2,3,2,1,1,4,5,7,7,1,2,,Active
 "Feb 21",98,P,02,6974223,Sinhgad,27,25,10,0,0,0,0,0,0,9,2,3,2,1,1,4,6,7,7,1,2,,Active
 "Mar 21",98,P,02,6974223,Sinhgad,27,29,10,0,0,0,0,0,0,9,2,5,2,1,1,4,10,7,7,1,2,,Active
-" "
 "Jun 12",41,E,01,2541278,"Toastmasters Club Of Pune-Central",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 12",41,I,03,2541278,"Toastmasters Club Of Pune-Central",0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7,1,1,1,,Active
 "Aug 12",41,I,03,2541278,"Toastmasters Club Of Pune-Central",0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7,1,1,1,,Active
@@ -13498,7 +13256,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,03,2541278,"Toastmasters Club Of Pune-Central",20,25,10,0,0,0,0,0,0,4,2,4,4,1,7,4,7,7,7,1,2,,Active
 "Feb 21",98,P,03,2541278,"Toastmasters Club Of Pune-Central",20,25,10,0,0,0,0,0,0,5,2,4,4,1,7,4,7,7,7,1,2,,Active
 "Mar 21",98,P,03,2541278,"Toastmasters Club Of Pune-Central",20,25,10,0,0,0,0,0,0,5,2,4,4,1,8,4,7,7,7,2,2,,Active
-" "
 "Dec 16",98,C,03,5922621,"Mindtree Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 17",98,C,03,5922621,"Mindtree Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 17",98,C,03,5922621,"Mindtree Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -13551,7 +13308,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,03,5922621,"Mindtree Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,P,03,5922621,"Mindtree Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,P,03,5922621,"Mindtree Pune",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Sep 17",98,C,05,6643699,"Persistent Pune Hinjewadi",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 17",98,C,05,6643699,"Persistent Pune Hinjewadi",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 17",98,C,05,6643699,"Persistent Pune Hinjewadi",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -13595,7 +13351,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,03,6643699,"Persistent Pune Hinjewadi",10,9,4,0,0,0,0,0,0,2,1,0,2,1,3,3,0,7,5,0,1,,Active
 "Feb 21",98,P,03,6643699,"Persistent Pune Hinjewadi",10,9,4,0,0,0,0,0,0,2,1,0,2,1,3,3,0,7,5,0,1,,Active
 "Mar 21",98,P,03,6643699,"Persistent Pune Hinjewadi",10,9,4,0,0,0,0,0,0,2,1,0,2,1,3,3,0,7,5,0,1,,Active
-" "
 "Jan 20",98,P,05,7669989,"CRISIL Pune",32,32,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Feb 20",98,P,05,7669989,"CRISIL Pune",32,32,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Mar 20",98,P,05,7669989,"CRISIL Pune",32,32,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
@@ -13611,7 +13366,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,03,7669989,"CRISIL Pune",32,17,3,0,0,0,0,0,0,0,0,0,0,0,0,4,9,7,0,1,1,,Active
 "Feb 21",98,P,03,7669989,"CRISIL Pune",32,17,3,0,0,0,0,0,0,0,0,0,0,0,0,4,9,7,0,1,1,,Active
 "Mar 21",98,P,03,7669989,"CRISIL Pune",32,17,3,0,0,0,0,0,0,0,0,0,0,0,0,4,9,7,0,1,1,,Active
-" "
 "Apr 20",98,P,01,7771017,"Fintree Toastmasters Club For Finance Professionals",20,20,4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "May 20",98,P,01,7771017,"Fintree Toastmasters Club For Finance Professionals",20,21,5,0,0,0,0,1,1,2,2,0,1,0,0,1,0,0,7,1,1,D,Active
 "Jun 20",98,P,01,7771017,"Fintree Toastmasters Club For Finance Professionals",20,24,9,0,0,0,0,1,1,5,2,1,3,1,0,4,0,0,7,1,1,P,Active
@@ -13624,14 +13378,12 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,03,7771017,"Fintree Toastmasters Club For Finance Professionals",24,20,9,0,0,0,0,0,0,6,2,3,3,1,3,4,1,7,4,1,2,,Active
 "Feb 21",98,P,03,7771017,"Fintree Toastmasters Club For Finance Professionals",24,20,9,0,0,0,0,0,0,6,2,3,3,1,3,4,1,7,4,1,2,,Active
 "Mar 21",98,P,03,7771017,"Fintree Toastmasters Club For Finance Professionals",24,20,9,0,0,0,0,0,0,6,2,3,3,1,3,4,1,7,4,1,2,,Active
-" "
 "Oct 20",98,P,03,7811400,Rainbow,25,25,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,,Active
 "Nov 20",98,P,03,7811400,Rainbow,25,28,3,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,1,1,,Active
 "Dec 20",98,P,03,7811400,Rainbow,25,31,4,0,0,0,0,0,0,1,1,0,1,1,1,4,2,0,0,1,1,,Active
 "Jan 21",98,P,03,7811400,Rainbow,25,31,5,0,0,0,0,0,0,3,1,0,1,1,1,4,2,0,5,1,1,,Active
 "Feb 21",98,P,03,7811400,Rainbow,25,31,5,0,0,0,0,0,0,3,1,0,1,1,1,4,2,0,5,1,1,,Active
 "Mar 21",98,P,03,7811400,Rainbow,25,32,6,0,0,0,0,0,0,5,1,0,1,1,2,4,3,0,5,2,1,,Active
-" "
 "Mar 16",98,D,04,5294613,"Pune Advanced",20,20,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 16",98,D,04,5294613,"Pune Advanced",20,20,4,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 16",98,D,04,5294613,"Pune Advanced",20,20,4,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -13692,7 +13444,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,04,5294613,"Pune Advanced",25,30,10,0,0,0,0,0,0,5,2,2,3,1,3,4,4,7,7,2,1,,Active
 "Feb 21",98,P,04,5294613,"Pune Advanced",25,30,10,0,0,0,0,0,0,5,2,3,3,1,3,4,4,7,7,2,1,,Active
 "Mar 21",98,P,04,5294613,"Pune Advanced",25,30,10,0,0,0,0,0,0,6,2,3,3,1,4,4,4,7,7,2,1,,Active
-" "
 "Nov 16",98,C,01,5820914,"Accenture Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 16",98,C,01,5820914,"Accenture Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 17",98,C,01,5820914,"Accenture Pune",20,22,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,7,1,1,,Active
@@ -13746,7 +13497,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,04,5820914,"Accenture Pune",9,9,7,0,0,0,0,0,0,3,2,2,1,1,1,4,2,6,5,1,2,,Active
 "Feb 21",98,P,04,5820914,"Accenture Pune",9,9,7,0,0,0,0,0,0,3,2,2,1,1,1,4,2,6,5,1,2,,Active
 "Mar 21",98,P,04,5820914,"Accenture Pune",9,9,7,0,0,0,0,0,0,3,2,4,1,1,1,4,2,6,5,1,2,,Active
-" "
 "May 18",98,C,04,6941712,"Toastmasters Club of Nashik",20,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,C,04,6941712,"Toastmasters Club of Nashik",23,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 18",98,P,04,6941712,"Toastmasters Club of Nashik",23,25,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,,Active
@@ -13782,7 +13532,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,04,6941712,"Toastmasters Club of Nashik",23,26,6,0,0,0,0,0,0,2,1,0,1,1,1,4,10,7,6,1,2,,Active
 "Feb 21",98,P,04,6941712,"Toastmasters Club of Nashik",23,26,8,0,0,0,0,0,0,6,2,0,1,1,1,4,10,7,6,1,2,,Active
 "Mar 21",98,P,04,6941712,"Toastmasters Club of Nashik",23,26,8,0,0,0,0,0,0,8,2,1,1,1,1,4,10,7,6,1,2,,Active
-" "
 "May 19",98,P,02,7434850,"Atlas Copco Gecia",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 19",98,P,02,7434850,"Atlas Copco Gecia",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,P,04,7434850,"Atlas Copco Gecia",20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -13806,7 +13555,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,04,7434850,"Atlas Copco Gecia",22,26,4,0,0,0,0,0,0,1,2,1,0,0,0,4,2,7,7,1,2,,Active
 "Feb 21",98,P,04,7434850,"Atlas Copco Gecia",22,26,4,0,0,0,0,0,0,1,2,1,0,0,0,4,2,7,7,1,2,,Active
 "Mar 21",98,P,04,7434850,"Atlas Copco Gecia",22,26,4,0,0,0,0,0,0,1,2,1,0,0,0,4,2,7,7,1,2,,Active
-" "
 "Dec 15",98,C,01,5163301,Deccan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 16",98,C,01,5163301,Deccan,20,4,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,5,1,1,,Active
 "Feb 16",98,C,01,5163301,Deccan,20,6,3,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,5,1,1,,Active
@@ -13870,7 +13618,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,05,5163301,Deccan,52,49,10,0,0,0,0,0,0,11,2,6,4,1,1,4,5,7,7,2,2,,Active
 "Feb 21",98,P,05,5163301,Deccan,52,51,10,0,0,0,0,0,0,11,2,6,5,1,1,4,7,7,7,2,2,,Active
 "Mar 21",98,P,05,5163301,Deccan,52,51,10,0,0,0,0,0,0,14,2,9,7,1,3,4,7,7,7,2,2,,Active
-" "
 "Sep 17",98,C,01,6641278,"3DS Pune",22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 17",98,C,01,6641278,"3DS Pune",22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Ineligible
 "Nov 17",98,C,01,6641278,"3DS Pune",22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Ineligible
@@ -13914,7 +13661,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,05,6641278,"3DS Pune",20,22,10,0,0,0,0,0,0,5,2,4,2,1,1,4,4,7,6,1,1,,Active
 "Feb 21",98,P,05,6641278,"3DS Pune",20,22,10,0,0,0,0,0,0,6,2,5,2,1,2,4,4,7,6,2,1,,Active
 "Mar 21",98,P,05,6641278,"3DS Pune",20,26,10,0,0,0,0,0,0,7,2,5,2,1,2,4,8,7,6,2,1,,Active
-" "
 "Apr 19",98,P,01,7401244,"Katerra Toastmasters Club of Pune",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 19",98,P,01,7401244,"Katerra Toastmasters Club of Pune",20,28,3,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,1,1,,Active
 "Jun 19",98,P,01,7401244,"Katerra Toastmasters Club of Pune",20,28,3,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,1,1,,Active
@@ -13939,7 +13685,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,05,7401244,"Katerra Toastmasters Club of Pune",7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Ineligible
 "Feb 21",98,P,05,7401244,"Katerra Toastmasters Club of Pune",7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Ineligible
 "Mar 21",98,P,05,7401244,"Katerra Toastmasters Club of Pune",7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Ineligible
-" "
 "Dec 19",98,P,02,7711836,"Cisco Pune",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 20",98,P,02,7711836,"Cisco Pune",22,23,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Feb 20",98,P,02,7711836,"Cisco Pune",22,23,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,1,1,,Active
@@ -13956,7 +13701,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,05,7711836,"Cisco Pune",14,11,1,0,0,0,0,0,0,3,0,0,0,0,0,2,0,7,0,1,1,,Active
 "Feb 21",98,P,05,7711836,"Cisco Eloquence",14,11,2,0,0,0,0,0,0,3,0,0,0,0,0,2,0,7,4,1,1,,Active
 "Mar 21",98,P,05,7711836,"Cisco Eloquence",14,11,2,0,0,0,0,0,0,3,0,0,0,0,0,2,0,7,4,1,1,,Active
-" "
 "Jul 20",98,P,05,7798218,"Toastmasters for Pune Entrepreneurs 3.0",20,15,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,1,,Active
 "Aug 20",98,P,05,7798218,"Toastmasters for Pune Entrepreneurs 3.0",20,20,1,0,0,0,0,0,0,2,1,0,1,0,0,4,1,7,0,0,1,,Active
 "Sep 20",98,P,05,7798218,"Toastmasters for Pune Entrepreneurs 3.0",20,20,4,0,0,0,0,0,0,3,1,0,2,1,0,4,1,7,0,1,1,,Active
@@ -13966,7 +13710,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,P,05,7798218,"Toastmasters for Pune Entrepreneurs 3.0",20,24,9,0,0,0,0,0,0,3,2,2,2,1,2,4,5,7,4,1,1,,Active
 "Feb 21",98,P,05,7798218,"Toastmasters for Pune Entrepreneurs 3.0",20,24,9,0,0,0,0,0,0,3,2,2,2,1,3,4,5,7,7,1,1,,Active
 "Mar 21",98,P,05,7798218,"Toastmasters for Pune Entrepreneurs 3.0",20,27,10,0,0,0,0,0,0,4,2,2,2,1,3,4,8,7,7,2,1,,Active
-" "
 "Jan 17",98,A,03,5843297,"Mahindra Worli",30,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 17",98,A,03,5843297,"Mahindra Worli",30,30,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,Active
 "Mar 17",98,A,03,5843297,"Mahindra Worli",30,30,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,Active
@@ -14018,7 +13761,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,01,5843297,"Mahindra Worli",9,1,3,0,0,0,0,0,0,1,2,0,1,1,1,0,0,5,0,0,1,,Active
 "Feb 21",98,S,01,5843297,"Mahindra Worli",9,1,3,0,0,0,0,0,0,1,2,0,1,1,1,0,0,5,0,0,1,,Ineligible
 "Mar 21",98,S,01,5843297,"Mahindra Worli",9,1,3,0,0,0,0,0,0,1,2,0,1,1,1,0,0,5,0,0,1,,Ineligible
-" "
 "Jul 18",98,B,04,7065798,"SoBo Toasmasters",20,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 18",98,B,04,7065798,"SoBo Toasmasters",20,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,,Active
 "Sep 18",98,B,04,7065798,"SoBo Toasmasters",20,18,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,1,1,,Active
@@ -14052,7 +13794,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,01,7065798,Sobo,32,38,5,0,0,0,0,0,0,3,1,0,2,0,0,4,4,7,7,1,1,,Active
 "Feb 21",98,S,01,7065798,Sobo,32,38,5,0,0,0,0,0,0,3,1,0,2,0,0,4,4,7,7,1,1,,Active
 "Mar 21",98,S,01,7065798,Sobo,32,38,6,0,0,0,0,0,0,3,2,0,2,0,0,4,4,7,7,1,1,,Active
-" "
 "Nov 19",98,B,0A,7675957,"SBI Corporate Centre",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 19",98,B,04,7675957,"SBI Corporate Centre",43,43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 20",98,B,04,7675957,"SBI Corporate Centre",43,43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -14070,7 +13811,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,01,7675957,"SBI Corporate Centre",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,S,01,7675957,"SBI Corporate Centre",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,S,01,7675957,"SBI Corporate Centre",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "Jan 20",98,B,06,7702926,"Transunion Mumbai",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Feb 20",98,B,06,7702926,"Transunion Mumbai",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Mar 20",98,B,06,7702926,"Transunion Mumbai",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
@@ -14086,14 +13826,12 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,01,7702926,"Transunion Mumbai",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,,Active
 "Feb 21",98,S,01,7702926,"Transunion Mumbai",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,,Ineligible
 "Mar 21",98,S,01,7702926,"Transunion Mumbai",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,,Ineligible
-" "
 "Oct 20",98,S,01,7774241,Evergreen,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 20",98,S,01,7774241,Evergreen,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 20",98,S,01,7774241,Evergreen,21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 21",98,S,01,7774241,Evergreen,21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,Active
 "Feb 21",98,S,01,7774241,Evergreen,21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,Active
 "Mar 21",98,S,01,7774241,Evergreen,21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,Active
-" "
 "Feb 07",82,C,14,993448,,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Mar 07",82,C,14,993448,,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Apr 07",82,C,14,993448,,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -14263,7 +14001,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,02,993448,Mumbai,84,84,10,0,0,0,0,0,0,8,2,4,4,1,1,4,41,7,7,2,2,,Active
 "Feb 21",98,S,02,993448,Mumbai,84,86,10,0,0,0,0,0,0,11,2,7,4,1,1,4,43,7,7,2,2,,Active
 "Mar 21",98,S,02,993448,Mumbai,84,89,10,0,0,0,0,0,0,12,2,8,4,1,3,4,46,7,7,2,2,,Active
-" "
 "Mar 19",98,B,02,7290320,UPL,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Apr 19",98,B,02,7290320,UPL,24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "May 19",98,B,02,7290320,UPL,24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
@@ -14289,7 +14026,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,02,7290320,UPL,8,12,6,0,0,0,0,0,0,3,2,2,2,0,0,4,2,7,5,1,1,,Active
 "Feb 21",98,S,02,7290320,UPL,8,12,6,0,0,0,0,0,0,3,2,2,2,0,0,4,2,7,5,1,1,,Active
 "Mar 21",98,S,02,7290320,UPL,8,12,7,0,0,0,0,0,0,4,2,2,2,0,0,4,2,7,5,2,1,,Active
-" "
 "Aug 20",98,S,02,7655880,"GIA Toastmaster - India",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Sep 20",98,S,02,7655880,"GIA Toastmaster - India",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Oct 20",98,S,02,7655880,"GIA Toastmaster - India",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
@@ -14298,7 +14034,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,02,7655880,"GIA Toastmaster - India",24,24,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,4,1,1,,Active
 "Feb 21",98,S,02,7655880,"GIA Toastmaster - India",24,24,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,4,1,1,,Active
 "Mar 21",98,S,02,7655880,"GIA Toastmaster - India",24,24,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,4,1,1,,Active
-" "
 "Jan 20",98,B,06,7700494,CIPLA,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,B,06,7700494,CIPLA,20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Mar 20",98,B,06,7700494,CIPLA,20,21,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,1,1,,Active
@@ -14314,7 +14049,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,02,7700494,CIPLA,21,27,4,0,0,0,0,0,0,3,0,0,1,0,0,4,13,7,7,1,1,,Active
 "Feb 21",98,S,02,7700494,CIPLA,21,27,5,0,0,0,0,0,0,4,0,0,1,0,0,4,13,7,7,1,1,,Active
 "Mar 21",98,S,02,7700494,CIPLA,21,27,5,0,0,0,0,0,0,4,0,0,1,0,0,4,13,7,7,1,1,,Active
-" "
 "Jun 13",41,D,02,3217489,BM,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 13",41,D,02,3217489,BM,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 13",41,D,02,3217489,BM,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,1,,Active
@@ -14408,7 +14142,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,03,3217489,DADAR,23,25,9,0,0,0,0,0,0,4,2,3,1,1,1,4,6,7,7,2,1,,Active
 "Feb 21",98,S,03,3217489,DADAR,23,25,10,0,0,0,0,0,0,4,2,3,3,1,2,4,6,7,7,2,1,,Active
 "Mar 21",98,S,03,3217489,DADAR,23,27,10,0,0,0,0,0,0,7,2,3,3,1,4,4,8,7,7,2,1,,Active
-" "
 "Jul 15",98,A,03,5105254,"Barclays Mumbai TM",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 15",98,A,03,5105254,"Barclays Mumbai TM",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Sep 15",98,A,03,5105254,"Barclays Mumbai TM",24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -14476,7 +14209,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,03,5105254,Stellar,13,13,8,0,0,0,0,0,0,6,2,3,4,1,4,3,0,4,4,1,1,,Active
 "Feb 21",98,S,03,5105254,Stellar,13,13,8,0,0,0,0,0,0,6,2,3,4,1,4,3,0,4,4,1,1,,Active
 "Mar 21",98,S,03,5105254,Stellar,13,13,8,0,0,0,0,0,0,6,2,3,4,1,4,3,0,4,4,1,1,,Active
-" "
 "Jan 20",98,B,05,7709516,"Acuris Mumbai",51,51,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,B,05,7709516,"Acuris Mumbai",51,51,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Mar 20",98,B,05,7709516,"Acuris Mumbai",51,51,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
@@ -14492,22 +14224,18 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,03,7709516,"Acuris Mumbai",61,4,2,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,0,0,1,,Active
 "Feb 21",98,S,03,7709516,"Acuris Mumbai",61,4,2,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,0,0,1,,Low
 "Mar 21",98,S,03,7709516,"Acuris Mumbai",61,4,2,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,0,0,1,,Low
-" "
 "Nov 20",98,S,03,7828863,"Toastmasters United",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 20",98,S,03,7828863,"Toastmasters United",20,20,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 21",98,S,03,7828863,"Toastmasters United",20,20,3,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,7,1,1,,Active
 "Feb 21",98,S,03,7828863,"Toastmasters United",20,20,5,0,0,0,0,0,0,2,2,0,1,1,2,0,0,0,7,1,1,,Active
 "Mar 21",98,S,03,7828863,"Toastmasters United",20,20,6,0,0,0,0,0,0,2,2,0,2,1,2,0,0,0,7,1,1,,Active
-" "
 "Oct 20",98,S,03,7829534,"Toastmasters Club For Mumbai CAs",21,22,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Nov 20",98,S,03,7829534,"Toastmasters Club For Mumbai CAs",21,22,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Dec 20",98,S,03,7829534,"Toastmasters Club For Mumbai CAs",21,22,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,,Active
 "Jan 21",98,S,03,7829534,"Toastmasters Club For Mumbai CAs",21,22,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3,1,1,,Active
 "Feb 21",98,S,03,7829534,"Toastmasters Club For Mumbai CAs",21,22,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,1,1,,Active
 "Mar 21",98,S,03,7829534,"Toastmasters Club For Mumbai CAs",21,22,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,1,1,,Active
-" "
 "Mar 21",98,S,03,7861075,Hindalco,43,43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
-" "
 "Jul 04",U,,0,616631,,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 04",U,,0,616631,,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Sep 04",U,,0,616631,,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -14704,7 +14432,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,04,616631,"TCS Maitree",72,45,10,0,0,0,0,0,0,13,2,2,2,1,2,4,16,7,7,1,2,,Active
 "Feb 21",98,S,04,616631,"TCS Maitree",72,59,10,0,0,0,0,0,0,13,2,3,2,1,2,4,30,7,7,2,2,,Active
 "Mar 21",98,S,04,616631,"TCS Maitree",72,66,10,0,0,0,0,0,0,14,2,3,2,1,3,4,37,7,7,2,2,,Active
-" "
 "Jun 19",98,B,05,6886479,"BKC Fireflies",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,B,05,6886479,"BKC Fireflies",21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 19",98,B,05,6886479,"BKC Fireflies",21,24,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7,0,0,1,,Active
@@ -14727,7 +14454,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,04,6886479,"BKC Fireflies",17,22,4,0,0,0,0,0,0,1,1,0,0,0,0,4,4,7,5,2,1,,Active
 "Feb 21",98,S,04,6886479,"BKC Fireflies",17,25,4,0,0,0,0,0,0,1,1,0,0,0,0,4,7,7,5,2,1,,Active
 "Mar 21",98,S,04,6886479,"BKC Fireflies",17,25,5,0,0,0,0,0,0,1,2,0,1,0,0,4,7,7,5,2,1,,Active
-" "
 "Apr 18",98,A,04,6926213,"CGI Mumbai",20,36,2,0,0,0,0,0,0,0,0,0,0,0,0,4,12,0,0,0,1,,Active
 "May 18",98,A,04,6926213,"CGI Mumbai",20,36,3,0,0,0,0,0,0,0,0,0,0,0,0,4,12,0,0,1,1,,Active
 "Jun 18",98,A,04,6926213,"CGI Mumbai",20,36,3,0,0,0,0,0,0,0,0,0,0,0,0,4,12,0,0,1,1,,Active
@@ -14764,7 +14490,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,04,6926213,"CGI Mumbai",9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,,Active
 "Feb 21",98,S,04,6926213,"CGI Mumbai",9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,,Ineligible
 "Mar 21",98,S,04,6926213,"CGI Mumbai",9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,,Ineligible
-" "
 "Jun 20",98,B,02,7749915,"L&T Toastmasters Club, Powai Chapter",20,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 20",98,S,04,7749915,"L&T Toastmasters Club, Powai Chapter",26,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 20",98,S,04,7749915,"L&T Toastmasters Club, Powai Chapter",26,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
@@ -14775,10 +14500,8 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,04,7749915,"L&T Toastmasters Club, Powai Chapter",26,27,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,7,7,1,2,,Active
 "Feb 21",98,S,04,7749915,"L&T Toastmasters Club, Powai Chapter",26,27,3,0,0,0,0,0,0,4,1,0,0,0,0,1,0,7,7,1,2,,Active
 "Mar 21",98,S,04,7749915,"L&T Toastmasters Club, Powai Chapter",26,27,4,0,0,0,0,0,0,5,2,0,0,0,0,1,0,7,7,2,2,,Active
-" "
 "Feb 21",98,S,04,7833944,Marico,35,35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
 "Mar 21",98,S,04,7833944,Marico,35,35,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,Active
-" "
 "Jan 18",98,M,03,6778709,"HUL - R&D",21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,Active
 "Feb 18",98,M,03,6778709,"HUL - R&D",21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,Active
 "Mar 18",98,M,03,6778709,"HUL - R&D",21,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,Active
@@ -14818,7 +14541,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,05,6778709,"HUL - R&D",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Feb 21",98,S,05,6778709,"HUL - R&D",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
 "Mar 21",98,S,05,6778709,"HUL - R&D",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ineligible
-" "
 "May 19",98,M,06,7434194,UltraTech,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 19",98,M,06,7434194,UltraTech,29,29,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,B,04,7434194,UltraTech,29,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
@@ -14842,7 +14564,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,05,7434194,UltraTech,20,9,1,0,0,0,0,0,0,3,0,0,0,0,0,2,0,7,3,1,1,,Active
 "Feb 21",98,S,05,7434194,UltraTech,20,9,2,0,0,0,0,0,0,3,0,0,0,0,0,2,0,7,4,1,1,,Active
 "Mar 21",98,S,05,7434194,UltraTech,20,9,2,0,0,0,0,0,0,3,0,0,0,0,0,2,0,7,4,1,1,,Active
-" "
 "Aug 19",98,B,03,7549134,"Andheri Orators",20,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Sep 19",98,B,03,7549134,"Andheri Orators",20,18,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,1,1,,Active
 "Oct 19",98,B,03,7549134,"Andheri Orators",20,23,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7,0,1,1,,Active
@@ -14863,7 +14584,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,05,7549134,"Andheri Orators",20,34,10,0,0,0,0,0,0,10,2,4,4,1,2,4,16,7,7,1,1,,Active
 "Feb 21",98,S,05,7549134,"Andheri Orators",20,36,10,0,0,0,0,0,0,12,2,6,4,1,2,4,18,7,7,1,1,,Active
 "Mar 21",98,S,05,7549134,"Andheri Orators",20,36,10,0,0,0,0,0,0,15,2,12,4,1,4,4,18,7,7,2,1,,Active
-" "
 "Jan 20",98,B,05,7677706,"Santacruz Speakers",20,13,3,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,,Active
 "Feb 20",98,B,05,7677706,"Santacruz Speakers",20,14,5,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,7,1,1,,Active
 "Mar 20",98,B,05,7677706,"Santacruz Speakers",20,14,6,1,0,1,0,1,1,0,0,0,0,0,1,1,0,0,7,1,1,,Active
@@ -14879,14 +14599,12 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,S,05,7677706,"Santacruz Speakers",22,24,10,0,0,0,0,0,0,8,2,3,3,1,3,4,4,7,7,2,1,,Active
 "Feb 21",98,S,05,7677706,"Santacruz Speakers",22,24,10,0,0,0,0,0,0,8,2,3,3,1,3,4,4,7,7,2,1,,Active
 "Mar 21",98,S,05,7677706,"Santacruz Speakers",22,25,10,0,0,0,0,0,0,8,2,4,4,1,3,4,5,7,7,2,1,,Active
-" "
 "Oct 20",98,S,05,7807819,"The Talking Tree",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 20",98,S,05,7807819,"The Talking Tree",26,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 20",98,S,05,7807819,"The Talking Tree",26,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 21",98,S,05,7807819,"The Talking Tree",26,26,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,,Active
 "Feb 21",98,S,05,7807819,"The Talking Tree",26,26,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,,Active
 "Mar 21",98,S,05,7807819,"The Talking Tree",26,26,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,,Active
-" "
 "Jun 10",82,D,04,1214543,"GOA YMCA",20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 10",82,M,02,1214543,"GOA YMCA",21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Aug 10",82,M,02,1214543,"GOA YMCA",21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,,Active
@@ -15016,7 +14734,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,01,1214543,"GOA YMCA",17,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,2,1,,Active
 "Feb 21",98,W,01,1214543,"GOA YMCA",17,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,2,1,,Active
 "Mar 21",98,W,01,1214543,"GOA YMCA",17,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,2,1,,Active
-" "
 "Jul 14",41,E,06,4361333,Mapusa,20,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 14",41,E,06,4361333,Mapusa,20,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Sep 14",41,E,06,4361333,Mapusa,20,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -15097,7 +14814,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,01,4361333,Mapusa,14,16,6,0,0,0,0,0,0,0,2,0,1,1,1,4,2,7,4,1,1,,Active
 "Feb 21",98,W,01,4361333,Mapusa,14,16,6,0,0,0,0,0,0,0,2,0,1,1,1,4,2,7,7,1,1,,Active
 "Mar 21",98,W,01,4361333,Mapusa,14,16,6,0,0,0,0,0,0,0,2,0,1,1,1,4,2,7,7,1,1,,Active
-" "
 "Apr 18",98,M,05,6941455,Porvorim,20,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 18",98,M,05,6941455,Porvorim,20,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 18",98,M,05,6941455,Porvorim,20,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -15134,7 +14850,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,01,6941455,Porvorim,8,9,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,0,1,0,,Active
 "Feb 21",98,W,01,6941455,Porvorim,8,9,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,6,1,0,,Active
 "Mar 21",98,W,01,6941455,Porvorim,8,9,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,6,1,0,,Active
-" "
 "Jun 19",98,M,05,7441712,"Siemens Goa",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jul 19",98,M,05,7441712,"Siemens Goa",21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Aug 19",98,M,05,7441712,"Siemens Goa",21,23,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,0,1,,Active
@@ -15157,7 +14872,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,01,7441712,"Siemens Goa",20,15,4,0,0,0,0,0,0,4,2,0,0,0,0,4,1,6,1,1,1,,Active
 "Feb 21",98,W,01,7441712,"Siemens Goa",20,15,5,0,0,0,0,0,0,4,2,0,0,0,0,4,1,6,7,1,1,,Active
 "Mar 21",98,W,01,7441712,"Siemens Goa",20,15,5,0,0,0,0,0,0,4,2,0,0,0,0,4,1,6,7,1,1,,Active
-" "
 "Sep 20",98,W,01,7783728,Ponda,20,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Oct 20",98,W,01,7783728,Ponda,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Nov 20",98,W,01,7783728,Ponda,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -15165,7 +14879,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,01,7783728,Ponda,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,1,1,,Active
 "Feb 21",98,W,01,7783728,Ponda,20,21,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,7,1,1,,Active
 "Mar 21",98,W,01,7783728,Ponda,20,10,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,7,1,1,,Active
-" "
 "Jun 12",41,E,03,2575847,"Toastmasters International Margao",20,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 12",41,E,03,2575847,"Toastmasters International Margao",16,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
 "Aug 12",41,E,03,2575847,"Toastmasters International Margao",16,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,,Active
@@ -15271,7 +14984,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,02,2575847,"Toastmasters International Margao",20,13,5,0,0,0,0,0,0,2,2,0,4,1,1,1,0,7,1,1,1,,Active
 "Feb 21",98,W,02,2575847,"Toastmasters International Margao",20,13,5,0,0,0,0,0,0,2,2,0,4,1,2,1,0,7,2,1,1,,Active
 "Mar 21",98,W,02,2575847,"Toastmasters International Margao",20,13,5,0,0,0,0,0,0,2,2,0,4,1,2,1,0,7,2,1,1,,Active
-" "
 "Jun 13",41,E,03,3214306,"International Centre GOA (ICG)",20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Active
 "Jul 13",41,I,03,3214306,"International Centre GOA (ICG)",18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,,Active
 "Aug 13",41,I,03,3214306,"International Centre GOA (ICG)",18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
@@ -15365,7 +15077,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,02,3214306,"International Centre GOA (ICG)",28,33,10,0,0,0,0,0,0,6,2,3,3,1,2,4,7,7,7,1,1,,Active
 "Feb 21",98,W,02,3214306,"International Centre GOA (ICG)",28,33,10,0,0,0,0,0,0,8,2,4,3,1,2,4,7,7,7,1,1,,Active
 "Mar 21",98,W,02,3214306,"International Centre GOA (ICG)",28,36,10,0,0,0,0,0,0,9,2,4,3,1,2,4,10,7,7,1,1,,Active
-" "
 "Sep 17",98,M,04,6656843,"ANA FONTE TOASTMASTERS CLUB",20,9,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,Active
 "Oct 17",98,M,04,6656843,"ANA FONTE TOASTMASTERS CLUB",20,16,3,1,0,1,0,1,2,0,0,0,0,0,0,1,0,0,0,0,1,,Active
 "Nov 17",98,M,04,6656843,"ANA FONTE TOASTMASTERS CLUB",20,16,3,1,0,1,0,1,2,0,0,0,0,0,0,1,0,7,0,0,1,,Active
@@ -15409,7 +15120,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,02,6656843,"Ana Fonte",20,18,2,0,0,0,0,0,0,3,1,0,0,0,0,3,0,7,4,1,1,,Active
 "Feb 21",98,W,02,6656843,"Ana Fonte",20,21,3,0,0,0,0,0,0,3,1,0,0,0,0,4,3,7,4,1,1,,Active
 "Mar 21",98,W,02,6656843,"Ana Fonte",20,21,4,0,0,0,0,0,0,3,2,0,0,0,0,4,3,7,4,1,1,,Active
-" "
 "Jan 20",98,M,04,7708785,"Teva Goa",22,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 20",98,M,04,7708785,"Teva Goa",22,22,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,1,,Active
 "Mar 20",98,M,04,7708785,"Teva Goa",22,22,4,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,7,1,1,,Active
@@ -15425,7 +15135,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,02,7708785,"Innovators Toastmasters Club.",22,8,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,1,1,1,,Active
 "Feb 21",98,W,02,7708785,"Innovators Toastmasters Club.",22,8,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,3,1,1,,Active
 "Mar 21",98,W,02,7708785,"Innovators Toastmasters Club.",22,8,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,4,1,1,,Active
-" "
 "Aug 20",98,W,02,7783722,Vasco,20,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,,Active
 "Sep 20",98,W,02,7783722,Vasco,20,19,1,0,0,0,0,0,0,2,0,0,0,0,0,2,0,7,0,1,1,,Active
 "Oct 20",98,W,02,7783722,Vasco,20,23,1,0,0,0,0,0,0,2,0,0,0,0,0,3,0,7,0,1,1,,Active
@@ -15434,7 +15143,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,02,7783722,Vasco,20,23,2,0,0,0,0,0,0,3,1,0,0,0,0,3,0,7,7,1,1,,Active
 "Feb 21",98,W,02,7783722,Vasco,20,22,3,0,0,0,0,0,0,4,1,0,0,0,0,3,0,7,7,1,1,,Active
 "Mar 21",98,W,02,7783722,Vasco,20,24,4,0,0,0,0,0,0,4,1,0,0,0,0,4,1,7,7,1,1,,Active
-" "
 "Jul 15",98,D,04,5094604,"Citi eXpressions",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Aug 15",98,D,04,5094604,"Citi eXpressions",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Sep 15",98,D,04,5094604,"Citi eXpressions",20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -15502,7 +15210,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,03,5094604,"Citi eXpressions",21,16,4,0,0,0,0,0,0,3,2,0,0,0,0,4,0,7,4,1,2,,Active
 "Feb 21",98,W,03,5094604,"Citi eXpressions",21,16,4,0,0,0,0,0,0,3,2,0,0,0,0,4,0,7,4,1,2,,Active
 "Mar 21",98,W,03,5094604,"Citi eXpressions",21,16,4,0,0,0,0,0,0,3,2,0,0,0,0,4,0,7,4,1,2,,Active
-" "
 "Apr 17",98,D,02,6090346,"Toastmasters Club of Allscripts Pune",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "May 17",98,D,02,6090346,"Toastmasters Club of Allscripts Pune",45,45,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jun 17",98,D,02,6090346,"Toastmasters Club of Allscripts Pune",45,45,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -15551,7 +15258,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,03,6090346,"Toastmasters Club of Allscripts Pune",13,16,8,0,0,0,0,0,0,4,2,0,3,1,1,4,1,7,4,1,2,,Active
 "Feb 21",98,W,03,6090346,"Toastmasters Club of Allscripts Pune",13,18,8,0,0,0,0,0,0,5,2,0,3,1,2,4,3,7,4,1,2,,Active
 "Mar 21",98,W,03,6090346,"Toastmasters Club of Allscripts Pune",13,18,8,0,0,0,0,0,0,6,2,0,4,1,4,4,3,7,4,2,2,,Active
-" "
 "Aug 18",98,O,02,7084394,Impressions,20,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,,Active
 "Sep 18",98,O,02,7084394,Impressions,20,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,1,1,,Active
 "Oct 18",98,O,02,7084394,Impressions,20,22,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,0,1,1,,Active
@@ -15584,7 +15290,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,03,7084394,Impressions,13,23,4,0,0,0,0,0,0,0,0,0,0,0,0,4,9,7,5,1,2,,Active
 "Feb 21",98,W,03,7084394,Impressions,13,23,4,0,0,0,0,0,0,0,0,0,0,0,0,4,9,7,5,1,2,,Active
 "Mar 21",98,W,03,7084394,Impressions,13,23,4,0,0,0,0,0,0,0,0,0,0,0,0,4,9,7,5,1,2,,Active
-" "
 "May 19",98,D,01,7300474,Kharadi,20,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,Active
 "Jun 19",98,D,01,7300474,Kharadi,20,22,5,0,0,0,0,1,1,1,0,0,0,0,0,4,0,0,6,1,1,D,Active
 "Jul 19",98,D,01,7300474,Kharadi,22,25,1,0,0,0,0,1,0,1,0,0,0,0,0,3,0,7,0,0,1,,Active
@@ -15608,7 +15313,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,03,7300474,Kharadi,36,28,10,0,0,0,0,0,0,5,2,4,2,1,3,4,4,7,4,1,2,,Active
 "Feb 21",98,W,03,7300474,Kharadi,36,29,10,0,0,0,0,0,0,5,2,5,2,1,3,4,5,7,4,1,2,,Active
 "Mar 21",98,W,03,7300474,Kharadi,36,31,10,0,0,0,0,0,0,5,2,5,2,1,3,4,7,7,4,2,2,,Active
-" "
 "Nov 07",82,D,13,1114159,,20,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,,Active
 "Dec 07",82,D,13,1114159,,20,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,,Active
 "Jan 08",82,D,13,1114159,Eaton,20,33,2,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,2,,Active
@@ -15769,7 +15473,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,04,1114159,Eaton,11,14,5,0,0,0,0,0,0,1,1,0,1,1,0,4,4,5,4,1,2,,Active
 "Feb 21",98,W,04,1114159,Eaton,11,14,5,0,0,0,0,0,0,2,1,0,1,1,0,4,4,5,7,1,2,,Active
 "Mar 21",98,W,04,1114159,Eaton,11,14,6,0,0,0,0,0,0,2,2,0,1,1,0,4,4,5,7,1,2,,Active
-" "
 "Nov 17",98,P,04,6746425,"NOS Toastmasters Club - Pune",20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 17",98,P,04,6746425,"NOS Toastmasters Club - Pune",20,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 18",98,P,04,6746425,"NOS Toastmasters Club - Pune",20,17,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,,Active
@@ -15811,7 +15514,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,04,6746425,"NOS Toastmasters Club - Pune",10,21,4,0,0,0,0,0,0,1,0,0,0,0,0,4,11,5,5,1,2,,Active
 "Feb 21",98,W,04,6746425,"NOS Toastmasters Club - Pune",10,21,4,0,0,0,0,0,0,1,0,0,0,0,0,4,11,5,7,1,2,,Active
 "Mar 21",98,W,04,6746425,"NOS Toastmasters Club - Pune",10,21,4,0,0,0,0,0,0,2,0,0,0,0,0,4,11,5,7,1,2,,Active
-" "
 "Mar 19",98,O,01,7166870,"PTC Marisoft",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Apr 19",98,O,01,7166870,"PTC Marisoft",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "May 19",98,O,01,7166870,"PTC Marisoft",20,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
@@ -15837,7 +15539,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,04,7166870,"PTC Marisoft",16,20,5,0,0,0,0,0,0,2,2,1,0,0,0,4,4,7,5,1,2,,Active
 "Feb 21",98,W,04,7166870,"PTC Marisoft",16,20,5,0,0,0,0,0,0,2,2,1,0,0,0,4,4,7,7,1,2,,Active
 "Mar 21",98,W,04,7166870,"PTC Marisoft",16,20,5,0,0,0,0,0,0,2,2,1,0,0,0,4,4,7,7,1,2,,Active
-" "
 "Nov 19",98,O,05,7616576,"Majesco Pune",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Dec 19",98,O,05,7616576,"Majesco Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Jan 20",98,O,05,7616576,"Majesco Pune",21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
@@ -15855,7 +15556,6 @@ Month,dist,division,area,Club #,Clubs,Member Base,Member T/Date,Goals T/Date,cc,
 "Jan 21",98,W,04,7616576,"Majesco Pune",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Active
 "Feb 21",98,W,04,7616576,"Majesco Pune",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Ineligible
 "Mar 21",98,W,04,7616576,"Majesco Pune",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,,Ineligible
-" "
 "Jan 21",98,W,04,7856700,Evolent,24,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,Active
 "Feb 21",98,W,04,7856700,Evolent,24,24,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
 "Mar 21",98,W,04,7856700,Evolent,24,24,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,,Active
